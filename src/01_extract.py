@@ -120,19 +120,27 @@ def _read_one(path: Path) -> pd.DataFrame:
 
     if _is_flat_header(raw):
         data = raw.iloc[1:].copy()
+        # Fila tal como se ve en la hoja de calculo (Excel/LibreOffice
+        # empiezan a contar en 1): sirve para localizar el registro
+        # original a mano si hace falta justificarlo en la defensa.
+        data["fila_origen"] = data.index + 1
         data = data.rename(columns=FLAT_HEADER_POSITIONS)
-        data = data[[c for c in FLAT_HEADER_POSITIONS.values()]]
+        data = data[[c for c in FLAT_HEADER_POSITIONS.values()] + ["fila_origen"]]
         data["tipo_contrato"] = pd.NA
     else:
         header_row_idx = _find_header_row(raw)
         mapping = _map_header(raw.iloc[header_row_idx])
         data = raw.iloc[header_row_idx + 2 :].copy()
+        data["fila_origen"] = data.index + 1
         data = data.rename(columns=mapping)
-        data = data[[c for c in mapping.values()]]
+        data = data[[c for c in mapping.values()] + ["fila_origen"]]
 
+    total_antes = len(data)
     # Descarta filas de relleno sin referencia (huecos al final del rango
     # de celdas de la hoja, frecuentes en los .ods).
     data = data[data["referencia"].notna() & (data["referencia"].astype(str).str.strip() != "")]
+    descartadas = total_antes - len(data)
+    print(f"  {path.name}: {descartadas} filas de relleno descartadas (de {total_antes})")
     return data
 
 
@@ -146,7 +154,7 @@ def extract() -> pd.DataFrame:
         for col in CANONICAL_COLUMNS:
             if col not in df.columns:
                 df[col] = pd.NA
-        df = df[CANONICAL_COLUMNS].copy()
+        df = df[CANONICAL_COLUMNS + ["fila_origen"]].copy()
         df["anio"] = year
         df["trimestre"] = quarter
         df["fichero_origen"] = filename
