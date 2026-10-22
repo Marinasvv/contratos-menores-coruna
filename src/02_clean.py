@@ -142,6 +142,21 @@ def _normalize_tipo_contrato(valor):
     return TIPO_CONTRATO_MAP.get(v, str(valor).strip())
 
 
+def _normalize_espacios(serie: pd.Series) -> pd.Series:
+    """Colapsa espacios dobles/sueltos y quita el espacio antes de una coma
+    (p. ej. 'ANTELO LAVANDEIRA , CLAUDIO' -> 'ANTELO LAVANDEIRA, CLAUDIO').
+    Es una regla general de formato, no una correccion de un caso concreto:
+    sin ella, 1.795 filas de 'empresa_adjudicataria' y 1.154 de 'objeto'
+    tendrian variantes de la misma persona/texto partidas por un espacio,
+    lo que rompe cualquier cosa que agrupe por ese campo mas adelante
+    (p. ej. dim_empresa en el modelo de Snowflake).
+    """
+    s = serie.str.strip()
+    s = s.str.replace(r"\s+", " ", regex=True)
+    s = s.str.replace(r"\s+,", ",", regex=True)
+    return s
+
+
 def _normalize_nif(valor):
     if pd.isna(valor):
         return NO_DISPONIBLE
@@ -161,8 +176,9 @@ def clean() -> pd.DataFrame:
     )
 
     # 1. Tipos y formatos
-    df["empresa_adjudicataria"] = df["empresa_adjudicataria"].str.strip()
+    df["empresa_adjudicataria"] = _normalize_espacios(df["empresa_adjudicataria"])
     df["empresa_adjudicataria"] = df["empresa_adjudicataria"].replace(NOMBRE_EMPRESA_CORRECCIONES)
+    df["objeto"] = _normalize_espacios(df["objeto"])
     df["fecha_adjudicacion"] = _parse_fecha(df["fecha_adjudicacion"])
     df["importe"] = df["importe"].apply(_parse_importe)
     df["tipo_contrato"] = df["tipo_contrato"].apply(_normalize_tipo_contrato)
