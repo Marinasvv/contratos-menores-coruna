@@ -1,0 +1,2323 @@
+empresa_key,nif,nombre_normalizado,tipo_persona,forma_juridica
+-1,no disponible,no disponible,no disponible,no disponible
+1,*****,"SALAMANCA ACEVEDO, ROSA MARIA",Persona juridica,Forma juridica no identificada
+2,*,"ABAD PRIETO, OLGA MARIA",Persona fisica anonimizada,no disponible
+3,*,"ABELENDA HERMIDA, ANA ISABEL",Persona fisica anonimizada,no disponible
+4,*,"ABELENDA HERMIDA, ANTONIO",Persona fisica anonimizada,no disponible
+5,*,"ADURIZ MENDILUCE, MARIA JOSE",Persona fisica anonimizada,no disponible
+6,*,"AGUIAR BAÑA, MAXIMINO MANUEL",Persona fisica anonimizada,no disponible
+7,*,"ALBERTOS FIGUEROA, BEGOÑA",Persona fisica anonimizada,no disponible
+8,*,"ALBO LOPEZ, MARIA FUENSANTA GLOR",Persona fisica anonimizada,no disponible
+9,*,"ALDANA ALBORES, JAIRO",Persona fisica anonimizada,no disponible
+10,*,"ALDAO SANCHEZ, LUCIA",Persona fisica anonimizada,no disponible
+11,*,"ALDEA MOSCOSO, JOSE MANUEL",Persona fisica anonimizada,no disponible
+12,*,"ALONSO ALONSO, JULIO",Persona fisica anonimizada,no disponible
+13,*,"ALVAREZ FOUZ, JORGE",Persona fisica anonimizada,no disponible
+14,*,"ALVAREZ GARCIA, JAIME",Persona fisica anonimizada,no disponible
+15,*,"ALVAREZ JIMENEZ, RAUL",Persona fisica anonimizada,no disponible
+16,*,"ALVAREZ LATA, IRENE",Persona fisica anonimizada,no disponible
+17,*,"ALVAREZ RENDO, RICARDO JOSE",Persona fisica anonimizada,no disponible
+18,*,"ALVAREZ RUA, JORGE",Persona fisica anonimizada,no disponible
+19,*,"AMADO LORENZO, ANTONIO GONZALO",Persona fisica anonimizada,no disponible
+20,*,"AMADO PAZOS, ROBERTO",Persona fisica anonimizada,no disponible
+21,*,"AMIL SERANTES, FRANCISCO",Persona fisica anonimizada,no disponible
+22,*,"ANGULO MIRO, PATRICIA MARIA",Persona fisica anonimizada,no disponible
+23,*,"ANLLO MORAN, ANIBAL",Persona fisica anonimizada,no disponible
+24,*,"ANTELO LAVANDEIRA, CLAUDIO",Persona fisica anonimizada,no disponible
+25,*,"APARICI FEAL, BEATRIZ",Persona fisica anonimizada,no disponible
+26,*,ARCAY CERRAJEROS. ANTONIO CASTRO PENA,Persona fisica anonimizada,no disponible
+27,*,"ARES CES, VICTOR MANUEL",Persona fisica anonimizada,no disponible
+28,*,"ARES IGLESIAS, JULIA",Persona fisica anonimizada,no disponible
+29,*,"ARES IGLESIAS, MARIA JULIA",Persona fisica anonimizada,no disponible
+30,*,"ARMENTEROS LEON, CARLOS",Persona fisica anonimizada,no disponible
+31,*,"AVELLA PEREIRA, SANDRA",Persona fisica anonimizada,no disponible
+32,*,"BAO FRAGA, ALVARO",Persona fisica anonimizada,no disponible
+33,*,"BARBEITO BELLO, CARLOS",Persona fisica anonimizada,no disponible
+34,*,"BARRAL NÚÑEZ, MAR",Persona fisica anonimizada,no disponible
+35,*,"BARREIRA FREIRE, ANDREA",Persona fisica anonimizada,no disponible
+36,*,"BARREIRO FERNANDEZ, NOA",Persona fisica anonimizada,no disponible
+37,*,"BARREIRO RAMOS, PILAR C.",Persona fisica anonimizada,no disponible
+38,*,"BARROS GUERTON, CARLOS",Persona fisica anonimizada,no disponible
+39,*,"BARROS VAZQUEZ, ANGEL",Persona fisica anonimizada,no disponible
+40,*,"BARROS VAZQUEZ,ANGEL",Persona fisica anonimizada,no disponible
+41,*,"BASANTA PARDO, FRANCISCO JOSE",Persona fisica anonimizada,no disponible
+42,*,"BEA ESPINAR, RAFAEL",Persona fisica anonimizada,no disponible
+43,*,"BEAUMONT HERNÁNDEZ, ANA",Persona fisica anonimizada,no disponible
+44,*,"BECERRO MANSO, MARTA",Persona fisica anonimizada,no disponible
+45,*,"BELLO VAZQUEZ, JUAN CARLOS",Persona fisica anonimizada,no disponible
+46,*,"BENTANCUR LAGO, DIEGO RODRIGO",Persona fisica anonimizada,no disponible
+47,*,"BERNAL CONSTENLA, MARIA ROCIO",Persona fisica anonimizada,no disponible
+48,*,"BESIGA DIAZ BLANCO, JULIO",Persona fisica anonimizada,no disponible
+49,*,"BESIGA DIAZ-BLANCO, JULIO",Persona fisica anonimizada,no disponible
+50,*,"BLANCO CHAO, JORGE RAMON",Persona fisica anonimizada,no disponible
+51,*,"BLANCO MIRA, LARA MARIA",Persona fisica anonimizada,no disponible
+52,*,"BLANCO RODRIGUEZ, MARIA",Persona fisica anonimizada,no disponible
+53,*,"BLANCO VAZQUEZ, MARIA",Persona fisica anonimizada,no disponible
+54,*,"BOGA MOSCOSO, MARGARITA",Persona fisica anonimizada,no disponible
+55,*,"BORRAS VIGO, MONICA",Persona fisica anonimizada,no disponible
+56,*,"BOTANA TAIBO, LIDIA",Persona fisica anonimizada,no disponible
+57,*,"BOUZAS SEIJO, JOSE ANTONIO",Persona fisica anonimizada,no disponible
+58,*,"BUELA, ARIANA",Persona fisica anonimizada,no disponible
+59,*,"CABALEIRO FERREIRO, PAULA MARIA",Persona fisica anonimizada,no disponible
+60,*,"CABALLERO VARELA, JESUS",Persona fisica anonimizada,no disponible
+61,*,"CABANES FONTAO, ANA MARIA",Persona fisica anonimizada,no disponible
+62,*,"CABRERA PARADELA, SORAYA MARÍA",Persona fisica anonimizada,no disponible
+63,*,"CALAZA MARTINEZ, PEDRO JOSE",Persona fisica anonimizada,no disponible
+64,*,"CALVIÑO PAZOS, MANUEL",Persona fisica anonimizada,no disponible
+65,*,"CALVIÑO REY, JOSE MANUEL",Persona fisica anonimizada,no disponible
+66,*,"CAMAÑEZ FARIÑA, ALBA",Persona fisica anonimizada,no disponible
+67,*,"CAMBON LANDEIRA, JESUS MANUEL",Persona fisica anonimizada,no disponible
+68,*,"CAMPILLO MENDEZ, JOSE CESAR",Persona fisica anonimizada,no disponible
+69,*,"CAMPOS FERNANDEZ, ALFONSO",Persona fisica anonimizada,no disponible
+70,*,"CAMPOS SUAREZ, LAURA",Persona fisica anonimizada,no disponible
+71,*,"CANDAL CALZA, JOSE RAMON",Persona fisica anonimizada,no disponible
+72,*,"CANOSA BLANCO, MARÍA",Persona fisica anonimizada,no disponible
+73,*,"CANOSA BUA, JOSE MANUEL",Persona fisica anonimizada,no disponible
+74,*,"CAPDEVILA GONZÁLEZ, BERTA",Persona fisica anonimizada,no disponible
+75,*,"CAPELAN PEREIRA, RUBEN",Persona fisica anonimizada,no disponible
+76,*,"CARAMES SALES, ANXELA",Persona fisica anonimizada,no disponible
+77,*,"CARRASCO MONTEJO, MARIA BELEN",Persona fisica anonimizada,no disponible
+78,*,"CARRILLO RODRIGUEZ, REBECA",Persona fisica anonimizada,no disponible
+79,*,"CASTAÑO PEREIRA, ALBERTO EMILIO",Persona fisica anonimizada,no disponible
+80,*,"CASTAÑO PEREIRA, YOLANDA",Persona fisica anonimizada,no disponible
+81,*,"CASTAÑO PEREIRA,YOLANDA",Persona fisica anonimizada,no disponible
+82,*,"CASTELLANOS REY, SARA",Persona fisica anonimizada,no disponible
+83,*,"CASTILLO DIAZ, JAVIER",Persona fisica anonimizada,no disponible
+84,*,"CASTILLO SILVARES, MARIA ELENA",Persona fisica anonimizada,no disponible
+85,*,"CASTRO BUSTO, MARCOS",Persona fisica anonimizada,no disponible
+86,*,"CASTRO CORRAL, VICENTE",Persona fisica anonimizada,no disponible
+87,*,"CASTRO IGLESIAS, ROBERTO",Persona fisica anonimizada,no disponible
+88,*,"CASTRO MARTIN, IGNACIO",Persona fisica anonimizada,no disponible
+89,*,"CASTRO PENA, ANTONIO",Persona fisica anonimizada,no disponible
+90,*,"CASTROMIL DOTRAS, LETICIA DE LA CONSOL",Persona fisica anonimizada,no disponible
+91,*,"CERDEIRA CASTIÑEIRAS, FRANCISCO MANUEL",Persona fisica anonimizada,no disponible
+92,*,"CERVIÑO VILA, MARIA ELENA",Persona fisica anonimizada,no disponible
+93,*,"CHAO ALVAREZ, FRANCISCO JAVIER",Persona fisica anonimizada,no disponible
+94,*,"COLLAZO GÓMEZ, CRISTINA",Persona fisica anonimizada,no disponible
+95,*,"CONCEJO MARTINEZ, YAGO",Persona fisica anonimizada,no disponible
+96,*,"CORTACANS MONTFERRER, MARTA",Persona fisica anonimizada,no disponible
+97,*,"COSTAS ALVAREZ, LEDICIA",Persona fisica anonimizada,no disponible
+98,*,"COUCEIRO FRANCOS, JOSE ANTONIO",Persona fisica anonimizada,no disponible
+99,*,"COUCEIRO GANDARAS, JOSE MARIA",Persona fisica anonimizada,no disponible
+100,*,"COUCEIRO GARCIA, ABEL",Persona fisica anonimizada,no disponible
+101,*,"COUCEIRO GARCIA, JORGE",Persona fisica anonimizada,no disponible
+102,*,"CRESPO DIAZ, MANUEL FLORENCIO",Persona fisica anonimizada,no disponible
+103,*,"CRUZ ZAMORA, JOSE",Persona fisica anonimizada,no disponible
+104,*,"CUETARA YAÑEZ, AITANA",Persona fisica anonimizada,no disponible
+105,*,"DE LA VARGA LOPEZ, MANUEL",Persona fisica anonimizada,no disponible
+106,*,"DE NICOLAS GOMEZ, ALEJANDRO",Persona fisica anonimizada,no disponible
+107,*,"DE SANTIAGO RIVERA, JOSE MIGUEL",Persona fisica anonimizada,no disponible
+108,*,"DEL VALLE DUQUE, MARTA",Persona fisica anonimizada,no disponible
+109,*,"DIAZ CASTRO, ISAAC",Persona fisica anonimizada,no disponible
+110,*,"DIAZ VALLE, FELIPE",Persona fisica anonimizada,no disponible
+111,*,"DOALLO GARRIDO, TERESA",Persona fisica anonimizada,no disponible
+112,*,"DOMINGUEZ CASTRO, CESAR",Persona fisica anonimizada,no disponible
+113,*,"DOPAZO SANCHEZ, MARIA ELENA",Persona fisica anonimizada,no disponible
+114,*,"EIZAGUIRRE ORDOQUI, MARIA ISABEL",Persona fisica anonimizada,no disponible
+115,*,"ENRIQUEZ GARCIA, DARIO",Persona fisica anonimizada,no disponible
+116,*,"ESPIÑEIRA CABANAS, EUGENIO",Persona fisica anonimizada,no disponible
+117,*,"ESTEBANEZ, IANIRE",Persona fisica anonimizada,no disponible
+118,*,"ESTEVEZ CIMADEVILA, FRANCISCO JAVIER",Persona fisica anonimizada,no disponible
+119,*,"EYO CARBALLO, MANUEL ANTONIO",Persona fisica anonimizada,no disponible
+120,*,"FAFIAN ALONSO, IRIA",Persona fisica anonimizada,no disponible
+121,*,"FAJARDO RAMA, DIANA",Persona fisica anonimizada,no disponible
+122,*,"FANDIÑO GARCIA, JOSE ANTONIO",Persona fisica anonimizada,no disponible
+123,*,"FANDIÑO GARCIA,JOSE LUIS",Persona fisica anonimizada,no disponible
+124,*,"FERNANDEZ BARROS, ISAAC",Persona fisica anonimizada,no disponible
+125,*,"FERNANDEZ FEIJOO, MIGUEL ANGEL",Persona fisica anonimizada,no disponible
+126,*,"FERNANDEZ FERNANDEZ, DANIEL",Persona fisica anonimizada,no disponible
+127,*,"FERNANDEZ FERNANDEZ, FELIX",Persona fisica anonimizada,no disponible
+128,*,"FERNANDEZ GUINDA, EZEQUIEL EUGENIO",Persona fisica anonimizada,no disponible
+129,*,"FERNANDEZ LISTE, SALOME",Persona fisica anonimizada,no disponible
+130,*,"FERNANDEZ MARTINEZ, IRIA",Persona fisica anonimizada,no disponible
+131,*,"FERNANDEZ OBELLEIRO, LUIS ANTONIO",Persona fisica anonimizada,no disponible
+132,*,"FERNANDEZ OTERO, MARIA DELFINA",Persona fisica anonimizada,no disponible
+133,*,"FERNANDEZ PAEZ, FERNANDO RAMON",Persona fisica anonimizada,no disponible
+134,*,"FERNANDEZ RIVERA, CARLOS ALBERTO",Persona fisica anonimizada,no disponible
+135,*,"FERNANDEZ RODRIGUEZ, JOSE MANUEL",Persona fisica anonimizada,no disponible
+136,*,"FERNANDEZ URIZ, MARIA DEL MAR",Persona fisica anonimizada,no disponible
+137,*,"FERNANDEZ VILLARRENAGA GARCIA, DIEGO",Persona fisica anonimizada,no disponible
+138,*,"FERNÁNDEZ ÁLVAREZ, IRIMIA",Persona fisica anonimizada,no disponible
+139,*,"FERREIRA RODRIGUEZ, VANESA",Persona fisica anonimizada,no disponible
+140,*,"FERREIRO NIETO, LUISA M.",Persona fisica anonimizada,no disponible
+141,*,"FERREIRO NOVO, JOSE MANUEL",Persona fisica anonimizada,no disponible
+142,*,"FIGUEIRA BLANCO, OSCAR",Persona fisica anonimizada,no disponible
+143,*,"FIGUEIRAS VARELA, MIGUEL",Persona fisica anonimizada,no disponible
+144,*,"FIUZA SOUTO, DAVID",Persona fisica anonimizada,no disponible
+145,*,"FIUZA*SOUTO, DAVID",Persona fisica anonimizada,no disponible
+146,*,"FOLGUEIRA FARIÑA, MARIA VICTORIA",Persona fisica anonimizada,no disponible
+147,*,"FRAGA ALLEGUE, ANTONIO MANUEL",Persona fisica anonimizada,no disponible
+148,*,"FRAGA RIOS, EMILIO",Persona fisica anonimizada,no disponible
+149,*,"FRAILE ROBLEDO, PAULA",Persona fisica anonimizada,no disponible
+150,*,"FRANCESCH CARNEIRO, HECTOR ALFONSO",Persona fisica anonimizada,no disponible
+151,*,"FRANCO IGLESIAS, LUISA VICTORIA",Persona fisica anonimizada,no disponible
+152,*,"FRANCO PEREIRA, PEDRO",Persona fisica anonimizada,no disponible
+153,*,"FREIRE GAGO, OSCAR RAMON",Persona fisica anonimizada,no disponible
+154,*,"FUENTES GARCIA, RAMON",Persona fisica anonimizada,no disponible
+155,*,"GABIN VIDELA, ANGEL",Persona fisica anonimizada,no disponible
+156,*,"GALAN AIRA, SAMUEL",Persona fisica anonimizada,no disponible
+157,*,"GALAN SUAREZ, JOSE ANTONIO",Persona fisica anonimizada,no disponible
+158,*,"GALLEGO OUTES, JUAN JOSE",Persona fisica anonimizada,no disponible
+159,*,"GARCA GARCIA, JOSE",Persona fisica anonimizada,no disponible
+160,*,"GARCES FUENTELSAZ, CARLOS",Persona fisica anonimizada,no disponible
+161,*,"GARCIA AMENEIRO, JACOBO",Persona fisica anonimizada,no disponible
+162,*,"GARCIA ANTA, JORGE",Persona fisica anonimizada,no disponible
+163,*,"GARCIA BARRAL, JOSE MANUEL",Persona fisica anonimizada,no disponible
+164,*,"GARCIA CARRARA, MARIA CECILIA",Persona fisica anonimizada,no disponible
+165,*,"GARCIA GARCIA, IRENE",Persona fisica anonimizada,no disponible
+166,*,"GARCIA GONZALEZ, ADELAIDA",Persona fisica anonimizada,no disponible
+167,*,"GARCIA GRUAS, MARTA",Persona fisica anonimizada,no disponible
+168,*,"GARCIA MALLON, CARLOS",Persona fisica anonimizada,no disponible
+169,*,"GARCIA MEJUTO, ANTONIO",Persona fisica anonimizada,no disponible
+170,*,"GARCIA NAVEIRA, MIGUEL ANTONIO",Persona fisica anonimizada,no disponible
+171,*,"GARCIA PAMPIN, MARIA PILAR",Persona fisica anonimizada,no disponible
+172,*,"GARCIA PENALTA, XURXO",Persona fisica anonimizada,no disponible
+173,*,"GARCIA RODRIGUEZ, DANIEL",Persona fisica anonimizada,no disponible
+174,*,"GARCIA RODRIGUEZ, RAQUEL",Persona fisica anonimizada,no disponible
+175,*,"GARCIA RODRÍGUEZ, SONIA",Persona fisica anonimizada,no disponible
+176,*,"GARCIA SENDON, ANTIA",Persona fisica anonimizada,no disponible
+177,*,"GARCÍA RODRÍGUEZ, DIEGO",Persona fisica anonimizada,no disponible
+178,*,"GARDA NOGAREDA, JOSE ANTONIO",Persona fisica anonimizada,no disponible
+179,*,"GIL PITA, JOSE LUIS",Persona fisica anonimizada,no disponible
+180,*,"GOAS SIXTO, EZEQUIEL",Persona fisica anonimizada,no disponible
+181,*,"GODOY MESAS, MANUEL",Persona fisica anonimizada,no disponible
+182,*,"GOMEZ BELMONTE, CONSUELO",Persona fisica anonimizada,no disponible
+183,*,"GOMEZ GRANDAL, MARIA",Persona fisica anonimizada,no disponible
+184,*,"GOMEZ LOPEZ, RAUL BALDOMERO",Persona fisica anonimizada,no disponible
+185,*,"GOMEZ SUAREZ, ESTHER MARIA",Persona fisica anonimizada,no disponible
+186,*,"GONZALEZ BLANCO, JOSE FERMIN",Persona fisica anonimizada,no disponible
+187,*,"GONZALEZ DIAZ, AGUSTIN",Persona fisica anonimizada,no disponible
+188,*,"GONZALEZ FERNANDEZ, ROBERTO",Persona fisica anonimizada,no disponible
+189,*,"GONZALEZ GARCIA, DESIREE",Persona fisica anonimizada,no disponible
+190,*,"GONZALEZ GOMEZ, RUBEN",Persona fisica anonimizada,no disponible
+191,*,"GONZALEZ PRIETO, ALFREDO",Persona fisica anonimizada,no disponible
+192,*,"GONZALEZ SENDE, XOSE LUIS",Persona fisica anonimizada,no disponible
+193,*,"GONZALEZ VAZQUEZ, ROBERTO",Persona fisica anonimizada,no disponible
+194,*,"GRANDE ESTEVEZ, VICTOR MANUEL",Persona fisica anonimizada,no disponible
+195,*,"GRAÑA FERNANDEZ, RAQUEL",Persona fisica anonimizada,no disponible
+196,*,"GRELA LEIS, JOSE ANTONIO",Persona fisica anonimizada,no disponible
+197,*,"GRELA LEIS, JOSE ANTONIO 32759025X",Persona fisica anonimizada,no disponible
+198,*,"GUEDELLA SABASTIAN, NATALIA",Persona fisica anonimizada,no disponible
+199,*,"GUILLÁN CASTAÑO, ALEJANDRO",Persona fisica anonimizada,no disponible
+200,*,"GUZMÁN SALGUEIRO, XURXO",Persona fisica anonimizada,no disponible
+201,*,"HERMIDA VALEIRO, VICTOR",Persona fisica anonimizada,no disponible
+202,*,"HERNANDEZ MARTIN, JAVIER",Persona fisica anonimizada,no disponible
+203,*,"HERNANDEZ MARTIN, JOSE ALBERTO",Persona fisica anonimizada,no disponible
+204,*,"IBAÑEZ FARTO, ALBA",Persona fisica anonimizada,no disponible
+205,*,"IGLESIAS MARTIN, MARTA",Persona fisica anonimizada,no disponible
+206,*,"IGLESIAS OTERO, FERNANDO",Persona fisica anonimizada,no disponible
+207,*,"IGLESIAS PEREZ, JUAN FEDERICO",Persona fisica anonimizada,no disponible
+208,*,"IGLESIAS SUAREZ, MARCOS",Persona fisica anonimizada,no disponible
+209,*,"JOVE JOVE, ALFONSO JESUS",Persona fisica anonimizada,no disponible
+210,*,"JUNCO CARBALLO, CESAR",Persona fisica anonimizada,no disponible
+211,*,"LADO MALVAREZ, MANUEL JOSE",Persona fisica anonimizada,no disponible
+212,*,"LAIÑO GALLEGOS, ADRIAN CARLOS",Persona fisica anonimizada,no disponible
+213,*,"LAMAS FRAGA, TANIA ISABEL",Persona fisica anonimizada,no disponible
+214,*,"LAMAS PIÑON, SANTIAGO",Persona fisica anonimizada,no disponible
+215,*,"LAREO SOLA, EMILIA",Persona fisica anonimizada,no disponible
+216,*,"LEA BERMUDEZ, MANUEL",Persona fisica anonimizada,no disponible
+217,*,"LEGGIERO FERNANDEZ, CRISTIAN",Persona fisica anonimizada,no disponible
+218,*,"LEMA PEREIRA, MARIA ISABEL",Persona fisica anonimizada,no disponible
+219,*,"LEMA RIVERA, BEATRIZ",Persona fisica anonimizada,no disponible
+220,*,"LEZCANO GONZALEZ, ANTON",Persona fisica anonimizada,no disponible
+221,*,LIBROS MADRID,Persona fisica anonimizada,no disponible
+222,*,"LISTA ROMAY, ENRIQUE JOSE",Persona fisica anonimizada,no disponible
+223,*,"LIZARAZO SOLANO, GERSON MANUEL",Persona fisica anonimizada,no disponible
+224,*,"LIZARAZO SOLANO, LUIS FERNANDO",Persona fisica anonimizada,no disponible
+225,*,"LOBATO SANCHEZ, XURXO ANDRES",Persona fisica anonimizada,no disponible
+226,*,"LODEIROS FERNANDEZ, MANUEL",Persona fisica anonimizada,no disponible
+227,*,"LOPEZ BALTAR, IRIA",Persona fisica anonimizada,no disponible
+228,*,"LOPEZ BARRAL, M JOSEFA",Persona fisica anonimizada,no disponible
+229,*,"LOPEZ FERNANDEZ, IRIA VANESSA",Persona fisica anonimizada,no disponible
+230,*,"LOPEZ FURELOS, LAURA MARIA",Persona fisica anonimizada,no disponible
+231,*,"LOPEZ GUERRA, IAGO",Persona fisica anonimizada,no disponible
+232,*,"LOPEZ LOPEZ, IGNACIO",Persona fisica anonimizada,no disponible
+233,*,"LOPEZ LOPEZ, RUBÉN",Persona fisica anonimizada,no disponible
+234,*,"LOPEZ MALVAREZ, SUSANA",Persona fisica anonimizada,no disponible
+235,*,"LOPEZ OROSA, JUAN MANUEL",Persona fisica anonimizada,no disponible
+236,*,"LOPEZ POLO, MARIA DOLORES",Persona fisica anonimizada,no disponible
+237,*,"LOPEZ RIVADULLA, FRANCISCO JAVIER",Persona fisica anonimizada,no disponible
+238,*,"LOPEZ VAZQUEZ, ALBERTO",Persona fisica anonimizada,no disponible
+239,*,"LOPEZ*CASAS,JUAN MANUEL",Persona fisica anonimizada,no disponible
+240,*,"LORENZO CURRA, MARIA VIOLETA",Persona fisica anonimizada,no disponible
+241,*,LOS MUNDOS DE PAU,Persona fisica anonimizada,no disponible
+242,*,"LOZANO GONZALEZ, ELADIO",Persona fisica anonimizada,no disponible
+243,*,"LUACES MARTINEZ, MARIA MARGARITA",Persona fisica anonimizada,no disponible
+244,*,"LUTIER, STEPHANE GERARD",Persona fisica anonimizada,no disponible
+245,*,"MAIRA PERNAS, XALO",Persona fisica anonimizada,no disponible
+246,*,"MALLO RODRIGUEZ, MARTA",Persona fisica anonimizada,no disponible
+247,*,"MALLON PALMIER, ROSA",Persona fisica anonimizada,no disponible
+248,*,"MANTEIGA CHAS, MARIA MERCEDES",Persona fisica anonimizada,no disponible
+249,*,"MANTIÑAN CAMPOS, GONZALO",Persona fisica anonimizada,no disponible
+250,*,"MAREQUE MANEIRO, BEGOÑA",Persona fisica anonimizada,no disponible
+251,*,"MARIÑO BLANCO, DAVID GUILLERMO",Persona fisica anonimizada,no disponible
+252,*,"MARTICORENA CABEZAS, MARIA",Persona fisica anonimizada,no disponible
+253,*,"MARTIN CARMONA, MARIA",Persona fisica anonimizada,no disponible
+254,*,"MARTIN MARTINEZ, RAFAEL",Persona fisica anonimizada,no disponible
+255,*,"MARTINEZ BARBEITO MANOVEL, BEATRIZ MARIA ISABEL",Persona fisica anonimizada,no disponible
+256,*,"MARTINEZ CASTRO, MONTSERRAT",Persona fisica anonimizada,no disponible
+257,*,"MARTINEZ DE LA COLINA, JUAN ANTONIO SISENAN",Persona fisica anonimizada,no disponible
+258,*,"MARTINEZ FERNANDEZ, HERMINIO",Persona fisica anonimizada,no disponible
+259,*,"MARTINEZ LOPEZ, JESUS",Persona fisica anonimizada,no disponible
+260,*,"MARTINEZ MONTERO, OSCAR",Persona fisica anonimizada,no disponible
+261,*,"MARTINEZ NAYA, FRANCISCO JOSE",Persona fisica anonimizada,no disponible
+262,*,"MARTINEZ PAZOS, CANDIDA",Persona fisica anonimizada,no disponible
+263,*,"MARTINEZ PEREZ, SARA",Persona fisica anonimizada,no disponible
+264,*,"MARTINEZ PERIS, ANTONIO JOSE",Persona fisica anonimizada,no disponible
+265,*,"MARTINEZ REY, LAURA",Persona fisica anonimizada,no disponible
+266,*,"MARTINEZ RISCO VALDIVIESO, ISABEL",Persona fisica anonimizada,no disponible
+267,*,"MARTINEZ SANTORIO, CARMEN",Persona fisica anonimizada,no disponible
+268,*,"MARTINEZ SUAREZ, IVAN",Persona fisica anonimizada,no disponible
+269,*,"MAS IBAÑEZ, MARIA RITA",Persona fisica anonimizada,no disponible
+270,*,"MATO QUINTAS, MIGUEL ANGEL",Persona fisica anonimizada,no disponible
+271,*,"MEJUTO BUCETA, IRIA",Persona fisica anonimizada,no disponible
+272,*,"MELLA SANCHEZ, PABLO",Persona fisica anonimizada,no disponible
+273,*,"MENDEZ JUDEL, LUIS",Persona fisica anonimizada,no disponible
+274,*,"MENDEZ PAZOS, RAMON",Persona fisica anonimizada,no disponible
+275,*,"MENDOZA BARRAN, LUCIA",Persona fisica anonimizada,no disponible
+276,*,"MENDOZA FERNANDEZ, SABELA",Persona fisica anonimizada,no disponible
+277,*,"MENDOZA, FRANCIA CRISMAR",Persona fisica anonimizada,no disponible
+278,*,"MESEGUER ALCAIN, MARIA",Persona fisica anonimizada,no disponible
+279,*,"MONTERO RODRIGUEZ, MARIA BELEN",Persona fisica anonimizada,no disponible
+280,*,"MONTIEL ARIAS, RUTH",Persona fisica anonimizada,no disponible
+281,*,"MORA OREJON, JOSE MARIA",Persona fisica anonimizada,no disponible
+282,*,"MOSCOSO, VICTOR 474788474",Persona fisica anonimizada,no disponible
+283,*,"MOSQUERA MARTIN, SUSANA MARIA",Persona fisica anonimizada,no disponible
+284,*,"NOGUEIRAS NODAR, FRANCISCO",Persona fisica anonimizada,no disponible
+285,*,"NOVO EIRIS, JOSE ALBERTO",Persona fisica anonimizada,no disponible
+286,*,"NOVOA FLORES, VERONICA ANALIA",Persona fisica anonimizada,no disponible
+287,*,"NOYA VAZQUEZ, JORGE JUAN",Persona fisica anonimizada,no disponible
+288,*,"OLÍAS ARAGÓN, NOELIA",Persona fisica anonimizada,no disponible
+289,*,"ORDOÑEZ RODRIGUEZ, MARIA DEL MAR",Persona fisica anonimizada,no disponible
+290,*,ORTEGA MONTOLIU MARIA ANGELES,Persona fisica anonimizada,no disponible
+291,*,"OTERO SOUSA, LUIS ANTONIO",Persona fisica anonimizada,no disponible
+292,*,"PARADELA GONZALEZ, FRANCISCO BONIFACIO",Persona fisica anonimizada,no disponible
+293,*,"PARDO CARAMELO, CARLOS",Persona fisica anonimizada,no disponible
+294,*,"PARDO FONTENLA, DOLORES",Persona fisica anonimizada,no disponible
+295,*,"PARDO GARCIA, JOSE LUIS",Persona fisica anonimizada,no disponible
+296,*,"PARDO*FARALDO,GENMA MARIA",Persona fisica anonimizada,no disponible
+297,*,"PASCUAL VILAPLANA, JOSE RAFAEL",Persona fisica anonimizada,no disponible
+298,*,"PATRICIO MONTEAGUDO, MARIA ENCARNA",Persona fisica anonimizada,no disponible
+299,*,"PAZ SEGADE, YOLANDA MARIA MONSER",Persona fisica anonimizada,no disponible
+300,*,"PEINO ALVAREZ, JULIO",Persona fisica anonimizada,no disponible
+301,*,"PENA BASSO, SIMON",Persona fisica anonimizada,no disponible
+302,*,"PENA FIGUERUELO, NURIA MARIA",Persona fisica anonimizada,no disponible
+303,*,"PENA ROSSLER, MARIA EMILIA",Persona fisica anonimizada,no disponible
+304,*,"PENA VILLAR, FRANCISCO XAVIER",Persona fisica anonimizada,no disponible
+305,*,"PENA VILLAR, MANUEL",Persona fisica anonimizada,no disponible
+306,*,"PENIN DEVESA, RAQUEL",Persona fisica anonimizada,no disponible
+307,*,"PERAL MENDEZ, ALEJANDRO",Persona fisica anonimizada,no disponible
+308,*,"PEREIRO GARCIA, MARIA JESUS",Persona fisica anonimizada,no disponible
+309,*,"PEREIRO LAGARES, JOSE",Persona fisica anonimizada,no disponible
+310,*,"PEREIRO LOPEZ, MARCOS",Persona fisica anonimizada,no disponible
+311,*,"PEREZ LADO, BAUTISTA",Persona fisica anonimizada,no disponible
+312,*,"PEREZ MEILAN, ANGELA M.",Persona fisica anonimizada,no disponible
+313,*,"PEREZ VAZQUEZ, JOSE LUIS",Persona fisica anonimizada,no disponible
+314,*,"PERNAS LAZARO, DAVID 32794587Z",Persona fisica anonimizada,no disponible
+315,*,"PERNAS*LAZARO,DAVID",Persona fisica anonimizada,no disponible
+316,*,"PICALLO FUENTES, HEITOR",Persona fisica anonimizada,no disponible
+317,*,"PINTO TASENDE, JUAN",Persona fisica anonimizada,no disponible
+318,*,"PIQUERAS CABANILLAS, PASCUAL",Persona fisica anonimizada,no disponible
+319,*,"PISON EGEA, XULIA",Persona fisica anonimizada,no disponible
+320,*,"PIÑON PRADO, JUAN EMILIO",Persona fisica anonimizada,no disponible
+321,*,"POGHOSYAN GHARIBYAN, TIGRAN",Persona fisica anonimizada,no disponible
+322,*,"POL FERNANDEZ, JOSE MANUEL",Persona fisica anonimizada,no disponible
+323,*,"PORTELA ABUIN, MONICA",Persona fisica anonimizada,no disponible
+324,*,"PORTELA ORJALES, CARLOS",Persona fisica anonimizada,no disponible
+325,*,"PORTELA VAAMONDE, PATRICIA",Persona fisica anonimizada,no disponible
+326,*,"PORTELA VAAMONDE, PATRICIA ISABEL",Persona fisica anonimizada,no disponible
+327,*,"PORTO *VARELA,FRANCISCO",Persona fisica anonimizada,no disponible
+328,*,"POSE VILARNOVO, BEATRIZ",Persona fisica anonimizada,no disponible
+329,*,"PRADO PLANA, MIGUEL ANXO",Persona fisica anonimizada,no disponible
+330,*,"PREGO FERNANDEZ, LUIS",Persona fisica anonimizada,no disponible
+331,*,"PRIETO BLANCO, JESUS MIGUEL",Persona fisica anonimizada,no disponible
+332,*,"QUINTELA DIAZ, CELIA",Persona fisica anonimizada,no disponible
+333,*,"RABADE RAMOS, VANESSA",Persona fisica anonimizada,no disponible
+334,*,"RABUÑAL GRELA, JOSE MIGUEL",Persona fisica anonimizada,no disponible
+335,*,"REBOREDO BLANCO, MARIA-CARMEN",Persona fisica anonimizada,no disponible
+336,*,"REIMONDEZ MEILAN, MARIA",Persona fisica anonimizada,no disponible
+337,*,"REMESEIRO RODRIGUEZ, DANIEL",Persona fisica anonimizada,no disponible
+338,*,"REY GARCIA, JOSE",Persona fisica anonimizada,no disponible
+339,*,"REY SEÑORANS, FERNANDO",Persona fisica anonimizada,no disponible
+340,*,"REYES VALES, ANDRES JOS",Persona fisica anonimizada,no disponible
+341,*,"RICOY GUIJARRO, MARIA INMACULADA",Persona fisica anonimizada,no disponible
+342,*,"RIO VAZQUEZ, ANTONIO SANTIAGO",Persona fisica anonimizada,no disponible
+343,*,"RIOS IGLESIAS, PABLO",Persona fisica anonimizada,no disponible
+344,*,"ROCHA CAMPOS, DANIEL",Persona fisica anonimizada,no disponible
+345,*,"RODRIGUEZ ALVAREZ, DAVID",Persona fisica anonimizada,no disponible
+346,*,"RODRIGUEZ BELLO, JOSE ALBERTO",Persona fisica anonimizada,no disponible
+347,*,"RODRIGUEZ BLANCO, EMILIO",Persona fisica anonimizada,no disponible
+348,*,"RODRIGUEZ BUELA, MARTA",Persona fisica anonimizada,no disponible
+349,*,"RODRIGUEZ CASAS, DAVID",Persona fisica anonimizada,no disponible
+350,*,"RODRIGUEZ CASTRO, ANGEL MARCELO",Persona fisica anonimizada,no disponible
+351,*,"RODRIGUEZ CONDE, FRANCISCO JAVIER",Persona fisica anonimizada,no disponible
+352,*,"RODRIGUEZ FIDALGO, CRISTOBAL",Persona fisica anonimizada,no disponible
+353,*,"RODRIGUEZ FILGUERIRAS, SILVIA",Persona fisica anonimizada,no disponible
+354,*,"RODRIGUEZ GARCIA, ANA MARIA",Persona fisica anonimizada,no disponible
+355,*,"RODRIGUEZ GARCIA, RITA",Persona fisica anonimizada,no disponible
+356,*,"RODRIGUEZ GONZALEZ, MANUEL BERNARDO",Persona fisica anonimizada,no disponible
+357,*,"RODRIGUEZ MARTINEZ, IRIA",Persona fisica anonimizada,no disponible
+358,*,"RODRIGUEZ MORET MOURIÑO, FRANCISCO MANUEL",Persona fisica anonimizada,no disponible
+359,*,"RODRIGUEZ RAMOS, MARIA",Persona fisica anonimizada,no disponible
+360,*,"ROIBAL REY, PAULA MARIA",Persona fisica anonimizada,no disponible
+361,*,"ROMERO CIENFUEGOS, ANTONIO",Persona fisica anonimizada,no disponible
+362,*,"ROMERO MARIA, OMAR",Persona fisica anonimizada,no disponible
+363,*,"RUBIROSA RODRIGUEZ, CAROLINA",Persona fisica anonimizada,no disponible
+364,*,"RUIZ DIAZ, MIGUEL",Persona fisica anonimizada,no disponible
+365,*,"RUIZ MORA, JOSE MARIA",Persona fisica anonimizada,no disponible
+366,*,"SAEZ PEREZ, RAMON",Persona fisica anonimizada,no disponible
+367,*,"SALA, DAVID",Persona fisica anonimizada,no disponible
+368,*,"SALAMANCA ACEVEDO, ROSA MARIA",Persona fisica anonimizada,no disponible
+369,*,"SALES ESCRIBANO, JOSE",Persona fisica anonimizada,no disponible
+370,*,"SALGADO CORTIZAS, JORGE",Persona fisica anonimizada,no disponible
+371,*,"SALGADO SUAREZ, JOSE",Persona fisica anonimizada,no disponible
+372,*,"SALVADORES FERNANDEZ, MARIA DE LOS DOLORES",Persona fisica anonimizada,no disponible
+373,*,"SANCHEZ CANDAMIO FERRER, PABLO",Persona fisica anonimizada,no disponible
+374,*,"SANCHEZ DIAZ, MARIA DEL MAR MONTSE",Persona fisica anonimizada,no disponible
+375,*,"SANCHEZ DOMATO, MANUEL",Persona fisica anonimizada,no disponible
+376,*,"SANCHEZ FERNANDEZ, LAURA MARIA",Persona fisica anonimizada,no disponible
+377,*,"SANCHEZ PLA, JUAN CARLOS",Persona fisica anonimizada,no disponible
+378,*,"SANCHEZ RILO, JOSE ANDRES",Persona fisica anonimizada,no disponible
+379,*,"SANDA LOPEZ, EDUARDO",Persona fisica anonimizada,no disponible
+380,*,"SANDOVAL REY, ANTONIO JUAN",Persona fisica anonimizada,no disponible
+381,*,"SANMIGUEL SESTO, JUAN CARLOS",Persona fisica anonimizada,no disponible
+382,*,"SARMIENTO ESCALONA, M ROSARIO",Persona fisica anonimizada,no disponible
+383,*,"SEIJAS CABADO, PILAR",Persona fisica anonimizada,no disponible
+384,*,"SENDON OGANDO, OLAIA",Persona fisica anonimizada,no disponible
+385,*,"SEOANE RODRIGUEZ, ALEJANDRO",Persona fisica anonimizada,no disponible
+386,*,"SERANTES CANCELO, FRANCISCO",Persona fisica anonimizada,no disponible
+387,*,"SERANTES DOURADO, FRANCISCO LUIS",Persona fisica anonimizada,no disponible
+388,*,"SILVA CASTRO, JOSE MANUEL",Persona fisica anonimizada,no disponible
+389,*,"SILVA OPAZO, PEDRO EDGARDO",Persona fisica anonimizada,no disponible
+390,*,"SOLANO VILLAMIZAR, LUZ STELLA",Persona fisica anonimizada,no disponible
+391,*,"SOLAS ALADOS, JOSE MIGUEL",Persona fisica anonimizada,no disponible
+392,*,"SOTO ARIAS, PURIFICACION",Persona fisica anonimizada,no disponible
+393,*,"SOTO GARCIA, MARIA MAR",Persona fisica anonimizada,no disponible
+394,*,"SOTO GOLUBOFF, PABLO FRANCISCO",Persona fisica anonimizada,no disponible
+395,*,"SOUTO DIAZ, ANDRES MIGUEL",Persona fisica anonimizada,no disponible
+396,*,"SOUTO EIROA, XURXO MANUEL",Persona fisica anonimizada,no disponible
+397,*,"SOUTO SANTE, JOSE ANTONIO",Persona fisica anonimizada,no disponible
+398,*,"SUAREZ CASAL, MANUEL",Persona fisica anonimizada,no disponible
+399,*,"SUAREZ CLAVO, LORENZO",Persona fisica anonimizada,no disponible
+400,*,"SUAREZ GARCIA, DANIEL",Persona fisica anonimizada,no disponible
+401,*,"SUEIRO VILA, FRANCISCO MIGUEL",Persona fisica anonimizada,no disponible
+402,*,"TEIJIDO LORENZO, JOSE MANUEL",Persona fisica anonimizada,no disponible
+403,*,"TENREIRO GARCIA, ROSA MARIA",Persona fisica anonimizada,no disponible
+404,*,"TENREIRO LUCENA, ENRIQUE",Persona fisica anonimizada,no disponible
+405,*,"TOJO ALLER, MANUEL",Persona fisica anonimizada,no disponible
+406,*,"TOMAS BOTELLA, VICTOR ANTONIO",Persona fisica anonimizada,no disponible
+407,*,"TORRADO RODRIGUEZ, JOSE LUIS 32819315V",Persona fisica anonimizada,no disponible
+408,*,"TRIGO DIAZ, IVAN",Persona fisica anonimizada,no disponible
+409,*,"TRIGO MARTINEZ, ROMINA",Persona fisica anonimizada,no disponible
+410,*,"TRIGUEROS SEGARRA, JOSE ANTONIO",Persona fisica anonimizada,no disponible
+411,*,"TRONCOSO BARROS, JOSE",Persona fisica anonimizada,no disponible
+412,*,ULECIA MARTINEZ JOSE MIGUEL,Persona fisica anonimizada,no disponible
+413,*,"ULLOA GARCIA, ROBERTO CARLOS",Persona fisica anonimizada,no disponible
+414,*,"URES VARELA, JESUS MANUEL",Persona fisica anonimizada,no disponible
+415,*,"VAAMONDE ABAD, NATALIA",Persona fisica anonimizada,no disponible
+416,*,"VAAMONDE ABAD, NATALIA 47360342F",Persona fisica anonimizada,no disponible
+417,*,"VAAMONDE MANTEIGA, JESUS",Persona fisica anonimizada,no disponible
+418,*,"VALCUENDE RODRIGUEZ, OSCAR",Persona fisica anonimizada,no disponible
+419,*,"VALDES AGUIRRE, MARIA LUISA",Persona fisica anonimizada,no disponible
+420,*,"VALDES BLANCO RAJOY, MARIA TERESA",Persona fisica anonimizada,no disponible
+421,*,"VALENCIA ABAD, ALOIA",Persona fisica anonimizada,no disponible
+422,*,"VALENCIA ROMAR, ERMITAS",Persona fisica anonimizada,no disponible
+423,*,"VALERO CASTELLS, ANDRES",Persona fisica anonimizada,no disponible
+424,*,"VALLADARES DURAN, JOSE MARTIN",Persona fisica anonimizada,no disponible
+425,*,"VAZQUEZ CARBALLO, DANIEL",Persona fisica anonimizada,no disponible
+426,*,"VAZQUEZ CARUNCHO, JOSE MANUEL",Persona fisica anonimizada,no disponible
+427,*,"VAZQUEZ COLLAZO, SANTIAGO JOSE",Persona fisica anonimizada,no disponible
+428,*,"VAZQUEZ COUTO, JORGE 47363358X",Persona fisica anonimizada,no disponible
+429,*,"VAZQUEZ DACOSTA, DANIEL",Persona fisica anonimizada,no disponible
+430,*,"VAZQUEZ LUENGO, JUAN CARLOS",Persona fisica anonimizada,no disponible
+431,*,"VAZQUEZ MANZANO, SOFIA",Persona fisica anonimizada,no disponible
+432,*,"VAZQUEZ MARTINEZ, JUAN",Persona fisica anonimizada,no disponible
+433,*,"VAZQUEZ MARTINEZ, JUAN FRANCISCO",Persona fisica anonimizada,no disponible
+434,*,"VAZQUEZ MARTINEZ, JUAN FRANCISCO 32430545Q",Persona fisica anonimizada,no disponible
+435,*,"VAZQUEZ PENA, MOISES MANUEL",Persona fisica anonimizada,no disponible
+436,*,"VAZQUEZ SEOANE, ESTEFANIA",Persona fisica anonimizada,no disponible
+437,*,"VEIGA LEMA, RICARDO",Persona fisica anonimizada,no disponible
+438,*,"VEIRA PORTO, PAULA",Persona fisica anonimizada,no disponible
+439,*,"VENTUREIRA NOVO, RUBEN",Persona fisica anonimizada,no disponible
+440,*,"VICEIRO FILGUEIRA, JAVIER",Persona fisica anonimizada,no disponible
+441,*,"VIDAL*OTERO, DIEGO",Persona fisica anonimizada,no disponible
+442,*,"VIERNA FERNANDEZ, SARA",Persona fisica anonimizada,no disponible
+443,*,"VIGO LAPINA, ROCIO MARTA",Persona fisica anonimizada,no disponible
+444,*,"VIGO TRASANCOS, ALFREDO",Persona fisica anonimizada,no disponible
+445,*,"VILA DIAZ, MARIA ISABEL",Persona fisica anonimizada,no disponible
+446,*,"VILAR PERON, ANTONIO",Persona fisica anonimizada,no disponible
+447,*,"VILARIÑO FERNANDEZ, DAVID",Persona fisica anonimizada,no disponible
+448,*,"VILARIÑO SANCHEZ, ANTONIO",Persona fisica anonimizada,no disponible
+449,*,"VILLAMAR CRESPO, GUSTAVO ADOLFO",Persona fisica anonimizada,no disponible
+450,*,"VILLAZALA ROCA, OCTAVIO",Persona fisica anonimizada,no disponible
+451,*,"VILLAZALA ROCA,OCTAVIO",Persona fisica anonimizada,no disponible
+452,*,"VIQUEIRA CARBALLAL, MANUEL ALEJANDRO",Persona fisica anonimizada,no disponible
+453,*,"VIÑALS TOSAR RAMON, JOSE J",Persona fisica anonimizada,no disponible
+454,*,"VIÑALS TOSAR, RAMON J.",Persona fisica anonimizada,no disponible
+455,*,"YABAR RAMOS, DANIEL",Persona fisica anonimizada,no disponible
+456,00665411K,"GONZALEZ URBERUAGA, EMILIO",Persona fisica identificada,Persona Fisica (DNI)
+457,01384566N,LIBROS MADRID 01384566N,Persona fisica identificada,Persona Fisica (DNI)
+458,02251222M,"CARMENA RIESCO, ERNESTO JOSE",Persona fisica identificada,Persona Fisica (DNI)
+459,05906262T,"RODRIGUEZ BLANCO, EMILIO",Persona fisica identificada,Persona Fisica (DNI)
+460,06261227Y,"RICO BRAVO, DAVINIA",Persona fisica identificada,Persona Fisica (DNI)
+461,06990491D,"COMENDADOR PEREZ, JUAN JOSE",Persona fisica identificada,Persona Fisica (DNI)
+462,070594702,"COBER, JAN",Persona fisica identificada,Persona Fisica (DNI)
+463,12418980S,"PASCUAL ESPINILLA, SERGIO",Persona fisica identificada,Persona Fisica (DNI)
+464,14932483D,"ALVAREZ DE LA SIERRA, ELECTO",Persona fisica identificada,Persona Fisica (DNI)
+465,15037031E,"EIZAGUIRRE ORDOQUI, MARIA ISABEL",Persona fisica identificada,Persona Fisica (DNI)
+466,15372632F,"BUXAN BRAN, XOSE MANUEL",Persona fisica identificada,Persona Fisica (DNI)
+467,15925584Q,"VILLAR ROSENDE, JSE ANTONIO",Persona fisica identificada,Persona Fisica (DNI)
+468,20439097D,"SANCHEZ PLA, JUAN CARLOS",Persona fisica identificada,Persona Fisica (DNI)
+469,25375750B,"BERNAL CONSTENLA, MARIA ROCIO",Persona fisica identificada,Persona Fisica (DNI)
+470,29053203V,"GONZALEZ DIAZ, AGUSTIN",Persona fisica identificada,Persona Fisica (DNI)
+471,30989675G,"ORTEGA SANCHO, BELEN",Persona fisica identificada,Persona Fisica (DNI)
+472,32106497S,"PEREIRO LAGARES, JOSE",Persona fisica identificada,Persona Fisica (DNI)
+473,32265925F,"SALAMANCA ACEVEDO, ROSA MARIA",Persona fisica identificada,Persona Fisica (DNI)
+474,32288215X,"CARBALLO LOMBARDERO, RAMON",Persona fisica identificada,Persona Fisica (DNI)
+475,32295072J,"COUCEIRO GANDARAS, JOSE MARIA",Persona fisica identificada,Persona Fisica (DNI)
+476,32330721N,"ESMORIS RODRIGUEZ, MARIA ELENA",Persona fisica identificada,Persona Fisica (DNI)
+477,32331015F,"PATRICIO MONTEAGUDO, MARIA ENCARNA",Persona fisica identificada,Persona Fisica (DNI)
+478,32337805N,"VIÑAL FERNANDEZ, ALICIA",Persona fisica identificada,Persona Fisica (DNI)
+479,32349255P,"ROCA VILLAR, AVELINO",Persona fisica identificada,Persona Fisica (DNI)
+480,32386524V,"TEIJIDO LORENZO, JOSÉ MANUEL",Persona fisica identificada,Persona Fisica (DNI)
+481,32393684R,"PInON PRADO, JUAN EMILIO",Persona fisica identificada,Persona Fisica (DNI)
+482,32399530M,"BLANCO CHAO, JORGE RAMON",Persona fisica identificada,Persona Fisica (DNI)
+483,32404935M,"SEIJAS GARCIA, JOSE EDUARDO",Persona fisica identificada,Persona Fisica (DNI)
+484,32413126P,"VAZQUEZ CARUNCHO, JOSE MANUEL",Persona fisica identificada,Persona Fisica (DNI)
+485,32414187B,"PEREZ RUBIDO, MARIA CRUZ",Persona fisica identificada,Persona Fisica (DNI)
+486,32417795P,"LOBATO SANCHEZ, XURXO ANDRES",Persona fisica identificada,Persona Fisica (DNI)
+487,32418623P,"ALAMAN FERREIRO, JOSE LUIS MARTIN",Persona fisica identificada,Persona Fisica (DNI)
+488,32419649E,"FILGUEIRAS BELLO, MARIA ANGELES",Persona fisica identificada,Persona Fisica (DNI)
+489,32419862M,"GOMEZ SAA, MARIA DE LOS REYES",Persona fisica identificada,Persona Fisica (DNI)
+490,32422366W,"MANTEIGA CHAS, MARIA MERCEDES",Persona fisica identificada,Persona Fisica (DNI)
+491,32424225K,"JUNCO CARBALLO, CESAR",Persona fisica identificada,Persona Fisica (DNI)
+492,32425060M,"BLANCO AnON, ELISEO",Persona fisica identificada,Persona Fisica (DNI)
+493,32426349Y,"SARMIENTO ESCALONA, M ROSARIO",Persona fisica identificada,Persona Fisica (DNI)
+494,32430545Q,"VAZQUEZ MARTINEZ, JUAN FRANCISCO",Persona fisica identificada,Persona Fisica (DNI)
+495,32431520W,"PRADO PLANA, MIGUEL ANXO",Persona fisica identificada,Persona Fisica (DNI)
+496,32432459K,"CRESPO DIAZ, MANUEL FLORENCIO",Persona fisica identificada,Persona Fisica (DNI)
+497,32432671A,"VILLA ARAUJO, LEOPOLDO",Persona fisica identificada,Persona Fisica (DNI)
+498,32434050W,"PEREZ VAZQUEZ, JOSE LUIS",Persona fisica identificada,Persona Fisica (DNI)
+499,32434053M,"PRIETO BLANCO, JESUS MIGUEL",Persona fisica identificada,Persona Fisica (DNI)
+500,32436055Y,"ULLOA GARCIA, ROBERTO CARLOS",Persona fisica identificada,Persona Fisica (DNI)
+501,32440874H,"TOMAS BOTELLA, VICTOR ANTONIO",Persona fisica identificada,Persona Fisica (DNI)
+502,32441442B,"MARTINEZ FERNANDEZ, HERMINIO",Persona fisica identificada,Persona Fisica (DNI)
+503,32443583J,LUIS MENDEZ JUDEL,Persona fisica identificada,Persona Fisica (DNI)
+504,32445423J,"DIAZ SIERRA, MARIA MAGDALENA",Persona fisica identificada,Persona Fisica (DNI)
+505,32448410X,"DELGADO CAMPOS, ANTONIO",Persona fisica identificada,Persona Fisica (DNI)
+506,32450072Q,"PUGA ESTEVEZ, JOSE RECAREDO",Persona fisica identificada,Persona Fisica (DNI)
+507,32450356R,"FANTANS BALDOMIR, MARIA DEL CARMEN",Persona fisica identificada,Persona Fisica (DNI)
+508,32450615F,"GOMEZ SUAREZ, ESTHER MARIA",Persona fisica identificada,Persona Fisica (DNI)
+509,32611700T,"FANDIÑO CARRO, JOSÉ ANTONIO",Persona fisica identificada,Persona Fisica (DNI)
+510,32641562P,"SALGADO*CORTIZAS,JORGE",Persona fisica identificada,Persona Fisica (DNI)
+511,32644974Q,"LOPEZ VAZQUEZ, ALBERTO",Persona fisica identificada,Persona Fisica (DNI)
+512,32646099Z,"DIAZ CARRO, PABLO ANDRES",Persona fisica identificada,Persona Fisica (DNI)
+513,32653515R,"PARDO VAZQUEZ, JOSE RAMON",Persona fisica identificada,Persona Fisica (DNI)
+514,32673821K,"PARDO CASTRO, RAQUEL",Persona fisica identificada,Persona Fisica (DNI)
+515,32673834B,"ANEIROS PIÑEIRO, PAULA",Persona fisica identificada,Persona Fisica (DNI)
+516,32690522R,"DE NICOLAS GOMEZ, ALEJANDRO",Persona fisica identificada,Persona Fisica (DNI)
+517,32697881T,"FABREGAT NODAR, CARMEN",Persona fisica identificada,Persona Fisica (DNI)
+518,32706589Z,"ALONSO FERNANDEZ, MIGUEL ANGEL",Persona fisica identificada,Persona Fisica (DNI)
+519,32707184B,"VILLANUSTRE VILLAR, ROBERTO",Persona fisica identificada,Persona Fisica (DNI)
+520,32716056M,"REGUEIRO GARCIA, PAULA",Persona fisica identificada,Persona Fisica (DNI)
+521,32746251R,"RUIZ MORA, JOSE MARIA",Persona fisica identificada,Persona Fisica (DNI)
+522,32747503B,"PEREIRO GARCIA, MARIA JESUS",Persona fisica identificada,Persona Fisica (DNI)
+523,32752234G,"VAZQUEZ GARCIA, EDUARDO",Persona fisica identificada,Persona Fisica (DNI)
+524,32753343D,"CONDE GARCIA, JESUS",Persona fisica identificada,Persona Fisica (DNI)
+525,32759025X,"GRELA LEIS, JOSE ANTONIO",Persona fisica identificada,Persona Fisica (DNI)
+526,32759198E,"BOUZAS SEIJO, JOSE ANTONIO",Persona fisica identificada,Persona Fisica (DNI)
+527,32759725C,"MANTIÑAN CAMPOS, GONZALO",Persona fisica identificada,Persona Fisica (DNI)
+528,32760245B,"SANDA LOPEZ, EDUARDO",Persona fisica identificada,Persona Fisica (DNI)
+529,32760353G,"FERNANDEZ VAZQUEZ, JAVIER",Persona fisica identificada,Persona Fisica (DNI)
+530,32764120E,"VAZQUEZ LUENGO, JUAN CARLOS",Persona fisica identificada,Persona Fisica (DNI)
+531,32765222C,"PINTOR ELIZALDE, JOSE JAVIER",Persona fisica identificada,Persona Fisica (DNI)
+532,32766491R,"GARCIA PAMPIN, MARIA PILAR",Persona fisica identificada,Persona Fisica (DNI)
+533,32767090W,"ALBO LOPEZ, MARIA FUENSANTA GLOR",Persona fisica identificada,Persona Fisica (DNI)
+534,32767705L,"PITA VILLARES, M. ROSARIO",Persona fisica identificada,Persona Fisica (DNI)
+535,32768456B,"LOPEZ GOMEZ, JOSE LUIS",Persona fisica identificada,Persona Fisica (DNI)
+536,32772348Q,"CANOSA BUA, JOSE MANUEL",Persona fisica identificada,Persona Fisica (DNI)
+537,32772579V,"LOPEZ BLANCO, FERNANDO",Persona fisica identificada,Persona Fisica (DNI)
+538,32772885R,"BRAÑAS CASAS, PABLO FRANCISCO",Persona fisica identificada,Persona Fisica (DNI)
+539,32779024E,"CRUZ MAHIA, XOSE ANXO",Persona fisica identificada,Persona Fisica (DNI)
+540,32780278B,"RODRIGUEZ CUDEIRO, JUAN LUIS",Persona fisica identificada,Persona Fisica (DNI)
+541,32781930F,"GONZALEZ IGLESIAS, SANTIAGO",Persona fisica identificada,Persona Fisica (DNI)
+542,32783139C,"REGA NAYA, MARIA BELEN",Persona fisica identificada,Persona Fisica (DNI)
+543,32784302X,"PINTO TASENDE, JUAN",Persona fisica identificada,Persona Fisica (DNI)
+544,32784916A,"MARTINEZ CASTRO, MONTSERRAT",Persona fisica identificada,Persona Fisica (DNI)
+545,32785461L,"PALACIO EDREIRA, FERNANDO",Persona fisica identificada,Persona Fisica (DNI)
+546,32787247B,"OTERO SOUSA, LUIS ANTONIO",Persona fisica identificada,Persona Fisica (DNI)
+547,32787454B,"VIDAL LAGE, MARIA ANGELES",Persona fisica identificada,Persona Fisica (DNI)
+548,32787739C,"PITA, ALBERTO",Persona fisica identificada,Persona Fisica (DNI)
+549,32789080G,"MARTINEZ BRANDULAS, JOSE MANUEL",Persona fisica identificada,Persona Fisica (DNI)
+550,32789559T,"CABALEIRO FERREIRO, PAULA MARIA",Persona fisica identificada,Persona Fisica (DNI)
+551,32789796F,"ARES CES, VICTOR MANUEL",Persona fisica identificada,Persona Fisica (DNI)
+552,32789880E,"NIETO PEÑAMARIA, MARIA CRISTINA",Persona fisica identificada,Persona Fisica (DNI)
+553,32790370Y,"CAMBON LANDEIRA, JESUS MANUEL",Persona fisica identificada,Persona Fisica (DNI)
+554,32790782G,"Vidal Vazquez, Maria Jesus",Persona fisica identificada,Persona Fisica (DNI)
+555,32790869E,"RODRIGUEZ MORET MOURInO, FRANCISCO MANUEL",Persona fisica identificada,Persona Fisica (DNI)
+556,32791143C,"FERREIRO NOVO, JOSE MANUEL",Persona fisica identificada,Persona Fisica (DNI)
+557,32791820F,"IGLESIAS AGRA, ANA",Persona fisica identificada,Persona Fisica (DNI)
+558,32792804W,"SOUTO MARInAS, LUIS FELIPE",Persona fisica identificada,Persona Fisica (DNI)
+559,32793214K,"MARQUINA TORRES, ANA MARIA",Persona fisica identificada,Persona Fisica (DNI)
+560,32794587Z,"PERNAS LAZARO, DAVID",Persona fisica identificada,Persona Fisica (DNI)
+561,32797476M,"MACEIRAS RODRIGUEZ, XABIER",Persona fisica identificada,Persona Fisica (DNI)
+562,32799018Y,"APARICI FEAL, BEATRIZ",Persona fisica identificada,Persona Fisica (DNI)
+563,32799211S,"RODRIGUEZ CONDE, FRANCISCO JAVIER",Persona fisica identificada,Persona Fisica (DNI)
+564,32801893Y,"VILLAZALA ROCA, OCTAVIO",Persona fisica identificada,Persona Fisica (DNI)
+565,32807247R,"LESTA PEREZ, JUAN JOSE",Persona fisica identificada,Persona Fisica (DNI)
+566,32808611P,"FERNANDEZ URIZ, MARIA DEL MAR",Persona fisica identificada,Persona Fisica (DNI)
+567,32814679G,"NOVO EIRIS, JOSE ALBERTO",Persona fisica identificada,Persona Fisica (DNI)
+568,32814772M,"CARAMES SALES, ANXELA",Persona fisica identificada,Persona Fisica (DNI)
+569,32815006D,"LOPEZ OROSA, JUAN MANUEL",Persona fisica identificada,Persona Fisica (DNI)
+570,32815445B,"BARCIA CASTRO, JOSE ANTONIO",Persona fisica identificada,Persona Fisica (DNI)
+571,32816049V,"PENA BASSO, SIMON",Persona fisica identificada,Persona Fisica (DNI)
+572,32816341X,"FERNANDEZ ROSADO, ENRIQUE",Persona fisica identificada,Persona Fisica (DNI)
+573,32816480B,"COTOS CASTRO, LORENA",Persona fisica identificada,Persona Fisica (DNI)
+574,32818283C,"ABELENDA HERMIDA, ANTONIO",Persona fisica identificada,Persona Fisica (DNI)
+575,32818284K,"ABELENDA HERMIDA, ANA ISABEL",Persona fisica identificada,Persona Fisica (DNI)
+576,32818630E,"LEZCANO GONZALEZ, ANTON",Persona fisica identificada,Persona Fisica (DNI)
+577,32819286B,"CASAIS RODRIGUEZ, RAQUEL",Persona fisica identificada,Persona Fisica (DNI)
+578,32822683G,"LOPEZ FERNANDEZ, IRIA VANESSA",Persona fisica identificada,Persona Fisica (DNI)
+579,32822904H,"SANTISO GARCIA, LIA",Persona fisica identificada,Persona Fisica (DNI)
+580,32823150B,"PENA VILLAR, MANUEL",Persona fisica identificada,Persona Fisica (DNI)
+581,32824372Z,"VAZQUEZ BAU, CARLOS",Persona fisica identificada,Persona Fisica (DNI)
+582,32825144G,"MORAN FERNANDEZ, PABLO",Persona fisica identificada,Persona Fisica (DNI)
+583,32825510W,"IBAÑEZ FARTO, ALBA",Persona fisica identificada,Persona Fisica (DNI)
+584,32825605M,"CASTELLANOS REY, SARA",Persona fisica identificada,Persona Fisica (DNI)
+585,32826254X,"PATInO DEL RIO, CELSA MARIA",Persona fisica identificada,Persona Fisica (DNI)
+586,32828304J,"ROMERA CALLEJA, VIRGINIA",Persona fisica identificada,Persona Fisica (DNI)
+587,32829015B,"ESCLUSA GARCIA, FERNANDO SANTIAGO",Persona fisica identificada,Persona Fisica (DNI)
+588,32829169G,"BORDOY FERNANDEZ, GUILLERMO GABRIEL",Persona fisica identificada,Persona Fisica (DNI)
+589,32830278D,"ESPINOSA RIO, MARIA ESTIBALIZ",Persona fisica identificada,Persona Fisica (DNI)
+590,32830522T,"FREIRE CASTRO, SANTIAGO JESUS",Persona fisica identificada,Persona Fisica (DNI)
+591,32831143T,"VEIRA PORTO, PAULA",Persona fisica identificada,Persona Fisica (DNI)
+592,32831680P,"OLIVA GROBAS, JESUS MANUEL",Persona fisica identificada,Persona Fisica (DNI)
+593,32832125Q,"PORTELA VAAMONDE, PATRICIA ISABEL",Persona fisica identificada,Persona Fisica (DNI)
+594,32833776B,"CAAMAÑO GONZALEZ, JOSE MANUEL",Persona fisica identificada,Persona Fisica (DNI)
+595,32834139Y,"SOUTO DIAZ, ANDRES MIGUEL",Persona fisica identificada,Persona Fisica (DNI)
+596,32835319J,"SEXTO PORTO, ALEJANDRO",Persona fisica identificada,Persona Fisica (DNI)
+597,32835572J,"GARCIA LOPEZ, FERNANDO 32835572J",Persona fisica identificada,Persona Fisica (DNI)
+598,32835993C,"PINTOS LOPEZ, PAULA",Persona fisica identificada,Persona Fisica (DNI)
+599,32836266V,"FANDIÑO GARCIA, JOSE ANTONIO",Persona fisica identificada,Persona Fisica (DNI)
+600,32836377J,"MEJUTO BUCETA, IRIA",Persona fisica identificada,Persona Fisica (DNI)
+601,32837024Q,"FIGUEIRA BLANCO, OSCAR",Persona fisica identificada,Persona Fisica (DNI)
+602,32837332W,"BONOME FERNANDEZ, ANA MARIA",Persona fisica identificada,Persona Fisica (DNI)
+603,32838336V,"SANMIGUEL SESTO, JUAN CARLOS",Persona fisica identificada,Persona Fisica (DNI)
+604,32838880D,"IGLESIAS SUAREZ, MARCOS",Persona fisica identificada,Persona Fisica (DNI)
+605,32839349H,"SAEZ PEREZ, RAMON",Persona fisica identificada,Persona Fisica (DNI)
+606,32839489C,"GONZALEZ VAZQUEZ, ROBERTO",Persona fisica identificada,Persona Fisica (DNI)
+607,32842082Z,"BENTANCUR LAGO, DIEGO RODRIGO",Persona fisica identificada,Persona Fisica (DNI)
+608,32843306L,"FREIRE GAGO, OSCAR RAMON",Persona fisica identificada,Persona Fisica (DNI)
+609,32844963C,"FIGUEIRAS VARELA, MIGUEL",Persona fisica identificada,Persona Fisica (DNI)
+610,32845428W,"RODRIGUEZ SANTIAGO, JUAN PABLO",Persona fisica identificada,Persona Fisica (DNI)
+611,33133021A,"AGUION VILA, ENRIQUE",Persona fisica identificada,Persona Fisica (DNI)
+612,33222362N,"LOPEZ BARRAL, M JOSEFA",Persona fisica identificada,Persona Fisica (DNI)
+613,33225647P,"SANCHEZ LOPEZ, LUIS",Persona fisica identificada,Persona Fisica (DNI)
+614,33257609T,"PEREZ NUnEZ, MANUEL",Persona fisica identificada,Persona Fisica (DNI)
+615,33259116N,"BARREIRO GARCiA, JOSe",Persona fisica identificada,Persona Fisica (DNI)
+616,33279251E,"COMBO GARCIA, RAMIRO ANXO",Persona fisica identificada,Persona Fisica (DNI)
+617,33280749W,"NOGUEIRAS NODAR, FRANCISCO",Persona fisica identificada,Persona Fisica (DNI)
+618,33284037R,"CARBALLO PAIS, JAIME",Persona fisica identificada,Persona Fisica (DNI)
+619,33291564F,"MARInO CARREIRA, MARIA JOSEFA",Persona fisica identificada,Persona Fisica (DNI)
+620,33293113S,"SANCHEZ BEIROA, ROSA",Persona fisica identificada,Persona Fisica (DNI)
+621,33303806J,"BRAÑAS ABAD, ROSA MARIA",Persona fisica identificada,Persona Fisica (DNI)
+622,33321365T,"SANGIAO NOVO, ANTONIO",Persona fisica identificada,Persona Fisica (DNI)
+623,33321595T,"GARCIA CABADO, ALBERTO CARLOS",Persona fisica identificada,Persona Fisica (DNI)
+624,33327665K,"FERREIRO GIL, JOSE ALBERTO",Persona fisica identificada,Persona Fisica (DNI)
+625,33330433Y,"ALVAREZ FOUZ, JORGE",Persona fisica identificada,Persona Fisica (DNI)
+626,33332088M,"LOPEZ ALBA, OSCAR",Persona fisica identificada,Persona Fisica (DNI)
+627,33530756E,"PASCUAL ALONSO, PABLO",Persona fisica identificada,Persona Fisica (DNI)
+628,33548557K,"BARREIRA FREIRE, ANDREA",Persona fisica identificada,Persona Fisica (DNI)
+629,33995282V,"LOPEZ POLO, MARIA DOLORES",Persona fisica identificada,Persona Fisica (DNI)
+630,33995748T,"MARTINEZ LOPEZ, JESUS",Persona fisica identificada,Persona Fisica (DNI)
+631,33998156Q,"DIAZ VALLE, FELIPE",Persona fisica identificada,Persona Fisica (DNI)
+632,33998805K,"GARCÍA GONZÁLEZ, ISABEL",Persona fisica identificada,Persona Fisica (DNI)
+633,33999433M,"SEIJO CUBA, ANA",Persona fisica identificada,Persona Fisica (DNI)
+634,34268137T,"LOPEZ LOPEZ, RUBÉN",Persona fisica identificada,Persona Fisica (DNI)
+635,34887708C,"ROIBAL REY, PAULA MARIA",Persona fisica identificada,Persona Fisica (DNI)
+636,34887830G,"BLANCO ALZUETA, ANTONIO",Persona fisica identificada,Persona Fisica (DNI)
+637,34889099P,"VENTUREIRA NOVO, RUBEN",Persona fisica identificada,Persona Fisica (DNI)
+638,34889106S,"GOMEZ LOPEZ, RAUL BALDOMERO",Persona fisica identificada,Persona Fisica (DNI)
+639,34889996P,"ANTELO LAVANDEIRA, CLAUDIO",Persona fisica identificada,Persona Fisica (DNI)
+640,34890995H,"VALE SANTOS, MONTSERRAT",Persona fisica identificada,Persona Fisica (DNI)
+641,34891843S,"LOPEZ SAENZ, JULIAN BERNARDO",Persona fisica identificada,Persona Fisica (DNI)
+642,34892230B,"SANTE VARELA, CARLOS",Persona fisica identificada,Persona Fisica (DNI)
+643,34892550D,"NUnEZ NInO, MARIA AMALIA",Persona fisica identificada,Persona Fisica (DNI)
+644,34894117N,"CASTRO IGLESIAS, ROBERTO",Persona fisica identificada,Persona Fisica (DNI)
+645,34894361A,"MOSQUERA MARTIN, SUSANA MARIA",Persona fisica identificada,Persona Fisica (DNI)
+646,34896479M,"GABIN VIDELA, ANGEL",Persona fisica identificada,Persona Fisica (DNI)
+647,34897539F,"FOLGUEIRA FARInA, MARIA VICTORIA",Persona fisica identificada,Persona Fisica (DNI)
+648,34899349T,"VAZQUEZ GONZALEZ, DAVID",Persona fisica identificada,Persona Fisica (DNI)
+649,34955475Y,"CAMPOS BASTOS, MARCIAL",Persona fisica identificada,Persona Fisica (DNI)
+650,34983274K,"VEIGA ALONSO, XOSE DOSITEO",Persona fisica identificada,Persona Fisica (DNI)
+651,34988603Z,"LORENZO PEREZ, CARLOS",Persona fisica identificada,Persona Fisica (DNI)
+652,35303364C,"RODRIGUEZ OUTEDA, SEBASTIAN",Persona fisica identificada,Persona Fisica (DNI)
+653,35314139P,"VIEITEZ GARRIDO, MANUEL",Persona fisica identificada,Persona Fisica (DNI)
+654,35440791E,"PAZ VIDAL, FRANCISCO JAVIER",Persona fisica identificada,Persona Fisica (DNI)
+655,35455090S,"COMENDADOR LEIROS, CARLOS MANUEL",Persona fisica identificada,Persona Fisica (DNI)
+656,35476743W,"RUIZ DIAZ, MIGUEL",Persona fisica identificada,Persona Fisica (DNI)
+657,35558640L,"FERNANDEZ CUnA, JAIME",Persona fisica identificada,Persona Fisica (DNI)
+658,35559027S,"GONZALEZ VICENTE, MARIA JOSE",Persona fisica identificada,Persona Fisica (DNI)
+659,35561155G,"SOLLEIRO GONZALEZ, SAMUEL",Persona fisica identificada,Persona Fisica (DNI)
+660,35565203G,"ALVAREZ RENDO, RICARDO JOSE",Persona fisica identificada,Persona Fisica (DNI)
+661,35642051D,"LEGGIERO FERNANDEZ, CRISTIAN",Persona fisica identificada,Persona Fisica (DNI)
+662,36063745K,"MAS IBAÑEZ, MARIA RITA",Persona fisica identificada,Persona Fisica (DNI)
+663,36100246K,"CANDAN ILLAN, JORGE",Persona fisica identificada,Persona Fisica (DNI)
+664,36106940E,"FERNANDEZ GARCIA, GUILLERME",Persona fisica identificada,Persona Fisica (DNI)
+665,36108959V,"PREGO FERNANDEZ, LUIS",Persona fisica identificada,Persona Fisica (DNI)
+666,36141426P,"EGUIA ELEXPURU, XAN",Persona fisica identificada,Persona Fisica (DNI)
+667,36146221L,"MACHADO DOMINGUEZ, DAVID",Persona fisica identificada,Persona Fisica (DNI)
+668,36155216K,"FARInA TEMPRANO, ANXO XABIER",Persona fisica identificada,Persona Fisica (DNI)
+669,38078276M,"BEA ESPINAR, RAFAEL",Persona fisica identificada,Persona Fisica (DNI)
+670,44089448N,"TORREIRO PEREIRO, LUIS",Persona fisica identificada,Persona Fisica (DNI)
+671,44445898P,"PEREZ RIAL, ROBERTO",Persona fisica identificada,Persona Fisica (DNI)
+672,44463265X,"GARCIA RODRIGUEZ, RAQUEL",Persona fisica identificada,Persona Fisica (DNI)
+673,44499816Z,"PENA ROSSLER, MARIA EMILIA 44499816Z",Persona fisica identificada,Persona Fisica (DNI)
+674,44673876X,"ECED PANDO, ALMUDENA",Persona fisica identificada,Persona Fisica (DNI)
+675,44814531C,"ALDANA ALBORES, JAIRO",Persona fisica identificada,Persona Fisica (DNI)
+676,44814540Y,"EIROA LORENZO, FERNANDO",Persona fisica identificada,Persona Fisica (DNI)
+677,44819720B,"FERNaNDEZ aLVAREZ, IRIMIA",Persona fisica identificada,Persona Fisica (DNI)
+678,44825162W,"FERNANDEZ LISTE, SALOME",Persona fisica identificada,Persona Fisica (DNI)
+679,44836252Y,"FIUZA*SOUTO, DAVID",Persona fisica identificada,Persona Fisica (DNI)
+680,44837467W,"VAZQUEZ PENA, MOISES MANUEL",Persona fisica identificada,Persona Fisica (DNI)
+681,44845999R,"PEÑA VILLASENÍN, SIMÓN",Persona fisica identificada,Persona Fisica (DNI)
+682,45849416C,"CERDEIRA CASTIÑEIRAS, FRANCISCO MANUEL",Persona fisica identificada,Persona Fisica (DNI)
+683,45906910Z,"FREIRE PEREZ, JUAN JESUS",Persona fisica identificada,Persona Fisica (DNI)
+684,46129800B,"CORTACANS MONTFERRER, MARTA",Persona fisica identificada,Persona Fisica (DNI)
+685,46796236E,"CRUZ ZAMORA, JOSE",Persona fisica identificada,Persona Fisica (DNI)
+686,46895046R,"MARInO LAMAS, MIGUEL",Persona fisica identificada,Persona Fisica (DNI)
+687,46896140Z,"TEIJEIRO ALVAREZ, MARIA VICTORIA",Persona fisica identificada,Persona Fisica (DNI)
+688,46896621N,"LOPEZ BALTAR, IRIA",Persona fisica identificada,Persona Fisica (DNI)
+689,46899656B,"SANCHEZ FERNANDEZ, LAURA MARIA",Persona fisica identificada,Persona Fisica (DNI)
+690,46899732H,"VALENCIA ROMAR, ERMITAS",Persona fisica identificada,Persona Fisica (DNI)
+691,46900071N,"CASTAnO PEREIRA, ALBERTO EMILIO",Persona fisica identificada,Persona Fisica (DNI)
+692,46900072J,"CASTAÑO PEREIRA, YOLANDA",Persona fisica identificada,Persona Fisica (DNI)
+693,46902647N,"PARRA AMEIJIDE, MIGUEL GUILLERMO",Persona fisica identificada,Persona Fisica (DNI)
+694,46902932K,"VALENCIA ABAD, ALOIA",Persona fisica identificada,Persona Fisica (DNI)
+695,46903244B,"RABADE RAMOS, VANESSA",Persona fisica identificada,Persona Fisica (DNI)
+696,46905821N,"CALDERON GANDARA, SANDRA",Persona fisica identificada,Persona Fisica (DNI)
+697,46909140L,"PORTELA ABUIN, MONICA",Persona fisica identificada,Persona Fisica (DNI)
+698,46909509C,"NOYA VAZQUEZ, JORGE JUAN",Persona fisica identificada,Persona Fisica (DNI)
+699,46909777N,"VAZQUEZ MASEDA, LUIS",Persona fisica identificada,Persona Fisica (DNI)
+700,46912481W,"REY VEIRAS, JOAQUIN",Persona fisica identificada,Persona Fisica (DNI)
+701,46912652N,"GOMEZ BLANCO, DIEGO",Persona fisica identificada,Persona Fisica (DNI)
+702,46913082M,"LENDOIRO PERDOMO, DAVID",Persona fisica identificada,Persona Fisica (DNI)
+703,46913438Q,"SANCHEZ BARDANCA, ALEJANDRO",Persona fisica identificada,Persona Fisica (DNI)
+704,46914526T,"BALSEIRO CARRODEGUAS, PABLO",Persona fisica identificada,Persona Fisica (DNI)
+705,46917624Q,"DEL RIO PRIETO, GUSTAVO",Persona fisica identificada,Persona Fisica (DNI)
+706,46918080N,"PEREIRO SANCHEZ, MARCOS",Persona fisica identificada,Persona Fisica (DNI)
+707,46919802D,"CASTRO BUSTO, MARCOS",Persona fisica identificada,Persona Fisica (DNI)
+708,46919998K,"CASTROMIL DOTRAS, LETICIA DE LA CONSOL",Persona fisica identificada,Persona Fisica (DNI)
+709,47353086L,"RODRIGUEZ FILGUERIRAS, SILVIA",Persona fisica identificada,Persona Fisica (DNI)
+710,47354244G,"MURUZABAL PEREZ, JOSEBA",Persona fisica identificada,Persona Fisica (DNI)
+711,47357853W,"LOPEZ GARCIA, LEONARDO JAVIER",Persona fisica identificada,Persona Fisica (DNI)
+712,47358310E,"CASTILLO SILVARES, MARIA ELENA",Persona fisica identificada,Persona Fisica (DNI)
+713,47358332K,"SALVADORES FERNANDEZ, MARIA DE LOS DOLORES",Persona fisica identificada,Persona Fisica (DNI)
+714,47358700K,"IGLESIAS LOPEZ, PABLO",Persona fisica identificada,Persona Fisica (DNI)
+715,47360342F,"VAAMONDE ABAD, NATALIA",Persona fisica identificada,Persona Fisica (DNI)
+716,47361324T,"TAJES GARCIA, ANA BELEN",Persona fisica identificada,Persona Fisica (DNI)
+717,47362100V,"IGLESIAS MARTIN, MARTA",Persona fisica identificada,Persona Fisica (DNI)
+718,47363358X,"VAZQUEZ COUTO, JORGE",Persona fisica identificada,Persona Fisica (DNI)
+719,47364737D,"FERNANDEZ BARROS, ISAAC",Persona fisica identificada,Persona Fisica (DNI)
+720,47365815Y,"ARES SEOANE, JOSE ANTONIO",Persona fisica identificada,Persona Fisica (DNI)
+721,47367132N,"VIQUEIRA RODRIGUEZ, SELMA",Persona fisica identificada,Persona Fisica (DNI)
+722,47368388A,"PALLEIRO RODRIGUEZ, RAMON",Persona fisica identificada,Persona Fisica (DNI)
+723,47368489N,"MARTIN MARTINEZ, RAFAEL 47368489N",Persona fisica identificada,Persona Fisica (DNI)
+724,47368782Y,"MERELAS FIGUEROA, DAVID",Persona fisica identificada,Persona Fisica (DNI)
+725,47376005F,"LEMA RIVERA, BEATRIZ",Persona fisica identificada,Persona Fisica (DNI)
+726,47376251T,"MARTINEZ REY, LAURA",Persona fisica identificada,Persona Fisica (DNI)
+727,47386530K,"PARDO GARCIA, FRANCISCO JOSE",Persona fisica identificada,Persona Fisica (DNI)
+728,47388717T,"ARANGUENA LOPEZ, SOFIA",Persona fisica identificada,Persona Fisica (DNI)
+729,47401559P,"VAZQUEZ CASTRO, JORGE MIGUEL",Persona fisica identificada,Persona Fisica (DNI)
+730,47437295W,"MARTI MOSQUERA, JACOBO",Persona fisica identificada,Persona Fisica (DNI)
+731,47438691H,"TUBIO RODRIGUEZ, AITANA",Persona fisica identificada,Persona Fisica (DNI)
+732,47632522M,"FAFIAN ALONSO, IRIA",Persona fisica identificada,Persona Fisica (DNI)
+733,48112109L,"PEREZ ENRIQUEZ, ANA BEATRIZ",Persona fisica identificada,Persona Fisica (DNI)
+734,48114422D,"BUSTO RODRIGUEZ, MAXIMILIANO",Persona fisica identificada,Persona Fisica (DNI)
+735,49066649J,"ROMERO MARIA, OMAR",Persona fisica identificada,Persona Fisica (DNI)
+736,49201086S,"FERNANDEZ GARCIA, SARA",Persona fisica identificada,Persona Fisica (DNI)
+737,49204921D,"ROMERO MARTINEZ, PEDRO",Persona fisica identificada,Persona Fisica (DNI)
+738,50419357E,"SUAREZ CLAVO, LORENZO",Persona fisica identificada,Persona Fisica (DNI)
+739,51065643P,"ESTEBAN CRESPO, CARLOS HIGINIO",Persona fisica identificada,Persona Fisica (DNI)
+740,51417182S,"CARRASCO MONTEJO, MARIA BELEN",Persona fisica identificada,Persona Fisica (DNI)
+741,52430706K,"GARDA NOGAREDA, JOSE ANTONIO",Persona fisica identificada,Persona Fisica (DNI)
+742,52432178K,"ESMORIS AÑON, ISABEL",Persona fisica identificada,Persona Fisica (DNI)
+743,52494815Y,"SOTELO DIOS, PATRICIA",Persona fisica identificada,Persona Fisica (DNI)
+744,52787176Z,"RAJAL ROUCO, IRIA",Persona fisica identificada,Persona Fisica (DNI)
+745,53160568R,"MOSTEIRO VILLAVERDE, MANUEL",Persona fisica identificada,Persona Fisica (DNI)
+746,53161403P,"CAPELAN PEREIRA, RUBEN",Persona fisica identificada,Persona Fisica (DNI)
+747,53161473D,"LOPEZ GUERRA, IAGO 53161473D",Persona fisica identificada,Persona Fisica (DNI)
+748,53162600D,"PORTO COBAS, OSCAR",Persona fisica identificada,Persona Fisica (DNI)
+749,53164554P,"CONCEJO MARTINEZ, YAGO",Persona fisica identificada,Persona Fisica (DNI)
+750,53165479J,"GARCIA PASTUR, FRANCISCO",Persona fisica identificada,Persona Fisica (DNI)
+751,53166624P,"RODRIGUEZ COMI, OLGA",Persona fisica identificada,Persona Fisica (DNI)
+752,53167900L,"CAMPOS SUAREZ, LAURA",Persona fisica identificada,Persona Fisica (DNI)
+753,53169424W,"LOPEZ VAZQUEZ, CARLA",Persona fisica identificada,Persona Fisica (DNI)
+754,53169469R,"BELLO VAZQUEZ, JUAN CARLOS",Persona fisica identificada,Persona Fisica (DNI)
+755,53177444H,"SANLeS MiGUEZ, XIADA",Persona fisica identificada,Persona Fisica (DNI)
+756,53185163D,"COLLAZO GoMEZ, CRISTINA",Persona fisica identificada,Persona Fisica (DNI)
+757,53222057B,"TRIGUEROS SEGARRA, JOSE ANTONIO",Persona fisica identificada,Persona Fisica (DNI)
+758,53300346P,"GARCIA ARMAS, NILO JESUS",Persona fisica identificada,Persona Fisica (DNI)
+759,53302417D,"CAMAÑEZ FARIÑA, ALBA",Persona fisica identificada,Persona Fisica (DNI)
+760,53302496L,"TRIGO MARTINEZ, ROMINA",Persona fisica identificada,Persona Fisica (DNI)
+761,53304605N,"PARDO GARCIA, MARIA INMACULADA",Persona fisica identificada,Persona Fisica (DNI)
+762,53305265M,"GARCIA BELLO, DEBORAH",Persona fisica identificada,Persona Fisica (DNI)
+763,53306582B,"PRADO BOTANA, JESUS ANTONIO",Persona fisica identificada,Persona Fisica (DNI)
+764,53308507G,"GARIBALDI FERREIRO, LEANDRO",Persona fisica identificada,Persona Fisica (DNI)
+765,53821731Y,"ESTEVEZ GONZALEZ, LUCIA",Persona fisica identificada,Persona Fisica (DNI)
+766,54125860Y,"NUnEZ GUERREIRO, CARLOTA",Persona fisica identificada,Persona Fisica (DNI)
+767,54128332V,"GALAN AIRA, SAMUEL",Persona fisica identificada,Persona Fisica (DNI)
+768,54130142X,"BRA RIVAS, ADRIAN",Persona fisica identificada,Persona Fisica (DNI)
+769,54151133W,"CAINZOS LOPEZ, SANDRA",Persona fisica identificada,Persona Fisica (DNI)
+770,54155480W,"CELESTER GARCIA, DANIEL",Persona fisica identificada,Persona Fisica (DNI)
+771,54701376Q,"ILABACA PARRY, FERNANDO",Persona fisica identificada,Persona Fisica (DNI)
+772,71408761V,"LOZANO GONZALEZ, ELADIO",Persona fisica identificada,Persona Fisica (DNI)
+773,71632572S,"ORTEGA MONTOLIU, MARIA",Persona fisica identificada,Persona Fisica (DNI)
+774,73550126J,"SALES ESCRIBANO, JOSE",Persona fisica identificada,Persona Fisica (DNI)
+775,74001705X,"ESPINOSA ANDREU, MARIA DOLORES",Persona fisica identificada,Persona Fisica (DNI)
+776,74312067X,"MUnOZ TOVAR, ESTEBAN",Persona fisica identificada,Persona Fisica (DNI)
+777,74856493A,"LOZANO GOMEZ, MONICA",Persona fisica identificada,Persona Fisica (DNI)
+778,75168708Q,"PEREZ LOPEZ, JOSE ALBERTO",Persona fisica identificada,Persona Fisica (DNI)
+779,76311213L,"MOURELLE ANTELO, ANGEL",Persona fisica identificada,Persona Fisica (DNI)
+780,76321673Z,"PARDIÑAS BLANCO, ALFONSO",Persona fisica identificada,Persona Fisica (DNI)
+781,76342405T,"ENRIQUEZ GARCIA, DARIO",Persona fisica identificada,Persona Fisica (DNI)
+782,76356474Q,"PREGO RABUnAL, MARIA TERESA",Persona fisica identificada,Persona Fisica (DNI)
+783,76363543R,"MANTEIGA DIAZ, CARLOS",Persona fisica identificada,Persona Fisica (DNI)
+784,76367217H,"VILLAR VECINO, JOSE RAMON",Persona fisica identificada,Persona Fisica (DNI)
+785,76368435V,"CASTRO PENA, ANTONIO 76368435V",Persona fisica identificada,Persona Fisica (DNI)
+786,76368756Q,"ALBERTOS FIGUEROA, BEGOÑA",Persona fisica identificada,Persona Fisica (DNI)
+787,76407347J,"VEIGA TORRE, EVA MARIA",Persona fisica identificada,Persona Fisica (DNI)
+788,76413455A,"MAIRA PERNAS, XALO 76413455A",Persona fisica identificada,Persona Fisica (DNI)
+789,76416321V,"CASTRO CORRAL, VICENTE",Persona fisica identificada,Persona Fisica (DNI)
+790,76416656F,"FRAGA ALLEGUE, ANTONIO MANUEL",Persona fisica identificada,Persona Fisica (DNI)
+791,76512836R,"VILARIÑO SANCHEZ, ANTONIO",Persona fisica identificada,Persona Fisica (DNI)
+792,76513409E,"SALGADO GAREA, EVA",Persona fisica identificada,Persona Fisica (DNI)
+793,76517592L,"PEREZ BLANCO, JOSE",Persona fisica identificada,Persona Fisica (DNI)
+794,76577929G,"DIGON ALBA, OSWALDO",Persona fisica identificada,Persona Fisica (DNI)
+795,76776901A,"SOBRADELO GARCÍA, JOSE VICENTE",Persona fisica identificada,Persona Fisica (DNI)
+796,76802669B,"GARCIA FERNANDEZ, ANXO",Persona fisica identificada,Persona Fisica (DNI)
+797,76810382L,"GUZMÁN SALGUEIRO, XURXO",Persona fisica identificada,Persona Fisica (DNI)
+798,76902015C,"LOPEZ CASTRO, DANIEL",Persona fisica identificada,Persona Fisica (DNI)
+799,76927028D,"GUIMERANS RODRIGUEZ, OSCAR",Persona fisica identificada,Persona Fisica (DNI)
+800,76927637C,"CAMIÑA SEREN, MARTIN",Persona fisica identificada,Persona Fisica (DNI)
+801,77010645K,"CAMInA BARREIRO, BEATRIZ",Persona fisica identificada,Persona Fisica (DNI)
+802,77407345V,"VELASCO MARTINEZ, LUIS",Persona fisica identificada,Persona Fisica (DNI)
+803,77413167C,"GARCIA PRADO, SHEILA",Persona fisica identificada,Persona Fisica (DNI)
+804,78801731M,"CAAMAÑO MOSQUERA, SANDRA",Persona fisica identificada,Persona Fisica (DNI)
+805,78806304R,"ROMERO PEREIRA, LAURA",Persona fisica identificada,Persona Fisica (DNI)
+806,78809148Q,"FERNANDEZ OBELLEIRO, LUIS ANTONIO",Persona fisica identificada,Persona Fisica (DNI)
+807,79312331M,"URES VARELA, JESUS MANUEL",Persona fisica identificada,Persona Fisica (DNI)
+808,79312563F,"LAInO GALLEGOS, ADRIAN CARLOS",Persona fisica identificada,Persona Fisica (DNI)
+809,79314098R,"FERNANDEZ COROAS, CARLOS",Persona fisica identificada,Persona Fisica (DNI)
+810,79317513N,"NEIRA ROMERO, RAMON",Persona fisica identificada,Persona Fisica (DNI)
+811,79319771Q,"TRILLO GONZALEZ, JOSE FELIPE",Persona fisica identificada,Persona Fisica (DNI)
+812,79324453Y,"BARREIRO VEIGA, ALEJANDRO",Persona fisica identificada,Persona Fisica (DNI)
+813,79324703A,"BECERRA CASTRO, JOSE JAVIER",Persona fisica identificada,Persona Fisica (DNI)
+814,79327953X,"BELLO VARELA, RAQUEL",Persona fisica identificada,Persona Fisica (DNI)
+815,79330450T,"MALLO RODRIGUEZ, MARTA",Persona fisica identificada,Persona Fisica (DNI)
+816,941156258,CALIFORNIA ACADEMY OF SCIENCES,Persona fisica identificada,Persona Fisica (DNI)
+817,A03637899,"LABAQUA, S.A.",Persona juridica,Sociedad Anonima
+818,A07407042,PREGE CATALUÑA S.A.,Persona juridica,Sociedad Anonima
+819,A08190696,COPCISA S.A.,Persona juridica,Sociedad Anonima
+820,A08196040,"TROX ESPAÑA, SA",Persona juridica,Sociedad Anonima
+821,A08244998,MECALUX S.A.,Persona juridica,Sociedad Anonima
+822,A08274805,PECOMARK S.A.,Persona juridica,Sociedad Anonima
+823,A08472276,WURTH ESPAÑA S.A.,Persona juridica,Sociedad Anonima
+824,A08523094,ALUMBRADOS VIARIOS S.A.,Persona juridica,Sociedad Anonima
+825,A08722290,PUVILL LIBROS SA,Persona juridica,Sociedad Anonima
+826,A08829848,LABORATORIOS ANALISIS ECHEVARNE,Persona juridica,Sociedad Anonima
+827,A08950685,AIRBOX SA,Persona juridica,Sociedad Anonima
+828,A11001450,SERVICIOS ESPECIALES S.A. SERVISA,Persona juridica,Sociedad Anonima
+829,A15000227,COMPAÑIA DE TRANVIAS DE LA CORUÑA S.A.,Persona juridica,Sociedad Anonima
+830,A15000391,EDITORIAL COMPOSTELA S.A.,Persona juridica,Sociedad Anonima
+831,A15000649,LA VOZ DE GALICIA S.A.,Persona juridica,Sociedad Anonima
+832,A1500227,"COMPAÑÍA DE TRANVÍAS DE LA CORUÑA, S.A.",Persona juridica,Sociedad Anonima
+833,A15007750,DIELECTRO INDUSTRIAL SA,Persona juridica,Sociedad Anonima
+834,A15008485,ARIAS INFRAESTRUCTURAS S.A.,Persona juridica,Sociedad Anonima
+835,A15018146,M CAEIRO S.A.,Persona juridica,Sociedad Anonima
+836,A150181496,TALLERES CAEIRO S.A.,Persona juridica,Sociedad Anonima
+837,A15023435,TECNICAS DE SEGURIDAD,Persona juridica,Sociedad Anonima
+838,A15023823,HIERROS TORRES Y SAEZ S.A.,Persona juridica,Sociedad Anonima
+839,A15023856,DROGA CONDE SA,Persona juridica,Sociedad Anonima
+840,A15025091,ROYDISA S.A.,Persona juridica,Sociedad Anonima
+841,A15025281,"INTERNACO, S. A.",Persona juridica,Sociedad Anonima
+842,A15027139,"GRAFOPLAS DEL NOROESTE, S.A.",Persona juridica,Sociedad Anonima
+843,A15027881,TORRES Y SAEZ DISTRIBUCION S.A.,Persona juridica,Sociedad Anonima
+844,A15029085,GRAFICAS Y FORMULARIOS S.A,Persona juridica,Sociedad Anonima
+845,A15029739,VIAJES ORZAN SA,Persona juridica,Sociedad Anonima
+846,A15030661,MOTOR SIETE SA,Persona juridica,Sociedad Anonima
+847,A15032725,EQUIPOS DE SEÑALIZACION Y CONTROL S.A.,Persona juridica,Sociedad Anonima
+848,A15032949,AUTOMOVILES SANCHEZ S.A.,Persona juridica,Sociedad Anonima
+849,A15034747,"RYASA, S.A.",Persona juridica,Sociedad Anonima
+850,A15035413,TECNORED S.A.,Persona juridica,Sociedad Anonima
+851,A15035538,"FERRECAL, SA.",Persona juridica,Sociedad Anonima
+852,A15036353,MOTOR CORUÑA S.A.,Persona juridica,Sociedad Anonima
+853,A15039563,AUTOCARES ANTONIO VAZQUEZ S.A.,Persona juridica,Sociedad Anonima
+854,A15044043,MANTENIMIENTOS GALLEGOS S.A.,Persona juridica,Sociedad Anonima
+855,A15045875,GRUAS EIRIZ S.A.,Persona juridica,Sociedad Anonima
+856,A15046337,MUDANZAS HERCULES S.A.,Persona juridica,Sociedad Anonima
+857,A15050842,RECLAM PUBLICIDAD MARKETING Y ARTES GRAF,Persona juridica,Sociedad Anonima
+858,A15051089,KILOVATIO GALICIA S.A.,Persona juridica,Sociedad Anonima
+859,A15056393,TORCULO ARTES GRAFICAS S.A.,Persona juridica,Sociedad Anonima
+860,A15056468,CERNE INGENIERIA S.A.,Persona juridica,Sociedad Anonima
+861,A15066111,EXTERIOR GALICIA S.A.,Persona juridica,Sociedad Anonima
+862,A15066814,EMPRESA GILSANZ S. A.,Persona juridica,Sociedad Anonima
+863,A15066913,ANTONIO PAZOS S.A.,Persona juridica,Sociedad Anonima
+864,A15071772,PLASTICOS DE CARBALLO S.A.,Persona juridica,Sociedad Anonima
+865,A15077498,MOBAPE S.A.,Persona juridica,Sociedad Anonima
+866,A15078892,HERCULES DE EDICIONES S.A.,Persona juridica,Sociedad Anonima
+867,A15093081,ESTUDIO TECNICO GALLEGO S.A.,Persona juridica,Sociedad Anonima
+868,A15108921,SUPERPAPEL S.A.,Persona juridica,Sociedad Anonima
+869,A15115512,SERGANO SA,Persona juridica,Sociedad Anonima
+870,A15119506,MONLI S.A.,Persona juridica,Sociedad Anonima
+871,A15127012,PROYCOGA S.A.,Persona juridica,Sociedad Anonima
+872,A15138589,"MARMOLES GUMERSINDO REY, S.A.",Persona juridica,Sociedad Anonima
+873,A15146921,SOCIEDAD DE FOMENTO Y DESARROLLO TURISTICO,Persona juridica,Sociedad Anonima
+874,A15149271,ABN PIPE ABASTECIMIENTOS S.A.,Persona juridica,Sociedad Anonima
+875,A15208408,VEOLIA SERVICIOS NORTE S.A.U.,Persona juridica,Sociedad Anonima
+876,A15210669,LOPEZ Y LEIS S. A.,Persona juridica,Sociedad Anonima
+877,A15221865,MUGASA MOBILIARIO URBANO DE GALICA,Persona juridica,Sociedad Anonima
+878,A15266463,ITZ GALICIA S.A.,Persona juridica,Sociedad Anonima
+879,A15348477,TECNICAS DE SOFT S.A.,Persona juridica,Sociedad Anonima
+880,A15355159,ANDAMIOS C K S.A.,Persona juridica,Sociedad Anonima
+881,A15422892,KACHET LOXISTICA SA,Persona juridica,Sociedad Anonima
+882,A15429889,GALCAR S.A.,Persona juridica,Sociedad Anonima
+883,A15456585,ALTIA CONSULTORES S.A.,Persona juridica,Sociedad Anonima
+884,A15474281,R CABLE Y TELECABLE TELECOMUNICACIONES S.A.,Persona juridica,Sociedad Anonima
+885,A15482904,GENERADORES EUROPEOS S.A.L.,Persona juridica,Sociedad Anonima
+886,A15561319,CORPOBE S.A.,Persona juridica,Sociedad Anonima
+887,A15571250,HERCULES MOVIL CORUÑA S.A.,Persona juridica,Sociedad Anonima
+888,A15575574,ATLANTICA DE INFORMACION E COMUNICACION DE GALICIA SA,Persona juridica,Sociedad Anonima
+889,A15595754,NETEX KNOWLEDGE FACTORY S.A. A15595754,Persona juridica,Sociedad Anonima
+890,A15596489,AUTOMOVILES Y RECAMBIOS DE LA GRELA S.A.,Persona juridica,Sociedad Anonima
+891,A15615339,GSA GALLEGA S.A.,Persona juridica,Sociedad Anonima
+892,A15717606,VSM SISTEMAS CORUÑA S.A,Persona juridica,Sociedad Anonima
+893,A15857881,"INTEGRACIONES TECNICAS DE SEGURIDAD, S.A",Persona juridica,Sociedad Anonima
+894,A20524310,IMPRESIONES TRANSKRIT SA,Persona juridica,Sociedad Anonima
+895,A27178789,OHL SERVICIOS INGESAN S.A.,Persona juridica,Sociedad Anonima
+896,A27769983,GALICIA SERVICIO DE ASISTENCIA TECNICA S.A.L.,Persona juridica,Sociedad Anonima
+897,A27812627,ENMACOSA CONSULTORIA TÉCNICA S.A.,Persona juridica,Sociedad Anonima
+898,A28006922,FINANZAUTO,Persona juridica,Sociedad Anonima
+899,A28007268,GENERALI ESPAÑA S.A. SEGUROS Y REASEGUROS,Persona juridica,Sociedad Anonima
+900,A28007748,ALLIANZ CIA DE SEGUROS Y REASEGUROS S.A.,Persona juridica,Sociedad Anonima
+901,A28011153,ZARDOYA OTIS S.A.,Persona juridica,Sociedad Anonima
+902,A28017895,EL CORTE INGLÉS S.A,Persona juridica,Sociedad Anonima
+903,A28022952,"DiEZ Y COMPAnIA, S.A",Persona juridica,Sociedad Anonima
+904,A28057230,S.A. DE DISTRIBUCION EDICION Y LIBRERIAS,Persona juridica,Sociedad Anonima
+905,A28075083,FEILO SYLVANIA SPAIN SA,Persona juridica,Sociedad Anonima
+906,A28076420,REPSOL BUTANO S.A.,Persona juridica,Sociedad Anonima
+907,A28106797,"MARCAS VIALES, S.A",Persona juridica,Sociedad Anonima
+908,A28141935,MAPFRE ESPAÑA CIA SEGUR Y REASEG S.A.,Persona juridica,Sociedad Anonima
+909,A28161396,ASISTENCIA TECNICA INDUSTRIAL S.A.,Persona juridica,Sociedad Anonima
+910,A28166007,"TELECOMUNICACION, ELECTRONICA Y CONMUTACION, S.A.",Persona juridica,Sociedad Anonima
+911,A28229599,"MAFRE VIDA,S.A",Persona juridica,Sociedad Anonima
+912,A28268415,COMERCIAL QUEMOIL S.A.,Persona juridica,Sociedad Anonima
+913,A28281368,RADIO POPULAR S.A.,Persona juridica,Sociedad Anonima
+914,A28345577,SGS TECNOS S.A.,Persona juridica,Sociedad Anonima
+915,A28368132,COFELY ESPAÑA S.A.,Persona juridica,Sociedad Anonima
+916,A28388023,"A.B.S. TECNOLOGIAS DEL AGUA, S.A.",Persona juridica,Sociedad Anonima
+917,A28517308,EULEN SA,Persona juridica,Sociedad Anonima
+918,A28617751,RIB SPAIN SAU,Persona juridica,Sociedad Anonima
+919,A28633253,APLICACIONES TECNICAS PARA RACIONALIZACION,Persona juridica,Sociedad Anonima
+920,A28659423,NORTHGATE ESPAnA RENTING FLEXIBLE S.A.,Persona juridica,Sociedad Anonima
+921,A28743847,ESTABLECIMIENTOS ORTOPEDICOS PRIM S.A.,Persona juridica,Sociedad Anonima
+922,A28761807,LUCAM SA,Persona juridica,Sociedad Anonima
+923,A28767671,RENTOKIL INITIAL ESPAÑA SA,Persona juridica,Sociedad Anonima
+924,A28782936,UNIPREX SA,Persona juridica,Sociedad Anonima
+925,A28791069,KONE ELEVADORES,Persona juridica,Sociedad Anonima
+926,A28813244,"CENTRO DE ESTUDIOS ADAMS EDICIONES VALBUENA, S.A",Persona juridica,Sociedad Anonima
+927,A28855260,INFORMATICA EL CORTE INGLES S.A.,Persona juridica,Sociedad Anonima
+928,A28859833,ROSENBAUER ESPAÑOLA S.A.,Persona juridica,Sociedad Anonima
+929,A28899599,"MICRONET, S.A",Persona juridica,Sociedad Anonima
+930,A28986800,SERVICIOS SECURITAS S.A.,Persona juridica,Sociedad Anonima
+931,A29018637,ASCENSORES EMBARBA,Persona juridica,Sociedad Anonima
+932,A31034598,IMPORTADORA TUDELANA,Persona juridica,Sociedad Anonima
+933,A33116062,INSTITUTO MINUSVALIDO ASTUR S.A.L.,Persona juridica,Sociedad Anonima
+934,A33234717,"GADD GRUPO MEANA S,A",Persona juridica,Sociedad Anonima
+935,A33526369,DESARROLLO DE ESTRATEGIAS EXTERIORES SA,Persona juridica,Sociedad Anonima
+936,A33611195,ADARO TECONOLOGIA SA,Persona juridica,Sociedad Anonima
+937,A33622937,ASCENSORES TRESA SA,Persona juridica,Sociedad Anonima
+938,A36005718,ALMACENES CELSO MIGUEZ S.A.,Persona juridica,Sociedad Anonima
+939,A36022374,XERMOLO S.A.,Persona juridica,Sociedad Anonima
+940,A36027092,IRAGO EXCLUSIVAS Y DISTRIBUCIONES,Persona juridica,Sociedad Anonima
+941,A36127314,DIGAMEL S.A.,Persona juridica,Sociedad Anonima
+942,A36196418,"ESTRATEGIA Y ORGANIZACION, S.A. (EOSA)",Persona juridica,Sociedad Anonima
+943,A36226645,FANDICOSTA SA,Persona juridica,Sociedad Anonima
+944,A36373157,"PROMENS IBERIA, SA",Persona juridica,Sociedad Anonima
+945,A36600815,FARO VIGO S.A.,Persona juridica,Sociedad Anonima
+946,A36603314,EDITORIAL GALAXIA S. A.,Persona juridica,Sociedad Anonima
+947,A36633600,INCIPRESA,Persona juridica,Sociedad Anonima
+948,A36634434,RODAMIENTOS VIGO S.A.,Persona juridica,Sociedad Anonima
+949,A36650992,"ASCENSORES ENOR, S.A.",Persona juridica,Sociedad Anonima
+950,A36715217,SEGURIDAD GALLEGA NOSTA TERRA S.A (SEGANOSA),Persona juridica,Sociedad Anonima
+951,A36911246,BONFRIG FDC ULTRACONGELADOS S.A. UNIPERSON,Persona juridica,Sociedad Anonima
+952,A41003864,HELVETIA COMPAÑIA SUIZA S.A. SEGUROS Y REASEGUROS,Persona juridica,Sociedad Anonima
+953,A41050113,"ITURRI, S.A",Persona juridica,Sociedad Anonima
+954,A41176934,KRATA S.A.,Persona juridica,Sociedad Anonima
+955,A41606534,EUROPAPRESS DELEGACIONES SA,Persona juridica,Sociedad Anonima
+956,A46001897,THYSSENKRUPP ELEVADORES,Persona juridica,Sociedad Anonima
+957,A46146387,COBRA INSTALACIONES Y SERVICIOS S.A.,Persona juridica,Sociedad Anonima
+958,A46288874,"PILES, S.A:",Persona juridica,Sociedad Anonima
+959,A47379235,ONET IBERIA SOLUCIONES SAU,Persona juridica,Sociedad Anonima
+960,A48027056,ELECNOR S.A.,Persona juridica,Sociedad Anonima
+961,A48138390,PROTECCIÓN Y SEGURIDAD TECNICA S.A.,Persona juridica,Sociedad Anonima
+962,A48223689,AIRLAN SA,Persona juridica,Sociedad Anonima
+963,A50001726,SCHINDLER S.A.,Persona juridica,Sociedad Anonima
+964,A50086412,INSTRUMENTACION Y COMPONENTES S.A.,Persona juridica,Sociedad Anonima
+965,A50578772,KTUIN SISTEMAS INFORMATICOS SA,Persona juridica,Sociedad Anonima
+966,A53045670,SA DE PESCADOS Y MARISCO PEIXEMAR,Persona juridica,Sociedad Anonima
+967,A58010257,TOYOTA MATERIAL HANDLING ESPAA¿A S.A.,Persona juridica,Sociedad Anonima
+968,A58178161,JUEGOS KOMPAN S.A.,Persona juridica,Sociedad Anonima
+969,A58417346,WOLTERS KLUWER ESPAÑA S.A.,Persona juridica,Sociedad Anonima
+970,A58467341,ADECCO FORMACION S.A.,Persona juridica,Sociedad Anonima
+971,A58511882,NH HOTELES ESPAÑA S.A.,Persona juridica,Sociedad Anonima
+972,A58620808,H.P.C. IBERICA S.A,Persona juridica,Sociedad Anonima
+973,A58890682,"DOUBLET IBERICA, SA",Persona juridica,Sociedad Anonima
+974,A59202861,CESPA GESTION DE RESIDUOS SA,Persona juridica,Sociedad Anonima
+975,A59596734,"SCANIA HISPANIA,S.A.",Persona juridica,Sociedad Anonima
+976,A59906479,IMAN CORPORATION S.A.,Persona juridica,Sociedad Anonima
+977,A59919480,IMAN SEGURIDAD S.A.,Persona juridica,Sociedad Anonima
+978,A61351276,ALIANZAS Y SUBCONTRATAS S.A.,Persona juridica,Sociedad Anonima
+979,A61486981,PROTECCION DE PATRIMONIOS S.A.,Persona juridica,Sociedad Anonima
+980,A61797536,"GAS NATURAL COMERCIALIZADORA, S.A.",Persona juridica,Sociedad Anonima
+981,A62247879,EDEN SPRINGS ESPAnA S.A.,Persona juridica,Sociedad Anonima
+982,A63207492,LGAI TECHNOLOGICAL CENTER S.A.,Persona juridica,Sociedad Anonima
+983,A63222533,UFD DISTRIBUCION ELECTRICIDAD S.A.,Persona juridica,Sociedad Anonima
+984,A65067332,COMERCIALIZADORA REGULADA GAS AND POWER SA,Persona juridica,Sociedad Anonima
+985,A70045968,"MEDIOS DIGITALES DE GALICIA, S.A.",Persona juridica,Sociedad Anonima
+986,A70257357,IULIUS XIII S.A.,Persona juridica,Sociedad Anonima
+987,A70290358,EDAR BENS S.A.,Persona juridica,Sociedad Anonima
+988,A70302039,ABANCA CORPORACION BANCARIA S.A.,Persona juridica,Sociedad Anonima
+989,A70319678,PRACE SERVICIOS Y OBRAS S.A.,Persona juridica,Sociedad Anonima
+990,A73100638,SALZILLO SEGURIDAD,Persona juridica,Sociedad Anonima
+991,A78029774,TINSA TASACIONES INMOBILIARIAS S.A.,Persona juridica,Sociedad Anonima
+992,A78053147,TELEFONICA SOLUCIONES DE INFORMATICA Y COMUNICACIONES SAU,Persona juridica,Sociedad Anonima
+993,A78068202,NOVOTEC CONSULTORES S.A.,Persona juridica,Sociedad Anonima
+994,A78111481,FICHERO DE CARGOS ESTIRADO S A,Persona juridica,Sociedad Anonima
+995,A78336575,SKRETTING,Persona juridica,Sociedad Anonima
+996,A78468881,"BARATZ SERVICIOS DE TELEDOCUMENTACIÓN, S.A",Persona juridica,Sociedad Anonima
+997,A78510179,PRODUCTOS DE CONSERVACION SA,Persona juridica,Sociedad Anonima
+998,A78520293,REALE SEGUROS GENERALES S.A.,Persona juridica,Sociedad Anonima
+999,A78562246,SOS SEGUROS Y REASEGUROS SA,Persona juridica,Sociedad Anonima
+1000,A78583911,MECABAN S.A.,Persona juridica,Sociedad Anonima
+1001,A78601945,ILUNION OUTSOURCING S.A.,Persona juridica,Sociedad Anonima
+1002,A78899929,"PRALIBEL, S.A.",Persona juridica,Sociedad Anonima
+1003,A78913993,AMIDATA SA,Persona juridica,Sociedad Anonima
+1004,A78939576,AF STEELCASE,Persona juridica,Sociedad Anonima
+1005,A78962362,PROTECNO S.A.,Persona juridica,Sociedad Anonima
+1006,A78990413,MONCOBRA SA,Persona juridica,Sociedad Anonima
+1007,A79102331,UNIDAD EDITORIAL S.A.,Persona juridica,Sociedad Anonima
+1008,A79104360,GAZECHIM COMPOSITES IBERICA S.A.,Persona juridica,Sociedad Anonima
+1009,A79206223,LYRECO ESPAnA S.A.,Persona juridica,Sociedad Anonima
+1010,A79252219,SECURITAS SEGURIDAD ESPAÑA S.A.,Persona juridica,Sociedad Anonima
+1011,A79267126,SECURITY WORLD SA,Persona juridica,Sociedad Anonima
+1012,A79527164,TRANSPORTES EMBALAJES MONTEJES ALMACENAJE SA,Persona juridica,Sociedad Anonima
+1013,A79707345,SOLRED SA,Persona juridica,Sociedad Anonima
+1014,A80015506,TRADESEGUR SISTEMAS SEGURIDAD CIUDADANA,Persona juridica,Sociedad Anonima
+1015,A80125065,META SPAIN,Persona juridica,Sociedad Anonima
+1016,A80241789,FERROVIAL SERVICIOS SA,Persona juridica,Sociedad Anonima
+1017,A80298839,REPSOL COMERCIAL DE PRODUCTOS PETROLIFEROS SA,Persona juridica,Sociedad Anonima
+1018,A80364243,CLECE S.A.,Persona juridica,Sociedad Anonima
+1019,A80391659,EL DERECHO EDITORES S.A.,Persona juridica,Sociedad Anonima
+1020,A80500200,GRANDES ALMACENES FNAC ESPAnA S.A.,Persona juridica,Sociedad Anonima
+1021,A80515810,FLOMEYCA SA,Persona juridica,Sociedad Anonima
+1022,A80592462,HOCENSA EMPRESA CONSTRUCTORA SA,Persona juridica,Sociedad Anonima
+1023,A81089591,MAXON MOTOR IBERICA SA,Persona juridica,Sociedad Anonima
+1024,A81154197,CGI INFORMATION SYSTEMS AND MANAGEMENT CONSULTANTS ESPAnA SA,Persona juridica,Sociedad Anonima
+1025,A81486797,GRUPANORCERCAMPO SA - EQUIPAMIENTOS GANADEROS VETERINARIOS CERCAS,Persona juridica,Sociedad Anonima
+1026,A81608077,T-SYSTEMS ITC IBERIA S.A.,Persona juridica,Sociedad Anonima
+1027,A81962201,EDITORIAL ARANZADI S.A.,Persona juridica,Sociedad Anonima
+1028,A82413113,NEXEA GESTION DOCUMENTAL SA SME,Persona juridica,Sociedad Anonima
+1029,A82741067,CESPA COMPAÑIA ESPAÑOLA DESERVICIOS PUBLICOS Y AUXILIARES S. A,Persona juridica,Sociedad Anonima
+1030,A82876905,ATENEA SEGURIDAD Y MEDIO AMBIENTE SAU,Persona juridica,Sociedad Anonima
+1031,A83076687,AENOR INTERNACIONAL S.A.,Persona juridica,Sociedad Anonima
+1032,A83140012,DRAGER SAFETY HISPANIA S.A.,Persona juridica,Sociedad Anonima
+1033,A83709873,SACYR FACILITIES S.A.,Persona juridica,Sociedad Anonima
+1034,A84149566,EIVAR OBRAS E INGENIERIA S.A.,Persona juridica,Sociedad Anonima
+1035,A84554419,MEGAMAN ELECTRICA S.A.,Persona juridica,Sociedad Anonima
+1036,A84650720,GUARDIAN HOMELAND SECURITY S.A.,Persona juridica,Sociedad Anonima
+1037,A85166270,ALAUDA INGENIERIA SA,Persona juridica,Sociedad Anonima
+1038,A86340098,"CLECE SEGURIDAD, S.A.",Persona juridica,Sociedad Anonima
+1039,A92504323,DIBERETIF S.A.,Persona juridica,Sociedad Anonima
+1040,A92508720,AGAPEA FACTORY SA,Persona juridica,Sociedad Anonima
+1041,A92799568,ASESORES LOCALES CONSULTORIA SA,Persona juridica,Sociedad Anonima
+1042,A96933510,SONEPAR IBERICA SPAIN S.A.U.,Persona juridica,Sociedad Anonima
+1043,B 70.363.817,"PLASTICOS Y ACCESORIOS SEIXO, S.L. B",Persona juridica,Sociedad Limitada
+1044,B-94083854,EDIGRUP GLOBAL S.L. B-,Persona juridica,Sociedad Limitada
+1045,B01947001,XULAMASK SL,Persona juridica,Sociedad Limitada
+1046,B01956812,STRACCIATELLA TEATRO S.L.,Persona juridica,Sociedad Limitada
+1047,B01965516,INSTITUTO GALEGO DE PLANS DE EMERXENCIAS SL,Persona juridica,Sociedad Limitada
+1048,B02454775,"VISEVER FABRICACION, S.L",Persona juridica,Sociedad Limitada
+1049,B02663250,GENERAL ELEVADORES XXI S.L.,Persona juridica,Sociedad Limitada
+1050,B02675395,METRONOVENTA CREATIVIDAD Y PRODUCCION PUBLICITARIA S.L.,Persona juridica,Sociedad Limitada
+1051,B02675695,METRONOVENTA CREATIVIDAD Y PRODUCCION PUBLICITARIA SL,Persona juridica,Sociedad Limitada
+1052,B02820462,"SEÑALIZACION VERTICAL GALICIA, S.L.",Persona juridica,Sociedad Limitada
+1053,B03970910,S G ASOCIADOS SL HIPER OFFICE,Persona juridica,Sociedad Limitada
+1054,B04711503,AQUALGAE SL,Persona juridica,Sociedad Limitada
+1055,B04847588,"INSIGNIA ESGRIMA, S.L.",Persona juridica,Sociedad Limitada
+1056,B05227236,FRANCISCO PÉREZ ROSADO SL,Persona juridica,Sociedad Limitada
+1057,B08557761,HACH LANGE SPAIN SLU,Persona juridica,Sociedad Limitada
+1058,B08658601,ECA ENTIDAD COLABORADORA DE LA ADMINISTRACION S.L.,Persona juridica,Sociedad Limitada
+1059,B09253428,EIC ESTUDIO DE INGENIERIA CIVIL S L,Persona juridica,Sociedad Limitada
+1060,B10490084,"DIVISASOLUTIONS, S.L.",Persona juridica,Sociedad Limitada
+1061,B11630886,ALBIA GESTION DE SERVICIOS S.L.,Persona juridica,Sociedad Limitada
+1062,B14690135,TALENBOOK SL,Persona juridica,Sociedad Limitada
+1063,B15008766,DROGUERIA VILLAR S.L.,Persona juridica,Sociedad Limitada
+1064,B15009566,"YAÑEZ, S. L.",Persona juridica,Sociedad Limitada
+1065,B15009681,SUMINISTROS GENERALES MANUFACTURADOS S.L.,Persona juridica,Sociedad Limitada
+1066,B15011950,RADIO CORUÑA S.L.,Persona juridica,Sociedad Limitada
+1067,B15015274,ELECTROTECNICA INDUSTRIAL Y NAVAL S.L.,Persona juridica,Sociedad Limitada
+1068,B15015985,AUTOS BREA S.L.,Persona juridica,Sociedad Limitada
+1069,B15018179,EXCLUSIVAS RER S.L.,Persona juridica,Sociedad Limitada
+1070,B15019805,VIAJES RIAZOR S.L.,Persona juridica,Sociedad Limitada
+1071,B15021116,"CONSTRUCCIONES PAN Y DIAZ, S.L.",Persona juridica,Sociedad Limitada
+1072,B15023880,HERMANOS GARCIA ROCHA S.L.,Persona juridica,Sociedad Limitada
+1073,B15024458,AUTOPULLMANS TRAVIDI S.L.,Persona juridica,Sociedad Limitada
+1074,B15024797,RAYTEIPER S.L.,Persona juridica,Sociedad Limitada
+1075,B15025661,INSTALACIONES ELECTRICAS CORUÑESAS S.L.,Persona juridica,Sociedad Limitada
+1076,B15026693,ESPINA Y DELFIN S. L. B15026693,Persona juridica,Sociedad Limitada
+1077,B15027089,AUTOMOVILES LOUZAO SLU,Persona juridica,Sociedad Limitada
+1078,B15030265,"PITEIRA,SL",Persona juridica,Sociedad Limitada
+1079,B15031560,TALLERES ARTEIXO S.L.,Persona juridica,Sociedad Limitada
+1080,B15031958,PROEL ASCENSORES S.L.,Persona juridica,Sociedad Limitada
+1081,B15033061,CETRONIC S.L.,Persona juridica,Sociedad Limitada
+1082,B15033558,SANDE Y DIAZ S.L.,Persona juridica,Sociedad Limitada
+1083,B15033855,CARPINTERIA MONTERO S.L.,Persona juridica,Sociedad Limitada
+1084,B15035678,XIADA S.L.,Persona juridica,Sociedad Limitada
+1085,B15044357,APPLUS NORCONTROL SLU,Persona juridica,Sociedad Limitada
+1086,B15046337,MUDANZAS HERCULES SL,Persona juridica,Sociedad Limitada
+1087,B15048036,EFECTOS NAVALES POMBO S.L.,Persona juridica,Sociedad Limitada
+1088,B15048887,GARAJES MIRAMAR S.L.,Persona juridica,Sociedad Limitada
+1089,B15050131,CAMOSA EUROCON S.L.,Persona juridica,Sociedad Limitada
+1090,B15051725,MUSICAL 47 S.L.,Persona juridica,Sociedad Limitada
+1091,B15053838,TALLERES HERCULES DE MAQUINARIA SL,Persona juridica,Sociedad Limitada
+1092,B15054414,VOZ DE GALICIA RADIO S.L.,Persona juridica,Sociedad Limitada
+1093,B15054653,NEUMATICOS GUILLAN S.L.,Persona juridica,Sociedad Limitada
+1094,B15055817,SERVICIOS TECNICOS ELECTRONICOS CONCERTADOS SL,Persona juridica,Sociedad Limitada
+1095,B15061302,MADERAS LAMELAS S.L.,Persona juridica,Sociedad Limitada
+1096,B15066012,MANUEL RIVAS BOQUETE S.L.,Persona juridica,Sociedad Limitada
+1097,B15066392,CELTA INGENIEROS S.L..,Persona juridica,Sociedad Limitada
+1098,B15072713,CONSTRUCCIONES LOPEZ CAO S.L.,Persona juridica,Sociedad Limitada
+1099,B15073182,CRISTALERIA CAAMAÑO S.L.,Persona juridica,Sociedad Limitada
+1100,B15074016,COMERCIAL ELECTRONICA CORUÑESA S.L.,Persona juridica,Sociedad Limitada
+1101,B15076896,DOMAR TALLERES NAVALES S.L.,Persona juridica,Sociedad Limitada
+1102,B15077233,PROYFE S.L.,Persona juridica,Sociedad Limitada
+1103,B15077324,CONTENEDORES DE LA CORUÑA S.L.,Persona juridica,Sociedad Limitada
+1104,B15078579,TALLERES SAN BENITO S.L.,Persona juridica,Sociedad Limitada
+1105,B15078892,HERCULES DE EDICIONES S.L.,Persona juridica,Sociedad Limitada
+1106,B15080013,COMERCIAL VATAN S.L.,Persona juridica,Sociedad Limitada
+1107,B15080849,ICEACSA CONSULTORES S.L.U.,Persona juridica,Sociedad Limitada
+1108,B15081011,FLORICULTOR PATIÑO S.L.,Persona juridica,Sociedad Limitada
+1109,B15084163,SPEEDWAY NAUTICA S.L.,Persona juridica,Sociedad Limitada
+1110,B15086556,GALIPRESS S.L.,Persona juridica,Sociedad Limitada
+1111,B15087067,VINOS GUIMAREU S. L.,Persona juridica,Sociedad Limitada
+1112,B15111719,ANGEL ROADE S.L.,Persona juridica,Sociedad Limitada
+1113,B15111941,PROINDEX SL,Persona juridica,Sociedad Limitada
+1114,B15112915,FERRETERIA LA PALLOZA SL,Persona juridica,Sociedad Limitada
+1115,B15116726,ALMACENES A PARDO S.L.,Persona juridica,Sociedad Limitada
+1116,B15118532,COPIFAX S.L.,Persona juridica,Sociedad Limitada
+1117,B15126170,GALMEDIC SUMINISTROS MEDICOS S.L.,Persona juridica,Sociedad Limitada
+1118,B15126238,BLANCOHOSTEL S.L.,Persona juridica,Sociedad Limitada
+1119,B15128762,BALEATO S.L.,Persona juridica,Sociedad Limitada
+1120,B15132046,MONTAJES ELECTRICOS VIZCAINO S.L.,Persona juridica,Sociedad Limitada
+1121,B15133259,ROYAL MAYLINE S L,Persona juridica,Sociedad Limitada
+1122,B15134182,VEHICULOS EQUIPAMIENTOS Y CARROCERIAS PRIETO PUGA S.L.,Persona juridica,Sociedad Limitada
+1123,B15148729,MONTEOLIVA ARQUITECTURA S.L.,Persona juridica,Sociedad Limitada
+1124,B15153091,ORTOTECO S.L.,Persona juridica,Sociedad Limitada
+1125,B15157779,ABECONSA S.L.,Persona juridica,Sociedad Limitada
+1126,B15161102,BERTHA HOGAR S.L.,Persona juridica,Sociedad Limitada
+1127,B15162068,EDITORIAL LA CAPITAL S.L.,Persona juridica,Sociedad Limitada
+1128,B15164445,E INFORMATICOS SISTEMAS AUTOMATI,Persona juridica,Sociedad Limitada
+1129,B15166663,SISTEMAS OLTON S.L.,Persona juridica,Sociedad Limitada
+1130,B15172984,ENCUADERNACIONES EX LIBRIS S.L.,Persona juridica,Sociedad Limitada
+1131,B15200769,CONSULTORA DE INGENIERIA Y EMPRESA S.L.,Persona juridica,Sociedad Limitada
+1132,B15205396,COBOS PAVON S.L.,Persona juridica,Sociedad Limitada
+1133,B15210289,FORMATO PRODUCCIONES S.L.,Persona juridica,Sociedad Limitada
+1134,B15210743,GALPLAST S.L.,Persona juridica,Sociedad Limitada
+1135,B15211188,COMUNICACIONES ELEMAR-NOR S.L.,Persona juridica,Sociedad Limitada
+1136,B15213911,SUMINISTROS TECNICOS GALICIA S.L.,Persona juridica,Sociedad Limitada
+1137,B15214406,PROSPECTIVA Y ANALISIS CONSULTORES S.L.,Persona juridica,Sociedad Limitada
+1138,B15218977,SETECMA CORUÑA S.L.,Persona juridica,Sociedad Limitada
+1139,B15221567,MANUEL VARELA COLLAZO S.L.,Persona juridica,Sociedad Limitada
+1140,B15232960,GALICIA COMUNICACION G Y C S.L.,Persona juridica,Sociedad Limitada
+1141,B15237308,GRAFICAS MERA S L,Persona juridica,Sociedad Limitada
+1142,B15254493,ERFINCO S.L.,Persona juridica,Sociedad Limitada
+1143,B15255920,AGENCIA GRAFICA GALLEGA S.L.,Persona juridica,Sociedad Limitada
+1144,B15259765,SISTEMAS DE SEGURIDADE A 1 SL,Persona juridica,Sociedad Limitada
+1145,B15261167,SERVICIOS DEPORTIVOS GALICIA SL,Persona juridica,Sociedad Limitada
+1146,B15271042,PROTEL SISTEMA DE SEGURIDAD S.L.,Persona juridica,Sociedad Limitada
+1147,B15272438,SISTEMA DISEÑO Y PRODUCCION GRAFICA S.L.,Persona juridica,Sociedad Limitada
+1148,B15274459,TOLDOS GOMEZ S.L.,Persona juridica,Sociedad Limitada
+1149,B15292022,CORPORACION VOZ DE GALICIA S.L.,Persona juridica,Sociedad Limitada
+1150,B15293442,COSNOR CORREDURIA DE SEGUROS S.L.,Persona juridica,Sociedad Limitada
+1151,B15302391,CRISTALERIA EL REFLEJO S.L.,Persona juridica,Sociedad Limitada
+1152,B15304637,"TALLERES J GRAÑA, S. L.",Persona juridica,Sociedad Limitada
+1153,B15306681,GRUMAR TRADIN S.L.,Persona juridica,Sociedad Limitada
+1154,B15313505,COREMAIN S.L.,Persona juridica,Sociedad Limitada
+1155,B15315062,FYT LIMPIEZAS Y MANTENIMIENTOS S.L.,Persona juridica,Sociedad Limitada
+1156,B15320500,ARDUMA S.L.,Persona juridica,Sociedad Limitada
+1157,B15323397,CARNICAS VISTA ALEGRE SL,Persona juridica,Sociedad Limitada
+1158,B15325061,ALMACENES AGRO S. L.,Persona juridica,Sociedad Limitada
+1159,B15327752,RENDAL S.L.,Persona juridica,Sociedad Limitada
+1160,B15328750,CARPINTERIA METALICA GALANAS S.L.,Persona juridica,Sociedad Limitada
+1161,B15329022,ALQUILERES GALICIA S L,Persona juridica,Sociedad Limitada
+1162,B15331754,IMPRENTA LOS MALLOS S.L.,Persona juridica,Sociedad Limitada
+1163,B15333354,MARKETING DIRECTO PUBLINOR O SL,Persona juridica,Sociedad Limitada
+1164,B15338338,CONTRUCCIONES ROCHA CORRAL S.L.,Persona juridica,Sociedad Limitada
+1165,B15340128,NORTREK S.L.,Persona juridica,Sociedad Limitada
+1166,B15342058,INSTITUTO SONDAXE S.L.,Persona juridica,Sociedad Limitada
+1167,B15342512,AUTOMOVILES LORGA S.L.,Persona juridica,Sociedad Limitada
+1168,B15345606,RAFERGAL S.L.,Persona juridica,Sociedad Limitada
+1169,B15346919,CAUCHOS Y PLASTICOS INDUSTRIALES COMAGA S.L.,Persona juridica,Sociedad Limitada
+1170,B15349988,CONSERVACION DE MAQUINARIA INDUSTRIAL S.L.,Persona juridica,Sociedad Limitada
+1171,B15352529,COFERSA SEGURIDAD S.L.,Persona juridica,Sociedad Limitada
+1172,B15354327,INTERIORES GALICIA S.L.,Persona juridica,Sociedad Limitada
+1173,B15359185,COMERCIAL MAQUINARIA F-3 S.L.,Persona juridica,Sociedad Limitada
+1174,B15359581,CAMARGLASS S.L.,Persona juridica,Sociedad Limitada
+1175,B15360902,CANARGA S.L.,Persona juridica,Sociedad Limitada
+1176,B15361348,NEA F3 IBERICA S L U,Persona juridica,Sociedad Limitada
+1177,B15365315,NUnEZ CORUnA S.L.,Persona juridica,Sociedad Limitada
+1178,B15367469,OUSINDE S.L.,Persona juridica,Sociedad Limitada
+1179,B15368194,AUTOCARES M. GARCIA LA CORUÑA S.L.,Persona juridica,Sociedad Limitada
+1180,B15370042,SERMOGA OSSORIO FRANQUEO S.L.,Persona juridica,Sociedad Limitada
+1181,B15371974,VENTOPRINT S.L.,Persona juridica,Sociedad Limitada
+1182,B15376486,"CORUÑESA DE ALUMINIO, S.L.",Persona juridica,Sociedad Limitada
+1183,B15377724,SOLIDA SOLUCIONES INTEGRALES S.L.,Persona juridica,Sociedad Limitada
+1184,B15378086,SET CORUÑA S.L.,Persona juridica,Sociedad Limitada
+1185,B15382385,CONSTRUCCIONES M.A. RAMOS S.L.,Persona juridica,Sociedad Limitada
+1186,B15383482,CONSTRUCCIONES C.CANCELA S.L.,Persona juridica,Sociedad Limitada
+1187,B15389513,IMPRENTA MUNDO S.L..,Persona juridica,Sociedad Limitada
+1188,B15397078,MAGA LIMPIEZAS S.L.,Persona juridica,Sociedad Limitada
+1189,B15398134,ORZAN CONGRES S.L,Persona juridica,Sociedad Limitada
+1190,B15398613,AUTOCARES J. POMBO S.L.,Persona juridica,Sociedad Limitada
+1191,B15398902,IDEA CREATIVIDAD Y COMUNICACION S.L.,Persona juridica,Sociedad Limitada
+1192,B15404569,AUTOMOVILES BERMUDEZ E HIJOS S.L.,Persona juridica,Sociedad Limitada
+1193,B15410673,TALLERES MUIÑOS S.L.,Persona juridica,Sociedad Limitada
+1194,B15412646,GARECROM S.L.,Persona juridica,Sociedad Limitada
+1195,B15414287,VIAJES RAI S.L.,Persona juridica,Sociedad Limitada
+1196,B15422835,SISTEMAS DE PAPEL CONTINUO S.L.,Persona juridica,Sociedad Limitada
+1197,B15424492,LIBRERIA ARENAS S.L.,Persona juridica,Sociedad Limitada
+1198,B15424989,JOCRISA S.L.,Persona juridica,Sociedad Limitada
+1199,B15425804,QPRO TECNOLOGIA INFORMATICA S.L.,Persona juridica,Sociedad Limitada
+1200,B15432552,GALICIA MEDIA S.L.,Persona juridica,Sociedad Limitada
+1201,B15434251,ATI SISTEMAS S L,Persona juridica,Sociedad Limitada
+1202,B15439607,J.C. COURRIER S.L.,Persona juridica,Sociedad Limitada
+1203,B15445588,DOMINGO SOBRINO VICENTE E HIJOS S.L.,Persona juridica,Sociedad Limitada
+1204,B15448004,IAM RUMBO INSTALACIONES Y OBRAS S.L.,Persona juridica,Sociedad Limitada
+1205,B15448293,ACTIVITY AND PROGRESS S.L.,Persona juridica,Sociedad Limitada
+1206,B15450018,DANIEL DECORACION S.L.,Persona juridica,Sociedad Limitada
+1207,B15450380,ATLANTIS MULTIMEDIA SLU,Persona juridica,Sociedad Limitada
+1208,B15453293,ACCESORIOS MIGUEL S.L.,Persona juridica,Sociedad Limitada
+1209,B15457575,ELECTRICIDAD CRUCEIRO S.L.,Persona juridica,Sociedad Limitada
+1210,B15459027,AS COMPUTER MACENTE S.L.,Persona juridica,Sociedad Limitada
+1211,B15461023,G.M. PROVIDEO S.L.,Persona juridica,Sociedad Limitada
+1212,B15465941,ARMERIA BELAMI SL,Persona juridica,Sociedad Limitada
+1213,B15466568,ARARGA SL,Persona juridica,Sociedad Limitada
+1214,B15467921,TECNICA 4 INGENIERIA Y MONTAJES S.L.,Persona juridica,Sociedad Limitada
+1215,B15468333,QUIFYL S.L.,Persona juridica,Sociedad Limitada
+1216,B15468382,TALLERES D 3 S.L.,Persona juridica,Sociedad Limitada
+1217,B15470008,DITENOR S.L.,Persona juridica,Sociedad Limitada
+1218,B15474570,EMETEL SISTEMAS TELECOMUNICACION S.L.,Persona juridica,Sociedad Limitada
+1219,B15476252,DELAPERSIANA S.L.,Persona juridica,Sociedad Limitada
+1220,B15476641,PUERTAS GARAL S.L.,Persona juridica,Sociedad Limitada
+1221,B15482177,CANAL VOZ S.L.,Persona juridica,Sociedad Limitada
+1222,B15486020,APLICACIONES CORUÑESAS S.L.,Persona juridica,Sociedad Limitada
+1223,B15488356,PINTURAS Y DISTRIBUCIONES PROINDE S.L.,Persona juridica,Sociedad Limitada
+1224,B15488372,MANTENIMIENTOS ELECTROMECANICOS DE GALICIA S.L.,Persona juridica,Sociedad Limitada
+1225,B15488950,SERMUPA S.L.,Persona juridica,Sociedad Limitada
+1226,B15490030,AGRICOLA CARBALLEIRA S.L.,Persona juridica,Sociedad Limitada
+1227,B15490550,LIMPIEZAS BLANCOMAR S.L.,Persona juridica,Sociedad Limitada
+1228,B15492226,SIAMSON S.L.,Persona juridica,Sociedad Limitada
+1229,B15494230,"AFICON SEGURIDAD Y CONTRAINCENDIOS, S.L.",Persona juridica,Sociedad Limitada
+1230,B15498553,DON VIDRIO S.L.,Persona juridica,Sociedad Limitada
+1231,B15503782,CARICLES OBRAS Y SERVICIOS S.L.,Persona juridica,Sociedad Limitada
+1232,B15509078,MENAJE GALICIA S.L.,Persona juridica,Sociedad Limitada
+1233,B15510605,LOGISTICA DEL ESPECTACULO S L,Persona juridica,Sociedad Limitada
+1234,B15514151,MARCOS Y MOLDURAS LAUTREC S.L.,Persona juridica,Sociedad Limitada
+1235,B15517634,FIXAGAL S.L.,Persona juridica,Sociedad Limitada
+1236,B15529753,MUEBLES CORREDOIRA S.L.,Persona juridica,Sociedad Limitada
+1237,B15530678,PERSIANAS NOYA S.L.,Persona juridica,Sociedad Limitada
+1238,B15533847,SERIFOR PUBLICIDADE TEXTIL S.L.,Persona juridica,Sociedad Limitada
+1239,B15535552,MERCARTABRIA S.L.U.,Persona juridica,Sociedad Limitada
+1240,B15537319,TALLERES ELECTROMECANICOS VADER S.L.,Persona juridica,Sociedad Limitada
+1241,B15537616,"OBRAS RAMON COTELO, S.L.",Persona juridica,Sociedad Limitada
+1242,B15538135,JARDINCELAS S.L.,Persona juridica,Sociedad Limitada
+1243,B15541113,GONFER PAPELERIA TECNICA S.L.,Persona juridica,Sociedad Limitada
+1244,B15542061,FONTANERIA ENRIQUE VARELA CASTELO S.L.,Persona juridica,Sociedad Limitada
+1245,B15544398,DROGALLEGA S.L.,Persona juridica,Sociedad Limitada
+1246,B15545098,SOCIEDAD BIBLIOGRAFICA DE GALICIA S.L.,Persona juridica,Sociedad Limitada
+1247,B15547979,JARDINERIA ARCE S.L.,Persona juridica,Sociedad Limitada
+1248,B15549413,NT FOR LEARNING S.L.,Persona juridica,Sociedad Limitada
+1249,B15551195,ILUMINACION NAVEIRO S.L.,Persona juridica,Sociedad Limitada
+1250,B15556913,AUTOCARES PONTECESO SL,Persona juridica,Sociedad Limitada
+1251,B15558034,"TECNOLOGIA, ESTRATEGIA Y ORGANIZACION DE SISTEMAS SL",Persona juridica,Sociedad Limitada
+1252,B15561202,SERVICIOS INTEGRALES DEL NOROESTE S.L.,Persona juridica,Sociedad Limitada
+1253,B15564164,EVARISTO LEMA SUAREZ S.L.,Persona juridica,Sociedad Limitada
+1254,B15564354,EL REY DE OROS S.L.,Persona juridica,Sociedad Limitada
+1255,B15565096,LAIROSIDE S L,Persona juridica,Sociedad Limitada
+1256,B15565864,EMPREGO SOCIAL S.L.,Persona juridica,Sociedad Limitada
+1257,B15567209,R.D. SENAVE S.L.,Persona juridica,Sociedad Limitada
+1258,B15567217,G.B. SUMINISTROS DE OFICINA S.L.,Persona juridica,Sociedad Limitada
+1259,B15569007,GERMAN Y CAAMAÑO S. L.,Persona juridica,Sociedad Limitada
+1260,B15571912,CATERING JOSMAGA S.L.,Persona juridica,Sociedad Limitada
+1261,B15573207,KL-1 MOBILIARIO OFICINA S.L.,Persona juridica,Sociedad Limitada
+1262,B15576085,ISTEGA S.L.,Persona juridica,Sociedad Limitada
+1263,B15576689,SERVIGUIDE S.L.,Persona juridica,Sociedad Limitada
+1264,B15581689,VILLARES CHAS S.L.,Persona juridica,Sociedad Limitada
+1265,B15582737,NEUMATICOS DAVID VARELA S.L.,Persona juridica,Sociedad Limitada
+1266,B15582836,EXCLUSIVAS ALONSO DEIVE S.L.,Persona juridica,Sociedad Limitada
+1267,B15583107,PRODUCTOS INDUSTRIALES DE LIMPIEZA RODRIGUEZ Y RODRIGUEZ S.L,Persona juridica,Sociedad Limitada
+1268,B15583677,DISEÑO ELÉCTRICO CORUÑA S.L.,Persona juridica,Sociedad Limitada
+1269,B15585102,BREOGAN MOTOR S.L.,Persona juridica,Sociedad Limitada
+1270,B15595119,ALVAGO INVERSIONES S.L.,Persona juridica,Sociedad Limitada
+1271,B15595176,DAMASO ALVAREZ TALLER DE ROTULISTAS S.L.,Persona juridica,Sociedad Limitada
+1272,B15596034,CARPINTERIA METALICA DACRI SL,Persona juridica,Sociedad Limitada
+1273,B15598972,FERRETERIA OSCAR S.L.,Persona juridica,Sociedad Limitada
+1274,B15599376,GALLEGA DE AISLAMIENTO Y VENTILACION S.L.,Persona juridica,Sociedad Limitada
+1275,B15601396,CONSTRUCCIONES FLOVEMA S.L.,Persona juridica,Sociedad Limitada
+1276,B15603483,APER SEGURIDAD S.L.,Persona juridica,Sociedad Limitada
+1277,B15606114,TECNOSOS GALICIA S L,Persona juridica,Sociedad Limitada
+1278,B15609530,AUTECO SEGURIDAD S.L.,Persona juridica,Sociedad Limitada
+1279,B15615784,HOTEL ADELIA S.L.,Persona juridica,Sociedad Limitada
+1280,B15617228,WHITE SPIRIT SL,Persona juridica,Sociedad Limitada
+1281,B1561775,EUROPUBLIC MARKETING COMUNICACION,Persona juridica,Sociedad Limitada
+1282,B15618465,MEDIOS AUTONOMICOS DE RADIODIFUSION GALL,Persona juridica,Sociedad Limitada
+1283,B15618598,VAZQUEZ Y REINO S.L.,Persona juridica,Sociedad Limitada
+1284,B15619513,AUTOCARES PEDRO POMBO S.L.,Persona juridica,Sociedad Limitada
+1285,B15623259,INSTALACIONES DEPORTIVAS GALLEGAS S L,Persona juridica,Sociedad Limitada
+1286,B15624174,HERRAJES REY S.L.,Persona juridica,Sociedad Limitada
+1287,B15625296,CENTRO DE FORMACION PRAXIS S.L.,Persona juridica,Sociedad Limitada
+1288,B15625866,EFECTOS NAVALES BURELA S.L.,Persona juridica,Sociedad Limitada
+1289,B15628464,DAVID CARBALLAL ESTUDIO GRAFICO S.L.,Persona juridica,Sociedad Limitada
+1290,B15633233,"SUTEGA BELLAS ARTES SL,",Persona juridica,Sociedad Limitada
+1291,B15633241,"SUTEGA PAPELERIA, S.L.",Persona juridica,Sociedad Limitada
+1292,B15633258,"SUTEGAMOBILIARIO OFICINA, SL,",Persona juridica,Sociedad Limitada
+1293,B15635246,BAIA EDICIONS A CORUÑA S.L.,Persona juridica,Sociedad Limitada
+1294,B15635808,JET MACHINE COMPUTERS S.L.,Persona juridica,Sociedad Limitada
+1295,B15636517,CHEVERE PRODUCCIONS S.L.,Persona juridica,Sociedad Limitada
+1296,B15636996,VIFER Y DE DIEGO S.L.,Persona juridica,Sociedad Limitada
+1297,B15637762,SUMINISTROS TECNICOS DEPORTIVOS SL.,Persona juridica,Sociedad Limitada
+1298,B15638414,DANIEL DE LA IGLESIA S.L.,Persona juridica,Sociedad Limitada
+1299,B15639149,AUTOCARES LUIS RAPOSO S.L.,Persona juridica,Sociedad Limitada
+1300,B15642234,ESTUDIO NAOS ARQUITECTURA S.L.,Persona juridica,Sociedad Limitada
+1301,B15643141,GRUPO HERMANOS FORMIGO S.L.,Persona juridica,Sociedad Limitada
+1302,B15643240,SERVICIOS GALLEGOS DE LACERIA S.L.,Persona juridica,Sociedad Limitada
+1303,B15645336,"ÁREA 5,1 FACTORIA AUDIOVISUAL, S.L",Persona juridica,Sociedad Limitada
+1304,B15645419,REPARACION DE MAQUINARA DE OFICINA S.L.,Persona juridica,Sociedad Limitada
+1305,B15648595,LTM SERVICIOS BIBLIOTECARIOS S.L.,Persona juridica,Sociedad Limitada
+1306,B15650146,BRAN SERIGRAFIC S.L.,Persona juridica,Sociedad Limitada
+1307,B15650344,"CABLISEnA, S.L.",Persona juridica,Sociedad Limitada
+1308,B15651771,AUTOCARES REBOREDO S. L.,Persona juridica,Sociedad Limitada
+1309,B15658297,HASTEL ALQUIL SL,Persona juridica,Sociedad Limitada
+1310,B15658461,I.G.DOCUMENTACION S.L.,Persona juridica,Sociedad Limitada
+1311,B15659790,PERAGALLO S.L.,Persona juridica,Sociedad Limitada
+1312,B15661077,JEGA GRAFICA S.L.,Persona juridica,Sociedad Limitada
+1313,B15664816,ESPROADE S.L.,Persona juridica,Sociedad Limitada
+1314,B15666357,CARLOS SEOANE ARQUITECTO S.L.,Persona juridica,Sociedad Limitada
+1315,B15666944,CAMP FORMACI INTERV SOCIOEDUCA,Persona juridica,Sociedad Limitada
+1316,B15668221,ORONS BUS S.L.,Persona juridica,Sociedad Limitada
+1317,B15669690,TROITAMAR S.L.,Persona juridica,Sociedad Limitada
+1318,B15672108,BURGOTYM S.L.,Persona juridica,Sociedad Limitada
+1319,B15672157,HOTEL RIAZOR CORUÑA S.L.,Persona juridica,Sociedad Limitada
+1320,B15672173,SIGLO XXI CONSULTORES DE FORMACION S.L.,Persona juridica,Sociedad Limitada
+1321,B15672181,INSTALACIONES JULIO ALVAREZ S.L..,Persona juridica,Sociedad Limitada
+1322,B15673676,M. COUCEIRO LIBRERIAS S.L.,Persona juridica,Sociedad Limitada
+1323,B15673973,ACUICULTURA Y NUTRICIÓN DE GALICIA SL,Persona juridica,Sociedad Limitada
+1324,B15674229,CARPINTERIA ALCABER S.L.,Persona juridica,Sociedad Limitada
+1325,B15675275,FERMAN CORUÑA S.L.,Persona juridica,Sociedad Limitada
+1326,B15676117,SPORT MARTINEZ VILA SL,Persona juridica,Sociedad Limitada
+1327,B15677388,TALLERES FORMOSO FIGUEIRA S. L.,Persona juridica,Sociedad Limitada
+1328,B15681828,ELEC SEGURIDAD GALICIA S. L.,Persona juridica,Sociedad Limitada
+1329,B15681950,GALIZA VERDE,Persona juridica,Sociedad Limitada
+1330,B15682537,FRONDA GALEGA DE SONIDO S.L.,Persona juridica,Sociedad Limitada
+1331,B15686207,MAGA SISTEMAS DE SEGURIDAD S.L.,Persona juridica,Sociedad Limitada
+1332,B15688013,QUATTRO IND DEST DE CREAT PUBL S.L.,Persona juridica,Sociedad Limitada
+1333,B15689607,TALLERES TREBORE S.L.,Persona juridica,Sociedad Limitada
+1334,B15689656,ITOPIC BE DIGITAL SL,Persona juridica,Sociedad Limitada
+1335,B15692312,"AESOCER, SL",Persona juridica,Sociedad Limitada
+1336,B15697931,FONTANERIA CALGAS DE INSTALACIONES SL,Persona juridica,Sociedad Limitada
+1337,B15701683,LA NUESTRA COMUNICACION PUBLICITARIA S.L.,Persona juridica,Sociedad Limitada
+1338,B15703721,GRUAS Y SERVICIOS CHEMA S.L.,Persona juridica,Sociedad Limitada
+1339,B15704109,XALO OBRAS E SERVICIOS S.L.,Persona juridica,Sociedad Limitada
+1340,B15707136,ROTULACIONES KEOS GALICIA S.L.,Persona juridica,Sociedad Limitada
+1341,B15708993,10D10 SOLUCIONES ACERTADAS SLL,Persona juridica,Sociedad Limitada
+1342,B15713910,PAZO DE ANDRADE S.L.,Persona juridica,Sociedad Limitada
+1343,B15714223,METALES MARINA S.L.,Persona juridica,Sociedad Limitada
+1344,B15717515,CICLOS QUINTENA S.L.,Persona juridica,Sociedad Limitada
+1345,B15720196,TIP EST EN MADERA HORMIGON Y ACERO S.L.,Persona juridica,Sociedad Limitada
+1346,B15721608,GUILLERMO COSQUE SL,Persona juridica,Sociedad Limitada
+1347,B15724685,PERFECCIONAMIENTO Y TECNICAS DE CONDUCCION S.L.,Persona juridica,Sociedad Limitada
+1348,B15724719,SENES CIT S.L.,Persona juridica,Sociedad Limitada
+1349,B15725690,CYMA GRAFICA CORUÑA 2002 S.L.,Persona juridica,Sociedad Limitada
+1350,B15725930,CORUÑA ZONA VERDE S.L.,Persona juridica,Sociedad Limitada
+1351,B15726177,TECNOLOGIAS PLEXUS SL,Persona juridica,Sociedad Limitada
+1352,B15726938,FRIGORIFICA BOTANA S.L.,Persona juridica,Sociedad Limitada
+1353,B15728447,AD NUTUM E SL,Persona juridica,Sociedad Limitada
+1354,B15730286,SMG IBERIA S.L.,Persona juridica,Sociedad Limitada
+1355,B15736937,MARIÑO ROPAS DE TRABAJO S.L.,Persona juridica,Sociedad Limitada
+1356,B15740426,NAUTICA CARLOS SL,Persona juridica,Sociedad Limitada
+1357,B15743750,"GESTAN MEDIOAMBIENTAL, S.L.",Persona juridica,Sociedad Limitada
+1358,B15745144,SUMINISTROS CURROS S.L.,Persona juridica,Sociedad Limitada
+1359,B15746183,MAGARAL INGENIERIA S.L.,Persona juridica,Sociedad Limitada
+1360,B15746548,MARE COORDINACION PRODUCCION S.L,Persona juridica,Sociedad Limitada
+1361,B15748452,SERVIPERTU LIMPIEZA EIL S.L.,Persona juridica,Sociedad Limitada
+1362,B15756182,GRAFICAS TOMO S.L.L.,Persona juridica,Sociedad Limitada
+1363,B15757941,CINFO CONTENIDOS INFORMATIVOS PERSONALIZADOS S.L.,Persona juridica,Sociedad Limitada
+1364,B15764103,TORNILLERIA Y SUMINISTROS GALLEGOS S.L.,Persona juridica,Sociedad Limitada
+1365,B15764582,ECOLIMSISTEM S.L.,Persona juridica,Sociedad Limitada
+1366,B15766421,INSTELVA CORUÑA S.L.,Persona juridica,Sociedad Limitada
+1367,B15769706,EXCAVACIONES J. CANCELA ESMORIS S.L.,Persona juridica,Sociedad Limitada
+1368,B15783665,"SERVICIOS GRAFICOS ARTEIXO, S.L.",Persona juridica,Sociedad Limitada
+1369,B15785637,SERVICIOS ASISTENCIA TECNICA PROFESIONAL,Persona juridica,Sociedad Limitada
+1370,B15791163,CAMPUS NA NUBE SL,Persona juridica,Sociedad Limitada
+1371,B15794209,J.M. REGUEIRO INFORMATICA Y COMUNICACION.,Persona juridica,Sociedad Limitada
+1372,B15798531,SOUSIÑO S.L.,Persona juridica,Sociedad Limitada
+1373,B15798838,INVERSIONES CARCOR S.L.,Persona juridica,Sociedad Limitada
+1374,B15801160,"LIBRERIA FORMATOS, S.L.",Persona juridica,Sociedad Limitada
+1375,B15801301,CEYMA AUTOMATISMOS S.L.,Persona juridica,Sociedad Limitada
+1376,B15803380,LOGICA EQUIPAMIENTOS INTEGRALES S.L.,Persona juridica,Sociedad Limitada
+1377,B15806953,SOGEVENDING S.L.,Persona juridica,Sociedad Limitada
+1378,B15809619,TEATRO DEL ANDAMIO S.L.,Persona juridica,Sociedad Limitada
+1379,B15812662,MARA PAPEL S.L.,Persona juridica,Sociedad Limitada
+1380,B15813306,LOUZAO VEHICULOS INDUSTRIALES CORUÑA S.L.,Persona juridica,Sociedad Limitada
+1381,B15814296,ARCE CLIMA SISTEMAS Y APLICACIONES S.L.,Persona juridica,Sociedad Limitada
+1382,B15814346,DUENDE SICO S.L.,Persona juridica,Sociedad Limitada
+1383,B15814973,TALLERES Y CARROCERIAS A BASCULA SL,Persona juridica,Sociedad Limitada
+1384,B15815624,SELA SAFETY S.L.,Persona juridica,Sociedad Limitada
+1385,B15815731,LOGISTICA ALATEC S.L.,Persona juridica,Sociedad Limitada
+1386,B15817190,SUMINISTROS COREMAR S.L.,Persona juridica,Sociedad Limitada
+1387,B15826878,CARPEMAGA S.L.,Persona juridica,Sociedad Limitada
+1388,B15829443,VALORA CONSULTORES DE GESTION S.L.,Persona juridica,Sociedad Limitada
+1389,B15834872,"OZONA CONSULTING, S.L.",Persona juridica,Sociedad Limitada
+1390,B15835721,AXInA SERVICIOS DEPORTIVOS SL,Persona juridica,Sociedad Limitada
+1391,B15840861,BCNOR GESTION Y SOLUCIONES AVANZADAS S.L.,Persona juridica,Sociedad Limitada
+1392,B15843394,CEGA CONGRESOS AUDIOVISUALES VIAJES S.L.,Persona juridica,Sociedad Limitada
+1393,B15843899,MASTIL NOROESTE PUBLICIDAD S L,Persona juridica,Sociedad Limitada
+1394,B15845860,PULULART S.L.,Persona juridica,Sociedad Limitada
+1395,B15847080,CAAMAÑO CONCHEIRO Y SEOANE ABOGADOS S.L.,Persona juridica,Sociedad Limitada
+1396,B15848377,GRABADOS FG 3 0 SL,Persona juridica,Sociedad Limitada
+1397,B15850647,BALIDEA CONSULTING & PROGRAMING S.L.,Persona juridica,Sociedad Limitada
+1398,B15853443,J.C.COURIER CORUÑA S.L.,Persona juridica,Sociedad Limitada
+1399,B15858871,OCIO MARINEDA S.L.,Persona juridica,Sociedad Limitada
+1400,B15861719,LIMPIEZAS Y MANTENIMIENTOS JOSE LUIS S. L.,Persona juridica,Sociedad Limitada
+1401,B15862295,ALDABA E PROFESIONALES S.L.L.,Persona juridica,Sociedad Limitada
+1402,B15862667,GESTORA DE SUBPRODUCTOS DE GALICIA SL,Persona juridica,Sociedad Limitada
+1403,B15864192,DISCOFERRO GALICIA SL,Persona juridica,Sociedad Limitada
+1404,B15864671,AMBULANCIAS APOSTOL CORUnA SL,Persona juridica,Sociedad Limitada
+1405,B15866353,TECNORED IINGENIERIA S.L.,Persona juridica,Sociedad Limitada
+1406,B15867583,REMOLQUES Y CARAVANAS MALLON S L,Persona juridica,Sociedad Limitada
+1407,B15869704,KOTA BLUE S.L.,Persona juridica,Sociedad Limitada
+1408,B15869944,"BIBLOS*CLUBE,DE LECTORES S.L.",Persona juridica,Sociedad Limitada
+1409,B15878077,TINTORERIA LIMP-SEC SL,Persona juridica,Sociedad Limitada
+1410,B15879687,TABERNA O SECRETO S.L.U.,Persona juridica,Sociedad Limitada
+1411,B15879968,EZCURRA Y OUZANDE ARQUITECTURA S.L.P.,Persona juridica,Sociedad Limitada
+1412,B15888159,OLA GREEN DISCO SL,Persona juridica,Sociedad Limitada
+1413,B15890809,HEBE SPORT SL,Persona juridica,Sociedad Limitada
+1414,B15891526,TEMPO CONSULTORIA ESTRATEGICA S.L.,Persona juridica,Sociedad Limitada
+1415,B15892987,MANTENIMIENTOS CONTRAINCENDIOS S.L.,Persona juridica,Sociedad Limitada
+1416,B15895626,OUVIRMOS,Persona juridica,Sociedad Limitada
+1417,B15897176,ALTERNATIVAS ELECTRICAS S. L.,Persona juridica,Sociedad Limitada
+1418,B15898273,"APLIDEC 2003,S.L.",Persona juridica,Sociedad Limitada
+1419,B15902448,ANIMACION Y EVENTOS S.L.,Persona juridica,Sociedad Limitada
+1420,B15905821,EQUIPAMIENTOS SELECTA S.L. EN CONSTITUCION,Persona juridica,Sociedad Limitada
+1421,B15910847,IPGLOBAL S.L.,Persona juridica,Sociedad Limitada
+1422,B15910995,GALLEGA DE GESTIÓN AMBIENTAL SL,Persona juridica,Sociedad Limitada
+1423,B15911936,POSTVENTA RELOJEROS S.L.,Persona juridica,Sociedad Limitada
+1424,B15912348,"REPARACIONES Y SERVICIOS PLAY, S.L.",Persona juridica,Sociedad Limitada
+1425,B15918469,"PANTIN DO MEIRAL,SL",Persona juridica,Sociedad Limitada
+1426,B15921240,RED DE DESARROLLO DEL EMPLEO S.L.,Persona juridica,Sociedad Limitada
+1427,B15921364,REDONDO VALLADARES Y RODRIGUEZ SLP,Persona juridica,Sociedad Limitada
+1428,B15923238,COMANDO P GRAFICA DIXITAL S.L.,Persona juridica,Sociedad Limitada
+1429,B15923642,DIVISION HOSTELERA PABLO GALLEGO S.L.,Persona juridica,Sociedad Limitada
+1430,B15924285,TROQUELADOS DEL NOROESTE SL,Persona juridica,Sociedad Limitada
+1431,B15932056,REPRESENTACIONES URISVA SL,Persona juridica,Sociedad Limitada
+1432,B15932346,MUnIZ MAS ALFAYA S.L.,Persona juridica,Sociedad Limitada
+1433,B15932601,"ITINERE-2 E Y OBRAS, S.L.",Persona juridica,Sociedad Limitada
+1434,B15938335,POLYROCK S.L. B15938335,Persona juridica,Sociedad Limitada
+1435,B15945959,CONSTRUC Y PROMOCIONES GOBELAMAR S.L.,Persona juridica,Sociedad Limitada
+1436,B15946569,EKS GALICIA INTELIGENCIA DE MERCADOS S.L.,Persona juridica,Sociedad Limitada
+1437,B15946916,CONSULTORIA Y SOLUCIONES DE INGENIERIA ENERGY SYSTEMS S.L.U.,Persona juridica,Sociedad Limitada
+1438,B15949191,PQLNET INFORMATICA S.L.,Persona juridica,Sociedad Limitada
+1439,B15952369,CONSULTORA DE INGENIERIA MEDIO AMBIENTE,Persona juridica,Sociedad Limitada
+1440,B15955958,DECORGA PINTURA S.L.,Persona juridica,Sociedad Limitada
+1441,B15956246,"QRONNOS DISEÑO DE SOFTWARE, S.L.U.",Persona juridica,Sociedad Limitada
+1442,B15959240,AUTECO INSTALACIONES S.L.,Persona juridica,Sociedad Limitada
+1443,B15962335,MIRAMAR DE SAN PEDRO S.L.,Persona juridica,Sociedad Limitada
+1444,B15966161,CALYFOGA S.L.,Persona juridica,Sociedad Limitada
+1445,B15969066,"EDICIONES BOLANDA, SL",Persona juridica,Sociedad Limitada
+1446,B15970312,CORUÑA COLOR S.L.,Persona juridica,Sociedad Limitada
+1447,B15970619,MONTELVAZ S.L.,Persona juridica,Sociedad Limitada
+1448,B15971047,CLIMAREYMA S.L.,Persona juridica,Sociedad Limitada
+1449,B15972789,"BULL FUEGO, S.L.",Persona juridica,Sociedad Limitada
+1450,B15976459,AUDITEL SONIDO S.L.N.E.,Persona juridica,Sociedad Limitada
+1451,B15977754,JOSE ANTONIO SOUTO VARELA S.L.,Persona juridica,Sociedad Limitada
+1452,B15978356,GALICOM COMUNICACIONES S.L,Persona juridica,Sociedad Limitada
+1453,B15980212,AGORA PUBLICIDAD Y DISEÑO S.L.,Persona juridica,Sociedad Limitada
+1454,B15983539,VIAJES VELASCO S L,Persona juridica,Sociedad Limitada
+1455,B15985195,ESCUELA DE FINANZAS S.L.,Persona juridica,Sociedad Limitada
+1456,B15986060,VIDROFORMA S.L.,Persona juridica,Sociedad Limitada
+1457,B15986771,SOLUCIONES Y PROYECTOS DE FORMACION SL,Persona juridica,Sociedad Limitada
+1458,B15987399,BIOCONTROL Y CALIDAD ALIMENTARIA S.L.U.,Persona juridica,Sociedad Limitada
+1459,B15989692,CONTROL DE PLAGAS ANDRADE S.L.,Persona juridica,Sociedad Limitada
+1460,B15991284,"STROW PARQUES INFANTILES,SL",Persona juridica,Sociedad Limitada
+1461,B15993140,PINTURA Y DECORACIONES FARTO SL,Persona juridica,Sociedad Limitada
+1462,B15993306,LOPEZQUINTEIRO S.L.,Persona juridica,Sociedad Limitada
+1463,B18379735,IBERICA DE ESTRATIFICADOS S.L,Persona juridica,Sociedad Limitada
+1464,B18472274,GARCIA DE LOS REYES ARQUITECTOS ASOCIADOS S.L.,Persona juridica,Sociedad Limitada
+1465,B20088241,TECNIKRONOS SL,Persona juridica,Sociedad Limitada
+1466,B20550109,SABICO SERVICIOS AUXILIARES S.L.,Persona juridica,Sociedad Limitada
+1467,B20793436,E Y LOGISTICA DE RESCATE SL,Persona juridica,Sociedad Limitada
+1468,B20990404,EFINER SERVICIOS ENERGETICOS SL,Persona juridica,Sociedad Limitada
+1469,B24301871,PRODUCCIONES MIC SL,Persona juridica,Sociedad Limitada
+1470,B24412173,NURLO GESTION Y DISEÑO S L,Persona juridica,Sociedad Limitada
+1471,B24572554,GLOBALIA URBANISMO INTEGRAL S.L.,Persona juridica,Sociedad Limitada
+1472,B26265835,ADR INFOR SL,Persona juridica,Sociedad Limitada
+1473,B26321216,PROTEC SOLANA S.L.,Persona juridica,Sociedad Limitada
+1474,B26450932,MANANTIAL DE IDEAS SL,Persona juridica,Sociedad Limitada
+1475,B26461467,A24 SEGURIDAD SL,Persona juridica,Sociedad Limitada
+1476,B27009638,PORCELANA DE SARGADELOS S.L.,Persona juridica,Sociedad Limitada
+1477,B27113471,LINCOLD IBERICA SL,Persona juridica,Sociedad Limitada
+1478,B27141159,LIMPERGAL S.L.,Persona juridica,Sociedad Limitada
+1479,B27184894,INDUMET SISTEMAS CONSTRUCTIVOS S.L.,Persona juridica,Sociedad Limitada
+1480,B27203975,GALENO ESPECIALIDADES VETERINARIAS S.L.,Persona juridica,Sociedad Limitada
+1481,B27229483,SARRIGLASS S.L.,Persona juridica,Sociedad Limitada
+1482,B27266113,MULTISPORTS GALICIA SL,Persona juridica,Sociedad Limitada
+1483,B27278845,A BILLARDA SL,Persona juridica,Sociedad Limitada
+1484,B27321926,TATATA COMUNICACION SL,Persona juridica,Sociedad Limitada
+1485,B27333012,REHABILITACIONS TRABECON S.L.,Persona juridica,Sociedad Limitada
+1486,B27352939,TECVIPRO SISTEMAS SL,Persona juridica,Sociedad Limitada
+1487,B27365303,PROMOMAJ 2007 SL,Persona juridica,Sociedad Limitada
+1488,B27382175,"ALCOR SEGURIDAD, SL",Persona juridica,Sociedad Limitada
+1489,B27415736,PRIMORDIAL COACHING & CONSULTING S.L.,Persona juridica,Sociedad Limitada
+1490,B27433267,PUNTOUPARTE HOBBIES S.L..,Persona juridica,Sociedad Limitada
+1491,B27446723,ELECTRODOMESTICOS CORUÑASTAR S.L.,Persona juridica,Sociedad Limitada
+1492,B27458793,ENGOBE ARQUEOLOGIA SLU,Persona juridica,Sociedad Limitada
+1493,B27466721,EIDOS SOLUCIONS SL,Persona juridica,Sociedad Limitada
+1494,B27475854,DECORO 2016 S.L.,Persona juridica,Sociedad Limitada
+1495,B27495431,ETIQUETA NEGRA PRODUCCIONES S.L,Persona juridica,Sociedad Limitada
+1496,B27516707,PINTURA Y DECORACIÓN JORGE SL,Persona juridica,Sociedad Limitada
+1497,B27517275,EMARELA DIFUSION SL,Persona juridica,Sociedad Limitada
+1498,B27518570,"PROYECTOS, SOLUCIONES E INSTALACIONES GALICIA SLU",Persona juridica,Sociedad Limitada
+1499,B27719699,MEIFUS MACHINERY S.L.,Persona juridica,Sociedad Limitada
+1500,B27735919,"LEBORIZ, S.L.",Persona juridica,Sociedad Limitada
+1501,B27741446,PRODUCCIONES CELTA SL,Persona juridica,Sociedad Limitada
+1502,B27743897,SINERXIA PLUS CONSUTORA,Persona juridica,Sociedad Limitada
+1503,B27756998,GAREMAR-92 SL,Persona juridica,Sociedad Limitada
+1504,B27781756,TOKAPP ONLINE SL,Persona juridica,Sociedad Limitada
+1505,B27797976,"PILOT CCS SERVICES CONSULTANCY, S.L.",Persona juridica,Sociedad Limitada
+1506,B27803600,CIENCIA GALEGA INDUSTRIAS RECEATIVAS,Persona juridica,Sociedad Limitada
+1507,B27805090,TECYP INGENIERiA,Persona juridica,Sociedad Limitada
+1508,B27821065,PRADO SURF ESCOLA SL.,Persona juridica,Sociedad Limitada
+1509,B27829696,RADIO SPECTRUM NETWORKS S.L.,Persona juridica,Sociedad Limitada
+1510,B27842368,AIRFILTER SL,Persona juridica,Sociedad Limitada
+1511,B27846815,TAXES GABINETE INTERNACIONAL S.L.,Persona juridica,Sociedad Limitada
+1512,B27849652,HIJOS DE VALEIRAS Y ALONSO S L (HORTAECORUÑA),Persona juridica,Sociedad Limitada
+1513,B27867514,PRADO SURF ESCOLA SL.,Persona juridica,Sociedad Limitada
+1514,B28062339,NIPPON GASES ESPAnA S.L.,Persona juridica,Sociedad Limitada
+1515,B28891752,QUIMICOS Y PAPEL SL,Persona juridica,Sociedad Limitada
+1516,B31669070,"RANKING, LA TIENDA DEL DEPORTE SL",Persona juridica,Sociedad Limitada
+1517,B31732241,ENTIDAD DE CONTROL Y CERTIFICACION SL,Persona juridica,Sociedad Limitada
+1518,B31931959,NAVARRA DE INFRAESTRUCTURAS DE DCULTURA DEPORTE Y OCIO B31931959,Persona juridica,Sociedad Limitada
+1519,B32155269,GALMEDICA S.L.,Persona juridica,Sociedad Limitada
+1520,B32211906,FORCONSULT F B S.L.,Persona juridica,Sociedad Limitada
+1521,B32241432,PRADO LAMEIRO S.L.,Persona juridica,Sociedad Limitada
+1522,B32258261,RODI ARTES GRAFICAS SL,Persona juridica,Sociedad Limitada
+1523,B32271256,"SEÑALIZACIONES PEÑA,S.L",Persona juridica,Sociedad Limitada
+1524,B32311763,EMERGALIA SLU,Persona juridica,Sociedad Limitada
+1525,B32359432,ANLLAR CONSTRUCCIONES SL,Persona juridica,Sociedad Limitada
+1526,B32386625,AXOUXERE DEPORTE ANIMACION S.L.,Persona juridica,Sociedad Limitada
+1527,B32451635,QUALITY OPTION SL,Persona juridica,Sociedad Limitada
+1528,B32475865,RED TALENTO CONSULTORAS,Persona juridica,Sociedad Limitada
+1529,B32493025,NORTHVIVOR S.L.,Persona juridica,Sociedad Limitada
+1530,B32495061,TROSMA PRODUCCIONES SLU,Persona juridica,Sociedad Limitada
+1531,B33687765,CLN SERVICIOS INTEGRALES S.L.,Persona juridica,Sociedad Limitada
+1532,B33978487,CLN INCORPORA SL,Persona juridica,Sociedad Limitada
+1533,B3399681,VITAEVENTS SL,Persona juridica,Sociedad Limitada
+1534,B35074681,LA OPINION DE LA CORUÑA S.L.,Persona juridica,Sociedad Limitada
+1535,B36028991,SAGRES S.L.,Persona juridica,Sociedad Limitada
+1536,B36062180,PAZ DISMAC,Persona juridica,Sociedad Limitada
+1537,B36082180,"PAZ DISMAC, S.L.",Persona juridica,Sociedad Limitada
+1538,B36112043,PEYCAR PONTEVEDRA SL,Persona juridica,Sociedad Limitada
+1539,B36112803,INFORHOUSE S.L.,Persona juridica,Sociedad Limitada
+1540,B36120459,ABONOMAR SL,Persona juridica,Sociedad Limitada
+1541,B36164820,ESPACIO DO LECTOR S.L.,Persona juridica,Sociedad Limitada
+1542,B36168862,PINTURAS ALBORADA S. L.,Persona juridica,Sociedad Limitada
+1543,B36192284,"JUELMAR, S.L.",Persona juridica,Sociedad Limitada
+1544,B36193712,GRAFIDEZA S.L.,Persona juridica,Sociedad Limitada
+1545,B36202471,INTERVALLAS (TALLERES CLAUDIO),Persona juridica,Sociedad Limitada
+1546,B36204915,PROGASCA S.L.,Persona juridica,Sociedad Limitada
+1547,B36216430,GONBELMAR SL,Persona juridica,Sociedad Limitada
+1548,B36232361,"CEO ABERTO, SL",Persona juridica,Sociedad Limitada
+1549,B36233542,ALBINO GONZALEZ SL,Persona juridica,Sociedad Limitada
+1550,B36258770,MIGALLAS TEATRO S.L.,Persona juridica,Sociedad Limitada
+1551,B36294114,Aquazoo S.L.,Persona juridica,Sociedad Limitada
+1552,B36298099,JOSE LUIS TEOFILO COMUNICACION SL,Persona juridica,Sociedad Limitada
+1553,B36302024,KALANDRAKA EDITORA S.L.,Persona juridica,Sociedad Limitada
+1554,B36328599,DIVISIONES Y MUEBLES CHANTADA S.L.,Persona juridica,Sociedad Limitada
+1555,B36343218,"NORFORMACIoN, S.L.",Persona juridica,Sociedad Limitada
+1556,B36355584,"BIC MATERIALES Y CONSERVACIoN, S.L.",Persona juridica,Sociedad Limitada
+1557,B36403921,MUSICAL PONTEVEDRA S.L.,Persona juridica,Sociedad Limitada
+1558,B36471662,INVERSIONES LEREZ S.L.,Persona juridica,Sociedad Limitada
+1559,B36486546,"ALTESTA 4, SLU",Persona juridica,Sociedad Limitada
+1560,B36499960,IMATIA INNOVATION S.L.,Persona juridica,Sociedad Limitada
+1561,B36584092,SAIDRES DE TRASDEZA S.L.,Persona juridica,Sociedad Limitada
+1562,B36594414,ISGAL DE EVENTOS SL,Persona juridica,Sociedad Limitada
+1563,B36597276,SERVICIOS SPR VILANOVA,Persona juridica,Sociedad Limitada
+1564,B36603363,SPICA S. L.,Persona juridica,Sociedad Limitada
+1565,B36608172,LIMPIEZAS FARO S.L.,Persona juridica,Sociedad Limitada
+1566,B36612562,DARLIM S.L.,Persona juridica,Sociedad Limitada
+1567,B36614808,ECOVIGO PUBLICIDAD SL,Persona juridica,Sociedad Limitada
+1568,B36628287,OFICINA DE TRATAMIENTOS DE PLAGAS SL OTRAPLASA,Persona juridica,Sociedad Limitada
+1569,B36631661,"MICROGAL, SL",Persona juridica,Sociedad Limitada
+1570,B36650992,ASCENSORES ENOR S.L,Persona juridica,Sociedad Limitada
+1571,B36651487,GALAICONTROL S.L.,Persona juridica,Sociedad Limitada
+1572,B36699478,UNIGAL SL,Persona juridica,Sociedad Limitada
+1573,B36742153,SOFWARE Y COMUNICACIONES MARKA INFORMATI,Persona juridica,Sociedad Limitada
+1574,B36769479,COMERCIAL HOSPITALARIA GRUPO 3 SL,Persona juridica,Sociedad Limitada
+1575,B36779908,TOMOS CONSERVACION RESTAURACION S.L.,Persona juridica,Sociedad Limitada
+1576,B36781607,INTERLINGUA TRADUCCIONS S.L.,Persona juridica,Sociedad Limitada
+1577,B36799377,ENRIEL; S.L.,Persona juridica,Sociedad Limitada
+1578,B36836161,LHYP ASLYM LIMPIEZA E HIGIENE PROFESIONAL SL,Persona juridica,Sociedad Limitada
+1579,B36864510,TANGRAM SL,Persona juridica,Sociedad Limitada
+1580,B36872307,SIMCE CONSULTORES S L,Persona juridica,Sociedad Limitada
+1581,B36878023,ELECTRICIDAD MANTENIMIENTO AUTOMATIZACION SL,Persona juridica,Sociedad Limitada
+1582,B36907699,NEXOTED S.L.,Persona juridica,Sociedad Limitada
+1583,B36926095,BIEITONOVA SL,Persona juridica,Sociedad Limitada
+1584,B36932309,GALICIA VELLA DE INVERSIONES Y LOGISTICA S.L.,Persona juridica,Sociedad Limitada
+1585,B36938009,EDNON S.L.,Persona juridica,Sociedad Limitada
+1586,B36940690,TROULA ANIMACIÓN SL,Persona juridica,Sociedad Limitada
+1587,B36946671,"VICUS ART, S.L.L.",Persona juridica,Sociedad Limitada
+1588,B36963577,LA FIESTA ESCENICA SL,Persona juridica,Sociedad Limitada
+1589,B36978641,KF IBER FROST SL,Persona juridica,Sociedad Limitada
+1590,B36993509,"G12 GRUPO EMPRESARIAL DE SERVICIOS, SL",Persona juridica,Sociedad Limitada
+1591,B37407004,FELTRERO DIVISION ARTE S.L.,Persona juridica,Sociedad Limitada
+1592,B41632332,Aytos Soluciones Informáticas,Persona juridica,Sociedad Limitada
+1593,B41832478,GENERAL ELEVADORES XXI S.L.,Persona juridica,Sociedad Limitada
+1594,B42733881,ASTEX INSTALACIONES,Persona juridica,Sociedad Limitada
+1595,B42929778,OUTDOOR GLOBAL CORP,Persona juridica,Sociedad Limitada
+1596,B42986265,MONPIGAL S.L.,Persona juridica,Sociedad Limitada
+1597,B42987362,GALICIA DE IMPRESIÓN Y ROTULACIÓN S.L.,Persona juridica,Sociedad Limitada
+1598,B43522192,AGMA S.L.(ADM. I GESTIO DE MUSICS I ARTISTES),Persona juridica,Sociedad Limitada
+1599,B44520104,RESCUE BABY S.L.,Persona juridica,Sociedad Limitada
+1600,B45627635,AGRUPACION GUERRERO SL,Persona juridica,Sociedad Limitada
+1601,B46001897,THYSSENKRUPP ELEVADORES S.L.,Persona juridica,Sociedad Limitada
+1602,B46154944,RECLAMOS PEÑALVER SL,Persona juridica,Sociedad Limitada
+1603,B50029396,LAUSiN Y VICENTE SL,Persona juridica,Sociedad Limitada
+1604,B50301217,ELKSPORT DISTRIBUCIONES SL,Persona juridica,Sociedad Limitada
+1605,B50771872,TRADELAB SL,Persona juridica,Sociedad Limitada
+1606,B53166419,SISTAC ILS S.L.,Persona juridica,Sociedad Limitada
+1607,B53319273,TECNO AQUARIUM SLL,Persona juridica,Sociedad Limitada
+1608,B53757027,TROFEOS Y MEDALLAS DEPORTIVAS SL,Persona juridica,Sociedad Limitada
+1609,B54719885,BUILDING & HOME TECHNOLOGIES S.L.,Persona juridica,Sociedad Limitada
+1610,B54749718,FULL MOTE ADVENTURE S.L.,Persona juridica,Sociedad Limitada
+1611,B54861174,RESCATE JOTA SL,Persona juridica,Sociedad Limitada
+1612,B55250997,YTER NEXUS SL,Persona juridica,Sociedad Limitada
+1613,B57608960,ADVANCED PROGRAMMING SOLUTIONS SL,Persona juridica,Sociedad Limitada
+1614,B57986846,"GLOBALIA CORPORATE TRAVEL, S.L.U.",Persona juridica,Sociedad Limitada
+1615,B58836321,SAGE SPAIN S.L.,Persona juridica,Sociedad Limitada
+1616,B60706249,CIPRIANI SCAMBIATORI ESPAÑA SL,Persona juridica,Sociedad Limitada
+1617,B60870433,OX/COMPAÑIA DE TRATAMIENTO DE AGUAS SLU,Persona juridica,Sociedad Limitada
+1618,B60936549,ENDERMAR S L,Persona juridica,Sociedad Limitada
+1619,B61059325,"ELECTRONICS TECHNOLOGIES PLASTICS, S.L.",Persona juridica,Sociedad Limitada
+1620,B61097879,BARCELONA MARINE FARM S.L.,Persona juridica,Sociedad Limitada
+1621,B61579348,MANUSA DOOR SYSTEMS S.L.,Persona juridica,Sociedad Limitada
+1622,B61906236,ARTE Y MEMORIA,Persona juridica,Sociedad Limitada
+1623,B63124523,"KULTURA, IDEAS Y ESTRATEGIAS PARA EL PATRIMONIO, SL",Persona juridica,Sociedad Limitada
+1624,B63151757,ABDUL CREATIVOS SL,Persona juridica,Sociedad Limitada
+1625,B63377253,DISSET ODISEO SL,Persona juridica,Sociedad Limitada
+1626,B63496632,KATACRACK SHIRTS SL,Persona juridica,Sociedad Limitada
+1627,B63879902,SERVICIOS AUDIOVISUALES OVERON S.L.,Persona juridica,Sociedad Limitada
+1628,B64076482,QUIRON PREVENCION S.L.,Persona juridica,Sociedad Limitada
+1629,B64076813,DENIOS SL,Persona juridica,Sociedad Limitada
+1630,B64281843,DELIVRA SLU,Persona juridica,Sociedad Limitada
+1631,B64563075,ESTUDIO SECTOR PÚBLICO SLU,Persona juridica,Sociedad Limitada
+1632,B64599152,BILE COMUNICATION SL,Persona juridica,Sociedad Limitada
+1633,B64902430,TRAFFIC NETWORK SOLUTIONS SL,Persona juridica,Sociedad Limitada
+1634,B65053209,"SOFTLED CONSULTING,S.L",Persona juridica,Sociedad Limitada
+1635,B65229676,CLINIMAX EQUIPAMIENTOS SL,Persona juridica,Sociedad Limitada
+1636,B65440109,GALENA HOTELS SLU,Persona juridica,Sociedad Limitada
+1637,B65532368,COORDINACION PLANES DE PREVENCION DEL DELITO,Persona juridica,Sociedad Limitada
+1638,B66102088,"PISCIBER BIO SECURE FISHES, S.L.",Persona juridica,Sociedad Limitada
+1639,B66187758,MASALLES EUROPE SL,Persona juridica,Sociedad Limitada
+1640,B66196387,LOGICFUN MH SL,Persona juridica,Sociedad Limitada
+1641,B66227166,"89 PLUS, S.L",Persona juridica,Sociedad Limitada
+1642,B66545963,MAC UNIFORMES SL,Persona juridica,Sociedad Limitada
+1643,B66565391,EUROPE HEALTERS SL B66565391,Persona juridica,Sociedad Limitada
+1644,B66629494,HERMEX IBERICA S.L.,Persona juridica,Sociedad Limitada
+1645,B66740267,CABLES Y ESLINGAS S.L.U.,Persona juridica,Sociedad Limitada
+1646,B67166413,LAGROC SOLUTIONS SL,Persona juridica,Sociedad Limitada
+1647,B67515817,ARTISTAMENTE SL,Persona juridica,Sociedad Limitada
+1648,B70002696,NECSYSTEMS EQUIPAMIENTOS DE SEGURIDAD SL,Persona juridica,Sociedad Limitada
+1649,B70003199,MONTAXES ELECTRICAS NOROESTE S.L.,Persona juridica,Sociedad Limitada
+1650,B70006739,NOVO Y OTRO SL,Persona juridica,Sociedad Limitada
+1651,B70010566,VARELA FACAL SL,Persona juridica,Sociedad Limitada
+1652,B70011861,CLYSERNOR S.L.,Persona juridica,Sociedad Limitada
+1653,B70012810,VIDRIOS CORUÑA S.L.,Persona juridica,Sociedad Limitada
+1654,B70016613,"CONSULTARTE & RESTAURARTE,S.L.",Persona juridica,Sociedad Limitada
+1655,B70018882,CYRDEGA S.L.,Persona juridica,Sociedad Limitada
+1656,B70019294,SERVIPLUSTOTAL SLU,Persona juridica,Sociedad Limitada
+1657,B70019377,"TETRAIN INGENIERIA,, S.L.P.",Persona juridica,Sociedad Limitada
+1658,B70023437,"LICENTIA PATENTES Y MARCAS, SL",Persona juridica,Sociedad Limitada
+1659,B70037213,PISTA CATRO PRODUCTORA DE SOnOS S.L.,Persona juridica,Sociedad Limitada
+1660,B70042510,MANELL MOTOR CORUnA S.L.,Persona juridica,Sociedad Limitada
+1661,B70042668,CANIS PAJARITAS S.L.,Persona juridica,Sociedad Limitada
+1662,B70044714,ARQUESTUDIOPATRIM.CULTURA E TURISMO S.L.,Persona juridica,Sociedad Limitada
+1663,B70044888,REZINK PROJECT SL,Persona juridica,Sociedad Limitada
+1664,B70045646,ARKIVOLTA CONSTRUCCION Y MANTENIMIENTO S.L.,Persona juridica,Sociedad Limitada
+1665,B70052543,SISTEMAS ELESOTEC S.L.,Persona juridica,Sociedad Limitada
+1666,B70054507,"TERMOGALICIA-CATERING, S.L.",Persona juridica,Sociedad Limitada
+1667,B70058235,KATARSIS EDUCACION Y TEATRO S.L.,Persona juridica,Sociedad Limitada
+1668,B70058573,NAOS 04,Persona juridica,Sociedad Limitada
+1669,B70061403,GURUGU PRODUCIONS S.L.,Persona juridica,Sociedad Limitada
+1670,B70062583,"CALDERON & ASOCIADOS INGENIERIA MEDIAMBIENTAL, S.L.",Persona juridica,Sociedad Limitada
+1671,B70062898,SOCIOS MAS METAL S.L.,Persona juridica,Sociedad Limitada
+1672,B70065131,BURO PLANET SLU,Persona juridica,Sociedad Limitada
+1673,B70076880,"FRANCISCO CARBALLO ARQUITECTOS, S.L.U.",Persona juridica,Sociedad Limitada
+1674,B70077847,ELECTRICIDAD ORCA S.L.,Persona juridica,Sociedad Limitada
+1675,B70078514,NARON E SL,Persona juridica,Sociedad Limitada
+1676,B70078985,PLAY ZONA DIGITAL S.L.,Persona juridica,Sociedad Limitada
+1677,B70079439,CALOPAZ OLEIROS S L,Persona juridica,Sociedad Limitada
+1678,B70082847,GRUPO ALAMPARTE S.L.,Persona juridica,Sociedad Limitada
+1679,B70084272,"DINAMO XESTION DE ACTIVIDADES SOCIOCULTURAIS,SL",Persona juridica,Sociedad Limitada
+1680,B70089131,ILUX VISUAL TECHNOLOGIES S.L.,Persona juridica,Sociedad Limitada
+1681,B70090923,APORTA COMUNICACION AMBIEN TAL S.L. U,Persona juridica,Sociedad Limitada
+1682,B70091152,BABALUSTUDIOS S.L.,Persona juridica,Sociedad Limitada
+1683,B70093539,EXCAVACIONES Y OBRAS MARCOS S.L.,Persona juridica,Sociedad Limitada
+1684,B70095930,VAZQUEZ CALATAYUD ARQUITECTOS S.L.,Persona juridica,Sociedad Limitada
+1685,B70096433,BERROBAMBAN SL,Persona juridica,Sociedad Limitada
+1686,B70101035,GRUPO DISNAINGA S.L.,Persona juridica,Sociedad Limitada
+1687,B70103510,KOTA VERTICAL S.L.,Persona juridica,Sociedad Limitada
+1688,B70107131,OXIGENO GESTION SLNE,Persona juridica,Sociedad Limitada
+1689,B70107982,ESEUNO SOLUCION S.L.,Persona juridica,Sociedad Limitada
+1690,B70109335,NIALKA COMUNICACIoN SL,Persona juridica,Sociedad Limitada
+1691,B70113766,ABTEMAS SL,Persona juridica,Sociedad Limitada
+1692,B70120472,"BERCOM IMPRESION DIXITAL, SL",Persona juridica,Sociedad Limitada
+1693,B70121108,GALLEGA DE COORDINACIONES S.L.,Persona juridica,Sociedad Limitada
+1694,B70122593,NIMO MEZQUITA ARQUITECTURA S.L. P,Persona juridica,Sociedad Limitada
+1695,B70125562,ARISTOS ACADEMIA S.L.,Persona juridica,Sociedad Limitada
+1696,B70128541,BAYFA INGENIERIA E INSTALACIONES S.L.,Persona juridica,Sociedad Limitada
+1697,B70129549,FERNANDEZ MALDE ANTON 0020 81759W SLNE,Persona juridica,Sociedad Limitada
+1698,B70130885,INFORMATICA Y NETWORKING SLU,Persona juridica,Sociedad Limitada
+1699,B70143102,"BELLAS ARTES CARRILLO & DIAZ, S.L.",Persona juridica,Sociedad Limitada
+1700,B70143557,FINE ART COLATEC S.L.,Persona juridica,Sociedad Limitada
+1701,B70143847,FONTANERIA Y CALEFACCION NOVAFON S.L.,Persona juridica,Sociedad Limitada
+1702,B70147244,BERGANTInOS SOLUCIONS LABORAIS SL,Persona juridica,Sociedad Limitada
+1703,B70149075,PLATAFORMA GALICIADEMODA S.L.,Persona juridica,Sociedad Limitada
+1704,B70151535,LOPEZ FREIRE INVERSIONES S.L.,Persona juridica,Sociedad Limitada
+1705,B70155213,VILLAMAR CRESPO S.L.,Persona juridica,Sociedad Limitada
+1706,B70155981,OBRADOIRO NOROESTE ARQUITECTOS SLP,Persona juridica,Sociedad Limitada
+1707,B70160213,LIBRE EXPRESION DE MEDIOS DE GALICIA SL,Persona juridica,Sociedad Limitada
+1708,B70162029,FE.BE.ZK S.L.,Persona juridica,Sociedad Limitada
+1709,B70168539,RINCON VERDE AGROJARDIN S.L.,Persona juridica,Sociedad Limitada
+1710,B70178942,DESEÑOS ESTRUCTURAIS E VIARIOS S.L.,Persona juridica,Sociedad Limitada
+1711,B70183082,ALVARELLOS EDITORA SL,Persona juridica,Sociedad Limitada
+1712,B70183538,MORA TALLER DE PINTURAS S.L.,Persona juridica,Sociedad Limitada
+1713,B70184445,LUGAMI ARTES GRAFICAS SL,Persona juridica,Sociedad Limitada
+1714,B70185855,JAVIER GARCIA Y ASOCIADOS BUFETE DE ABOGADOS SLP,Persona juridica,Sociedad Limitada
+1715,B70194154,GRAFICAS ORZAN SL,Persona juridica,Sociedad Limitada
+1716,B70195870,MEDULIO SERVICIOS Y OBRAS S.L.,Persona juridica,Sociedad Limitada
+1717,B70196092,FROQ EVENTOS SL,Persona juridica,Sociedad Limitada
+1718,B70197827,TOLDOS BREOGAN S.L.,Persona juridica,Sociedad Limitada
+1719,B70198585,LA ESTRELLA DECORACION Y SUMINISTROS,Persona juridica,Sociedad Limitada
+1720,B70198593,TADANELA SL,Persona juridica,Sociedad Limitada
+1721,B70198692,LA RUECA PATCHWORK S.L.,Persona juridica,Sociedad Limitada
+1722,B70198858,JOTRI GALICIA S.L.,Persona juridica,Sociedad Limitada
+1723,B70203294,GALMAC MAQUINARIA S.L.U.,Persona juridica,Sociedad Limitada
+1724,B70203518,"CREARTE SERVIZOS CULTURAIS, S.L",Persona juridica,Sociedad Limitada
+1725,B70203567,VEIRAS METAL S.L.,Persona juridica,Sociedad Limitada
+1726,B70206008,ARTESTUDIO XESTION CULTURA L S.L.,Persona juridica,Sociedad Limitada
+1727,B70206511,DECORACIONES CANEDO S.L.,Persona juridica,Sociedad Limitada
+1728,B70209622,M GALLEGO JORRETO ARQUITEC TOS Y ASOCIADOS SLP,Persona juridica,Sociedad Limitada
+1729,B70210307,BALSA PUBLICIDAD SL,Persona juridica,Sociedad Limitada
+1730,B70210943,MORABEZA ASESORES DE COMUNICACIÓN SL,Persona juridica,Sociedad Limitada
+1731,B70212634,INGENIO MEDIA S.L.,Persona juridica,Sociedad Limitada
+1732,B70213905,MELLIGARDEN S.L.,Persona juridica,Sociedad Limitada
+1733,B70216122,GESTORIA OTERO INTEGRAL S.L.,Persona juridica,Sociedad Limitada
+1734,B70216551,ACADAR INGENIERIA Y CONSULTORIA SL,Persona juridica,Sociedad Limitada
+1735,B70218185,DESARROLLA OBRAS Y SERVICIOS S.L.,Persona juridica,Sociedad Limitada
+1736,B70223243,PRODUCCIONES EL ASOMBRO S.L.,Persona juridica,Sociedad Limitada
+1737,B70226386,IMZA GALICIA S.L.,Persona juridica,Sociedad Limitada
+1738,B70229364,CENTRO TECNICO ASTYCO S.L.,Persona juridica,Sociedad Limitada
+1739,B70232012,ATLANTIC PONTE 2000 SLU,Persona juridica,Sociedad Limitada
+1740,B70234885,ELIMAT EQUIPAMIENTOS SL,Persona juridica,Sociedad Limitada
+1741,B70235783,BATOSIMA SL,Persona juridica,Sociedad Limitada
+1742,B702381,NEOLUX INOVACIÓN Y DESARROLLO,Persona juridica,Sociedad Limitada
+1743,B70238134,NEOLUX INNOVACION Y DESARROLLO S.L.,Persona juridica,Sociedad Limitada
+1744,B70238670,E¿PULSE SERVICIOS DE INTERNET,Persona juridica,Sociedad Limitada
+1745,B70238738,INGENIERIA AGRONOMA Y ARQUITECTURA DEL PAISAJE S.L.,Persona juridica,Sociedad Limitada
+1746,B70239769,ARTELLAR 2000 SL,Persona juridica,Sociedad Limitada
+1747,B70240320,EVELB TECNICAS Y SISTEMAS,Persona juridica,Sociedad Limitada
+1748,B70240759,K 2 ESTUDIO DE INGENIERIA S.L.,Persona juridica,Sociedad Limitada
+1749,B70240940,TENERASA S L,Persona juridica,Sociedad Limitada
+1750,B70244959,"GENESAL ENERGY IB, S.L.",Persona juridica,Sociedad Limitada
+1751,B70246541,ECOMANAGEMENT TECHNOLOGY S.L.,Persona juridica,Sociedad Limitada
+1752,B70248497,C.R. MARINE ELECTRONICS S.L.,Persona juridica,Sociedad Limitada
+1753,B70249719,RABABIERO PROMOCIONS S.L.,Persona juridica,Sociedad Limitada
+1754,B70250055,SERVICIO TECNICO E INGENIERIA AS PONTES SL,Persona juridica,Sociedad Limitada
+1755,B70251459,"VIVERO DE SOLUCIONES PARA LA INGENIERÍA,",Persona juridica,Sociedad Limitada
+1756,B70253190,GIL LAGO FIDALGO S L P,Persona juridica,Sociedad Limitada
+1757,B70254263,"KUARZO.XESTIÓN EN CONSTRUCCIÓN, S.L.",Persona juridica,Sociedad Limitada
+1758,B70254594,CORDIXITAL S.L.L.,Persona juridica,Sociedad Limitada
+1759,B70255260,SERVICIODE FORMACION GALEGO E SALVAMENTO,Persona juridica,Sociedad Limitada
+1760,B70259767,CLINICA VETERINARIA AREALONGA S.L.,Persona juridica,Sociedad Limitada
+1761,B70262464,AMARTYA SERVICIOS SL,Persona juridica,Sociedad Limitada
+1762,B70265525,SERVIPLUS DOS MIL S.L.U.,Persona juridica,Sociedad Limitada
+1763,B70266010,EFICIENCIA ENERGÉTICA DE GALICIA SL,Persona juridica,Sociedad Limitada
+1764,B70267349,COSTA COMUNICACION VISUAL SL,Persona juridica,Sociedad Limitada
+1765,B70267695,BRIGANTIUM JOMABE SL,Persona juridica,Sociedad Limitada
+1766,B70268016,INAUDITA FORMACION Y CONSULTORIA SL,Persona juridica,Sociedad Limitada
+1767,B70271127,CENDA GESTION CREATIVA S.L.,Persona juridica,Sociedad Limitada
+1768,B70271747,"AVANSIG,S.L",Persona juridica,Sociedad Limitada
+1769,B70275656,PARAFARMACIA CASTRO S.L.,Persona juridica,Sociedad Limitada
+1770,B70276480,EQUIPAMIENTOS PARA HOSTELERIA CURRAS Y SALGADO S.L.,Persona juridica,Sociedad Limitada
+1771,B70276837,CAAMAÑO & CAMBON SL,Persona juridica,Sociedad Limitada
+1772,B70278650,RENUEVE INSTALACIONES Y REFORMAS S.L.,Persona juridica,Sociedad Limitada
+1773,B70282801,SELEKTIA PRO S.L.,Persona juridica,Sociedad Limitada
+1774,B70283569,VEIGA Y LAMAS S.L.,Persona juridica,Sociedad Limitada
+1775,B70283579,VEIGA Y LAMAS SL,Persona juridica,Sociedad Limitada
+1776,B70283676,RED DE MUEBLES DE OFICINA S.L.,Persona juridica,Sociedad Limitada
+1777,B70284807,GOMAS NEUMATICOS Y SERVICIOS S.L.,Persona juridica,Sociedad Limitada
+1778,B70285861,ARSUB TECHNOLOGY SRL,Persona juridica,Sociedad Limitada
+1779,B70288220,IMAXINA NARON S.L.,Persona juridica,Sociedad Limitada
+1780,B70290325,TEINNOVA INTERIORISMO S.L.,Persona juridica,Sociedad Limitada
+1781,B70290861,ISMO ESTUDIOS TECNICOS DE RETAURACION Y REHABILITACION S.L.,Persona juridica,Sociedad Limitada
+1782,B70292081,DESENVOLVEMENTO LOCAL GALEGO SL,Persona juridica,Sociedad Limitada
+1783,B70292628,SIMIS MOBILIARIO S.L.,Persona juridica,Sociedad Limitada
+1784,B70292958,CON C DE COMUNICACIÓN 23 S.L.,Persona juridica,Sociedad Limitada
+1785,B70296975,LAGO EMPEDRADO S.L.,Persona juridica,Sociedad Limitada
+1786,B70297221,PUERTO DEPORTIVO SADA S.L.,Persona juridica,Sociedad Limitada
+1787,B70301767,PRODUCTOS GENERICOS DEL MEDIO AMBIENTE S.L.,Persona juridica,Sociedad Limitada
+1788,B70302724,MOLOTOV COCTEL CREATIVO SLU,Persona juridica,Sociedad Limitada
+1789,B70305115,SPOOM RESTAURANTES S.L.,Persona juridica,Sociedad Limitada
+1790,B70305941,ISACARO AUXILIAR DE INGENIERIA E INDUSTRIAS S.L.,Persona juridica,Sociedad Limitada
+1791,B70306170,SERVICIOS HOSTELEROS FINISTERRAE S.L.U.,Persona juridica,Sociedad Limitada
+1792,B70307152,TU AGENDA COMERCIAL S.L.,Persona juridica,Sociedad Limitada
+1793,B70310636,MASEIMU VESTUARIO SL,Persona juridica,Sociedad Limitada
+1794,B70311618,MOVE SERVICIOS DE OCIO Y DEPORTE SL,Persona juridica,Sociedad Limitada
+1795,B70312558,ZAELUX GALICIA SLL,Persona juridica,Sociedad Limitada
+1796,B70314570,PORTO MUInOS S.L.,Persona juridica,Sociedad Limitada
+1797,B70318274,STRATEGY AND ANALYTICS ESTANCIA C3 SLU,Persona juridica,Sociedad Limitada
+1798,B70318589,INDROPS LABORATORIO DE ANALISIS SL,Persona juridica,Sociedad Limitada
+1799,B70319371,REHABILITACIONES VERTICALES BORDEX,Persona juridica,Sociedad Limitada
+1800,B70320619,ARETE GESTION DE PERSONAS,Persona juridica,Sociedad Limitada
+1801,B70321567,SUTECLI S.L.,Persona juridica,Sociedad Limitada
+1802,B70322144,SUMINISTROS TÉCNICOS DEL NOROESTE SL (SUTENOR),Persona juridica,Sociedad Limitada
+1803,B70322573,ALFICOR VENTANAS Y CUBIERTAS S.L.,Persona juridica,Sociedad Limitada
+1804,B70324983,INSTALACIONES ELECTRICAS ISOGA S.L.,Persona juridica,Sociedad Limitada
+1805,B70325279,SERANTES CAMPOS INSTALACIONES S.L.,Persona juridica,Sociedad Limitada
+1806,B70325923,ECONOMIA DIGITAL SL,Persona juridica,Sociedad Limitada
+1807,B70327572,NAAM STORES SL,Persona juridica,Sociedad Limitada
+1808,B70327804,UNDODEZ S.L.U.,Persona juridica,Sociedad Limitada
+1809,B70337498,PUNTO 2 UNIFORMES S.L.,Persona juridica,Sociedad Limitada
+1810,B70340609,NAUGASUB S.L.,Persona juridica,Sociedad Limitada
+1811,B70340989,TECNOMAK SISTEMAS Y FLUIDOS S.L.,Persona juridica,Sociedad Limitada
+1812,B70341649,AEROMEDIA UAV S.L.,Persona juridica,Sociedad Limitada
+1813,B70342779,BLOGA GRAFICA S.L.,Persona juridica,Sociedad Limitada
+1814,B70342951,BLASTING TRATAMIENTOS S.L.,Persona juridica,Sociedad Limitada
+1815,B70350004,AUTOMOVILES ANTAMOTOR S.L.,Persona juridica,Sociedad Limitada
+1816,B70350145,CENTRO DE ESTUDIOS GALLEGOS IN.FORMATE S.L.,Persona juridica,Sociedad Limitada
+1817,B70351341,EZE MOSQUERA EVENTS SL,Persona juridica,Sociedad Limitada
+1818,B70351499,CENTRO DE FORMACION PROFESIONAL SOLDEO S.L. B70351499,Persona juridica,Sociedad Limitada
+1819,B70352851,COSME AND SON S.L.,Persona juridica,Sociedad Limitada
+1820,B70354766,COCINAS Y SANEAMIENTOS SANCHEZ S.L.,Persona juridica,Sociedad Limitada
+1821,B70356696,CERRAJERIA PAMPIN S.L.,Persona juridica,Sociedad Limitada
+1822,B70358437,"PUERTAS AFUERA COMUNICACIÓN MEDOAMBIENTAL Y CULTURAL S,L",Persona juridica,Sociedad Limitada
+1823,B70359104,CEMARP CARPINTERIA Y EBANISTERIA S.L.,Persona juridica,Sociedad Limitada
+1824,B70359195,RICARDO RESTAURANTE 1956 S.L.,Persona juridica,Sociedad Limitada
+1825,B70361621,GAS SOL CORUÑA S.L.,Persona juridica,Sociedad Limitada
+1826,B70367818,LUPEON SL,Persona juridica,Sociedad Limitada
+1827,B70368907,TORUS SOFTWARE SOLUTIONS S.L.,Persona juridica,Sociedad Limitada
+1828,B70369590,CHORRO PINTURA Y METALIZACIÓN SL,Persona juridica,Sociedad Limitada
+1829,B70369996,RENDUELES SUMINISTROS SLU,Persona juridica,Sociedad Limitada
+1830,B70371091,REFORMAS DE CARPINTERA CORDEDA S.L.,Persona juridica,Sociedad Limitada
+1831,B70373683,GRUPO SEEC DPTO AMBULANCIAS SL,Persona juridica,Sociedad Limitada
+1832,B70374327,CONDETRESPE,Persona juridica,Sociedad Limitada
+1833,B70374483,SOGESEL DESARROLLO Y GESTION S.L.,Persona juridica,Sociedad Limitada
+1834,B70377205,HIDRO 3 DIXITAL S.L.L.,Persona juridica,Sociedad Limitada
+1835,B70377783,METROPOLISCOMICS A CORUnA S.L.,Persona juridica,Sociedad Limitada
+1836,B70380563,ANBLAMYR SL,Persona juridica,Sociedad Limitada
+1837,B70381074,GALIPAT SERVIZOS CULTURAIS SL,Persona juridica,Sociedad Limitada
+1838,B70385539,MANUEL SEOANE PLASTICOS S.L.U.,Persona juridica,Sociedad Limitada
+1839,B70386750,"INVERSIONES LUMIMA, S.L.",Persona juridica,Sociedad Limitada
+1840,B70388103,SGRAF ARTES GRAFICAS S.L.,Persona juridica,Sociedad Limitada
+1841,B70391313,XARDINOVA CORUÑA SL,Persona juridica,Sociedad Limitada
+1842,B70391800,CONSULTORIA E INFORMATICA PARA LA GESTION SOCIAL S.L.,Persona juridica,Sociedad Limitada
+1843,B70391974,"TROPOSFERA SOLUCIONES SOSTENIBLES, S.L.",Persona juridica,Sociedad Limitada
+1844,B70393160,FAN SQUARE S.L.,Persona juridica,Sociedad Limitada
+1845,B70393665,"AGLAIA E SOCIOEDUCATIVOS Y OTRO, S.L.",Persona juridica,Sociedad Limitada
+1846,B70393764,SOESTO SURF COMPANY S.L.,Persona juridica,Sociedad Limitada
+1847,B70395736,MOTIVACEV S.L.,Persona juridica,Sociedad Limitada
+1848,B70396999,CENADOR CATERING S.L.,Persona juridica,Sociedad Limitada
+1849,B70397617,EDITORIAL BULULU S.L.,Persona juridica,Sociedad Limitada
+1850,B70397666,GADIS.L..GALICIA S.L.,Persona juridica,Sociedad Limitada
+1851,B70398078,INDA INICIATIVAS S.L.,Persona juridica,Sociedad Limitada
+1852,B70398227,CIMBRA CONTRACTS S.L.,Persona juridica,Sociedad Limitada
+1853,B70398672,NOVOGAL BOLSAS S.L.,Persona juridica,Sociedad Limitada
+1854,B70399688,REVELA ESTUDIO FOTOGRAFICO SL,Persona juridica,Sociedad Limitada
+1855,B70399795,"LUZES, XORNALISMO QUE CONTA S.L.",Persona juridica,Sociedad Limitada
+1856,B70399951,MAYAIPA SL,Persona juridica,Sociedad Limitada
+1857,B70400742,URBEN CONSULTORES SL,Persona juridica,Sociedad Limitada
+1858,B70401112,BALEGO GRUPO HOSTELERO SLU,Persona juridica,Sociedad Limitada
+1859,B70401468,TRABUN 3000 S.L.,Persona juridica,Sociedad Limitada
+1860,B70401823,ROTULOS LA GRELA CORUÑA SL,Persona juridica,Sociedad Limitada
+1861,B70404447,CERO SIETE TALLER DE EQUIPAMIENTOS S.L.,Persona juridica,Sociedad Limitada
+1862,B70404462,ASV EVENTOS SL,Persona juridica,Sociedad Limitada
+1863,B70405857,ABACO CR S.L.,Persona juridica,Sociedad Limitada
+1864,B70408869,ARTABRA COMUNICACION S.L.,Persona juridica,Sociedad Limitada
+1865,B70408877,ENURCOIN S.L.,Persona juridica,Sociedad Limitada
+1866,B70413877,ESTUDIO TECNICO Y CONSULTORIA DE INGENIERIA INTEGRADOS S.L.,Persona juridica,Sociedad Limitada
+1867,B70415039,UNIZICLO NOROESTE S.L.,Persona juridica,Sociedad Limitada
+1868,B70418488,SERVIN 2014 S.L.,Persona juridica,Sociedad Limitada
+1869,B70418579,MONLI CONTRACT S.L.,Persona juridica,Sociedad Limitada
+1870,B70423280,APIARIO S.L.,Persona juridica,Sociedad Limitada
+1871,B70425186,"CICLOS PACO SADA, S.L",Persona juridica,Sociedad Limitada
+1872,B70431853,LA ESTRELLA AMERICANA TINTORERIAS S.L.,Persona juridica,Sociedad Limitada
+1873,B70432406,ELECTRICIDAD Y REFORMAS CARNOTA SL,Persona juridica,Sociedad Limitada
+1874,B70433032,AINE PRODUCIONS S.L.,Persona juridica,Sociedad Limitada
+1875,B70433040,ATINTA E ARTE S.L.,Persona juridica,Sociedad Limitada
+1876,B70434675,PRESENZA SISTEMAS TECNOLOXICOS S.L.,Persona juridica,Sociedad Limitada
+1877,B70435300,"MEDULIA EDITORIAL, S.L.",Persona juridica,Sociedad Limitada
+1878,B70439419,ESTRUCTURAS METALICAS SL,Persona juridica,Sociedad Limitada
+1879,B70441001,ACEROFFICE S.L.,Persona juridica,Sociedad Limitada
+1880,B70441225,DUACODE S.L.N.E,Persona juridica,Sociedad Limitada
+1881,B70442223,ROCKBOX OVERDRIVE SHOP S.L.,Persona juridica,Sociedad Limitada
+1882,B70442611,SERLOFER S.L.,Persona juridica,Sociedad Limitada
+1883,B70443569,OCEANO AZUL COMUNICACION S.L.,Persona juridica,Sociedad Limitada
+1884,B70443635,TRAMA SOLUTIONS S.L.,Persona juridica,Sociedad Limitada
+1885,B70444013,OK3 SEGURIDAD INDUSTRIAL,Persona juridica,Sociedad Limitada
+1886,B70447032,SALTOKI A CORUÑA S.L.,Persona juridica,Sociedad Limitada
+1887,B70447420,MARMAREA CORUÑA 2015 S.L.,Persona juridica,Sociedad Limitada
+1888,B70447693,"IN CUBED INGENIERIA, INNOVACION, INVESTIGACION SLL",Persona juridica,Sociedad Limitada
+1889,B70449137,DIMALNOX S.L.,Persona juridica,Sociedad Limitada
+1890,B70451281,ZIMBRA OBRAS Y REFORMAS S.L.,Persona juridica,Sociedad Limitada
+1891,B70452263,"SICASOFT SOLUTIONS, S.L.",Persona juridica,Sociedad Limitada
+1892,B70453576,ALUMINIOS DIEGO BLANCO SL,Persona juridica,Sociedad Limitada
+1893,B70454202,ESPACIOS ALBANA SL,Persona juridica,Sociedad Limitada
+1894,B70454913,PROTOCLOUD S.L. B70454913,Persona juridica,Sociedad Limitada
+1895,B70455050,GABRIEL MIGUEZ S.L.,Persona juridica,Sociedad Limitada
+1896,B70456355,EQUIGA SPORT SL,Persona juridica,Sociedad Limitada
+1897,B70459649,SUTEC SISTEMAS S.L.,Persona juridica,Sociedad Limitada
+1898,B70462015,SERVIZOSXA S.L.,Persona juridica,Sociedad Limitada
+1899,B70463054,ALVANOVA SERVICIOS GRAFICOS SLL,Persona juridica,Sociedad Limitada
+1900,B70463500,S.G. CONSTRUCTORA CORUÑA S.L.,Persona juridica,Sociedad Limitada
+1901,B70463641,NEURONAL INNOVATION CONTROL SL,Persona juridica,Sociedad Limitada
+1902,B70464888,GLOBALINGUA TRANSLATION SL,Persona juridica,Sociedad Limitada
+1903,B70470927,"INNOVA, CONSULTORIA, FORMACIÓN E PROXECTOS S.L",Persona juridica,Sociedad Limitada
+1904,B70472931,MOVILEC ELECTRICIDAD S.L.,Persona juridica,Sociedad Limitada
+1905,B70473202,TERRAVANZA GABINETE DE ESTUDIOS TERRITORIALES AVANZADOS S.L.,Persona juridica,Sociedad Limitada
+1906,B70473640,ANLLAR MANTENIMIENTOS Y CONSTRUCCIONES S.L.,Persona juridica,Sociedad Limitada
+1907,B70475397,I2C INSPECCIONES S.L.,Persona juridica,Sociedad Limitada
+1908,B70476007,CARPINTERIA METALICA ACESOL S.L.,Persona juridica,Sociedad Limitada
+1909,B70478342,ARQTABROS INTERIORISMO S.L.,Persona juridica,Sociedad Limitada
+1910,B70481908,TOP RESCUE,Persona juridica,Sociedad Limitada
+1911,B70484514,RESTAURACION FREDY CARBALLO S.L.U.,Persona juridica,Sociedad Limitada
+1912,B70484811,GROMA OBRAS S.L.,Persona juridica,Sociedad Limitada
+1913,B70484944,METODO SOLUCIONES S.L.,Persona juridica,Sociedad Limitada
+1914,B70485008,REIMUNDEZ LOGISTICA Y SERVICIOS S.L.,Persona juridica,Sociedad Limitada
+1915,B70485628,SERVICIOS DE HOSTELERIA OLLOMOL S.L.,Persona juridica,Sociedad Limitada
+1916,B70487863,"PORTALES DE GALICIA AUTOMATICOS, S.L.",Persona juridica,Sociedad Limitada
+1917,B70492152,SELPALAB S.L.,Persona juridica,Sociedad Limitada
+1918,B70492376,GESTENIC INGENIERiA SL,Persona juridica,Sociedad Limitada
+1919,B70493275,OSVENTOS INNOVACION EN SERVIZOS SL,Persona juridica,Sociedad Limitada
+1920,B70494117,SIFER E INTEGRALES DE MENSAJERIA,Persona juridica,Sociedad Limitada
+1921,B70495809,TAP3 SERVICIOS INTEGRALES S.L.,Persona juridica,Sociedad Limitada
+1922,B70496161,BROWNIE CALAF SL,Persona juridica,Sociedad Limitada
+1923,B70497318,"COMARO NOVE, S.L.U",Persona juridica,Sociedad Limitada
+1924,B70497631,CALCUGAL SL,Persona juridica,Sociedad Limitada
+1925,B70498316,ESCUELA INTEGRAL DE SEGURIDAD Y EMERGENCIAS DE GALICIA S.L.,Persona juridica,Sociedad Limitada
+1926,B70499967,RULIBAL SERBICON S.L.U.,Persona juridica,Sociedad Limitada
+1927,B70502885,LED DISPLAY SOLUTIONS SLU,Persona juridica,Sociedad Limitada
+1928,B70503610,BRIT ES MAGAZINE SL,Persona juridica,Sociedad Limitada
+1929,B70504279,ORBIGO PUBLICIDAD S.L.,Persona juridica,Sociedad Limitada
+1930,B70509971,AVANTE EVOLUCION DE MEDIOS SLU,Persona juridica,Sociedad Limitada
+1931,B70510698,FORXA CHAGO S L,Persona juridica,Sociedad Limitada
+1932,B70512363,INDIETRO S.L.,Persona juridica,Sociedad Limitada
+1933,B70512900,CONSVATO OBRAS SL,Persona juridica,Sociedad Limitada
+1934,B70514773,SOMOS COMUNIKA S.L.,Persona juridica,Sociedad Limitada
+1935,B70515416,"SUMINISTRO DE EQUIPOS DE INCENDIO Y SALVAMENTO, S.L.",Persona juridica,Sociedad Limitada
+1936,B70515663,MAMUCCHI S.L.,Persona juridica,Sociedad Limitada
+1937,B70516117,INNOVACION DE SERVICIOS Y GESTION VETERINARIA SL,Persona juridica,Sociedad Limitada
+1938,B70517768,SAMANA LOUNGE S.L.U.,Persona juridica,Sociedad Limitada
+1939,B70523154,"AFTER SURF, S.L.",Persona juridica,Sociedad Limitada
+1940,B70523808,LIBRERÍA FOLLAS NOVAS SL,Persona juridica,Sociedad Limitada
+1941,B70527189,TAJES Y VERDEAL SL,Persona juridica,Sociedad Limitada
+1942,B70529391,CLOUD PRINT S.L.,Persona juridica,Sociedad Limitada
+1943,B70529979,EMBAJADOR 1992 SL,Persona juridica,Sociedad Limitada
+1944,B70530621,ALEUX ROTULACION SL,Persona juridica,Sociedad Limitada
+1945,B70531223,AGUILAR DEL MORAL ARQUITECTURA E INGENIERIA S.L.P`.,Persona juridica,Sociedad Limitada
+1946,B70532080,MAILOGA TRADE SLU,Persona juridica,Sociedad Limitada
+1947,B70532718,MOTOR PLAZA CARROCERIA S.L.,Persona juridica,Sociedad Limitada
+1948,B70535513,APARIT STUDIO S.L.,Persona juridica,Sociedad Limitada
+1949,B70539366,KAIROS GESTIÓN GLOBAL DE EVENTOS S.L.,Persona juridica,Sociedad Limitada
+1950,B70539846,OFIDAR SUMINISTROS SL,Persona juridica,Sociedad Limitada
+1951,B70540554,"SOLUCIONES TECNICAS DE OCIO, S.L.",Persona juridica,Sociedad Limitada
+1952,B70541131,INNOVACIONES TECNOLOGICAS RADON S.L.,Persona juridica,Sociedad Limitada
+1953,B70541966,MULTINET INSTALACIONES SLU,Persona juridica,Sociedad Limitada
+1954,B70543012,SERYE INGENIEROS S L,Persona juridica,Sociedad Limitada
+1955,B70544010,REBORDELOS S.L,Persona juridica,Sociedad Limitada
+1956,B70545090,VOLTA MATERIAL ELECTRICO S.L.,Persona juridica,Sociedad Limitada
+1957,B70547302,FIO DE MARTIÉ SL,Persona juridica,Sociedad Limitada
+1958,B70547534,CARTONAJES CORUÑESES,Persona juridica,Sociedad Limitada
+1959,B70547864,O XARDIN DE ARBORE S.L.,Persona juridica,Sociedad Limitada
+1960,B70548631,"MARMAR OUTDOOR, S.L.",Persona juridica,Sociedad Limitada
+1961,B70549753,COMMUNITY CREATIVIDAD Y COMUNICACION SLU,Persona juridica,Sociedad Limitada
+1962,B70551833,SAYIDA HISPANIA CDS,Persona juridica,Sociedad Limitada
+1963,B70553938,AUTOLAVADOS MEDIODIA SL,Persona juridica,Sociedad Limitada
+1964,B70554621,"ORGANIZACION GLOBAL DE ESTUDIOS, S.L.",Persona juridica,Sociedad Limitada
+1965,B70555495,"ABELURIA HOTELES, S.L.",Persona juridica,Sociedad Limitada
+1966,B70557327,"SCALENE GLOBAL, S.L.",Persona juridica,Sociedad Limitada
+1967,B70558325,581 MAM ST S.L.,Persona juridica,Sociedad Limitada
+1968,B70558341,RIVERMAR SEAFOODS S.L.U.,Persona juridica,Sociedad Limitada
+1969,B70563317,"CONTORNA TÉCNICAS CONSTRUCTIVAS, SL",Persona juridica,Sociedad Limitada
+1970,B70565593,EMBER ESTUDIOS SL,Persona juridica,Sociedad Limitada
+1971,B70566153,CONSTRUCIONS VIAREY S.L.,Persona juridica,Sociedad Limitada
+1972,B70566419,E-ME GESTIÓN INTEGRAL DE COMUNICACIÓN SLU,Persona juridica,Sociedad Limitada
+1973,B70567185,"MIRAVEO ASSETS, SL",Persona juridica,Sociedad Limitada
+1974,B70569892,ELECTRICIDAD ALTERNA S.L.,Persona juridica,Sociedad Limitada
+1975,B70571906,RIPLEY PUBLICIDAD S.L.L.,Persona juridica,Sociedad Limitada
+1976,B70573183,DOLDAN COUTO S.L.,Persona juridica,Sociedad Limitada
+1977,B70575204,AUTOMATISMOS NAVEIRA S.L.,Persona juridica,Sociedad Limitada
+1978,B70576475,RAXIA FORMACION S.L.U.,Persona juridica,Sociedad Limitada
+1979,B70578190,KAITO ESTUDIOS SL,Persona juridica,Sociedad Limitada
+1980,B70579008,LUIRIF SL,Persona juridica,Sociedad Limitada
+1981,B70579164,"GALKIMIA GALICIA, S.L.",Persona juridica,Sociedad Limitada
+1982,B70580915,VENDITOS AGENCIA CREATIVA SL,Persona juridica,Sociedad Limitada
+1983,B70583646,ARESPRINT SL,Persona juridica,Sociedad Limitada
+1984,B70584172,CABRERA Y OTRAS SL,Persona juridica,Sociedad Limitada
+1985,B70588223,SHARK EVENTS LEADER S.L.,Persona juridica,Sociedad Limitada
+1986,B70594320,"INNOVACION Y CRECIMIENTO TECNOLÓGICO, SL",Persona juridica,Sociedad Limitada
+1987,B70596564,GRELOLAND SL.,Persona juridica,Sociedad Limitada
+1988,B70597547,CONSTRUCCIONES Y REFORMAS JC BELLO S.L.,Persona juridica,Sociedad Limitada
+1989,B70598719,GESTAN CONTENEDORES DE LA CORUÑA S.L.,Persona juridica,Sociedad Limitada
+1990,B70598883,DESARROLLA MANTENIMIENTO Y OBRAS SL,Persona juridica,Sociedad Limitada
+1991,B70599196,"NOKO 360 SPORTS CONSULTING, S.L.",Persona juridica,Sociedad Limitada
+1992,B70604947,"NOVAGARDA, S.L.",Persona juridica,Sociedad Limitada
+1993,B70605852,PUNTO VERDE CONSULTORIA Y EQUIPAMIENTOS SL,Persona juridica,Sociedad Limitada
+1994,B70608948,"TEMPOS ARQUEÓLOGOS, S.L.",Persona juridica,Sociedad Limitada
+1995,B72075922,AEROCAMARAS SLU,Persona juridica,Sociedad Limitada
+1996,B74084559,GRUPO CAIPDOC-IT,Persona juridica,Sociedad Limitada
+1997,B74282781,CYS HISPANIA S.L.,Persona juridica,Sociedad Limitada
+1998,B74415290,IBERICA DE REVESTIMIENTOS GRUPO EMP,Persona juridica,Sociedad Limitada
+1999,B78218526,DNOTA MEDIO AMBIENTE S.L.,Persona juridica,Sociedad Limitada
+2000,B78311941,SABORIT INTERNATIONAL SL,Persona juridica,Sociedad Limitada
+2001,B78970506,ERNST AND YOUNG S.L.,Persona juridica,Sociedad Limitada
+2002,B78976263,"SASEGUR, S.L.",Persona juridica,Sociedad Limitada
+2003,B79201166,PROCIVEL,Persona juridica,Sociedad Limitada
+2004,B79473799,AMBIOTEC,Persona juridica,Sociedad Limitada
+2005,B79714622,TECNICAS PANTRA SL,Persona juridica,Sociedad Limitada
+2006,B80081094,"TECNIGRAL, S.L.",Persona juridica,Sociedad Limitada
+2007,B80179344,CAHNOS S.L.,Persona juridica,Sociedad Limitada
+2008,B80441306,OFFICE DEPOT S.L.,Persona juridica,Sociedad Limitada
+2009,B80441744,TECHNIC HIFI CENTER,Persona juridica,Sociedad Limitada
+2010,B80496102,DICSA MADRID S.L.,Persona juridica,Sociedad Limitada
+2011,B80516164,MICROFAUNA S.L.,Persona juridica,Sociedad Limitada
+2012,B80542780,"BUHO MANAGEMENT, S.L.",Persona juridica,Sociedad Limitada
+2013,B80690910,INTERVENTO S.L.,Persona juridica,Sociedad Limitada
+2014,B81108334,EQUMEDIA XL SL,Persona juridica,Sociedad Limitada
+2015,B81342628,PRODUCTOS Y EQUIPOS PARA LA RESTAURACION SL,Persona juridica,Sociedad Limitada
+2016,B81470841,INGENIERIA Y PREVENCION DE RIESGOS S.L.,Persona juridica,Sociedad Limitada
+2017,B81709081,J & A GARRIGUES S.L.,Persona juridica,Sociedad Limitada
+2018,B81738072,ABB MaQUINAS Y EQUIPOS OFIMaTICOS SL,Persona juridica,Sociedad Limitada
+2019,B82080177,"RICOH ESPAÑA, SLU",Persona juridica,Sociedad Limitada
+2020,B82371717,RENDER AREA SL,Persona juridica,Sociedad Limitada
+2021,B82387770,EVERIS SPAIN S.L.,Persona juridica,Sociedad Limitada
+2022,B82498650,KPMG ASESORES S.L.,Persona juridica,Sociedad Limitada
+2023,B82516600,"SEUR GEOPOST, SLU",Persona juridica,Sociedad Limitada
+2024,B82591470,HEWLETT PACKARD SERVICIOS ESPAÑA S.L.,Persona juridica,Sociedad Limitada
+2025,B82752304,CRESCENT INICIATIVAS S.L.,Persona juridica,Sociedad Limitada
+2026,B82806738,CONTENUR ESPAÑA S.L.,Persona juridica,Sociedad Limitada
+2027,B83133165,CIUDADANO MENGS SL,Persona juridica,Sociedad Limitada
+2028,B83206573,"HOTTINGER BRÜEL & KJAER IBÉRICA, S.L.U.",Persona juridica,Sociedad Limitada
+2029,B83969121,HISPAMAST S.L.,Persona juridica,Sociedad Limitada
+2030,B84151463,POWERNET I SL,Persona juridica,Sociedad Limitada
+2031,B84736354,HUNE RENTAL S.L.,Persona juridica,Sociedad Limitada
+2032,B84905355,KEY VIGILANT SLU,Persona juridica,Sociedad Limitada
+2033,B85045045,"ARTEC EXPOSICIONES, S.L.",Persona juridica,Sociedad Limitada
+2034,B85097962,EPTISA SERVICIOS DE INGENIERIA S.L.,Persona juridica,Sociedad Limitada
+2035,B85169589,DALE A LA DANZA SL,Persona juridica,Sociedad Limitada
+2036,B85386696,GESTION DE DISEÑO DESIGNO SL,Persona juridica,Sociedad Limitada
+2037,B85520856,"AZURRIGA, S.L.",Persona juridica,Sociedad Limitada
+2038,B85604577,SPORT EXPERIENCE FACTORY,Persona juridica,Sociedad Limitada
+2039,B85729325,INVIA SISTEMAS SLU,Persona juridica,Sociedad Limitada
+2040,B85885812,INDUSTRIAL GLOBAL SUPPLY SL,Persona juridica,Sociedad Limitada
+2041,B86133766,ULTRALAB SL,Persona juridica,Sociedad Limitada
+2042,B86162237,TELEGESTION,Persona juridica,Sociedad Limitada
+2043,B86208824,SRCL CONSENUR S.L.,Persona juridica,Sociedad Limitada
+2044,B86324118,HUMA MMXI MENSAJERIA Y SERVICIOS SL,Persona juridica,Sociedad Limitada
+2045,B86479078,ALMAS INDUSTRIES BSAFE,Persona juridica,Sociedad Limitada
+2046,B86527439,TELNET SOFTWARE AVANZADO SL,Persona juridica,Sociedad Limitada
+2047,B86543188,ETICAS RESEARCH AND CONSULTING SL,Persona juridica,Sociedad Limitada
+2048,B86657640,PROSEGUR SERVICIOS DE EFECTIVO ESPAÑA S.L.,Persona juridica,Sociedad Limitada
+2049,B86661873,DOBELART LOGISTICA SL,Persona juridica,Sociedad Limitada
+2050,B86728615,MATEL GROUP SL,Persona juridica,Sociedad Limitada
+2051,B86773975,PAISAJE TRANSVERSAL SLL,Persona juridica,Sociedad Limitada
+2052,B87000683,ASAP SERVICIOS TECNICOS SL,Persona juridica,Sociedad Limitada
+2053,B87031472,TOMPLA INDUSTRIA INTERNACIONAL DEL SOBRE S.L.,Persona juridica,Sociedad Limitada
+2054,B87041091,DURCAL ENERGIA SL,Persona juridica,Sociedad Limitada
+2055,B87186417,BLUE CLOW FISH S.L.,Persona juridica,Sociedad Limitada
+2056,B87222014,PROSEGUR SOLUCIONES INTEGRALES DE SEGURIDAD ESPAÑA SL,Persona juridica,Sociedad Limitada
+2057,B87423661,"IBERGLOBAL SISTEMS, S.L.",Persona juridica,Sociedad Limitada
+2058,B87449872,NORCONSULTING SOLUCIONES S.L.U,Persona juridica,Sociedad Limitada
+2059,B87672523,TANDEM TALENT SL,Persona juridica,Sociedad Limitada
+2060,B88178934,GESTART MUSICAPARATODOS SL,Persona juridica,Sociedad Limitada
+2061,B90164443,URBANTECHNOLOGY S.L.,Persona juridica,Sociedad Limitada
+2062,B90197807,"CASTAÑO Y ASOCIADOS CONSTRUCCIÓN SOSTENIBLE, S.L.",Persona juridica,Sociedad Limitada
+2063,B91281592,GESTION DE LA FORMACION DE LA SALUD SL,Persona juridica,Sociedad Limitada
+2064,B91816926,TABACASOL 2010 SL,Persona juridica,Sociedad Limitada
+2065,B93501096,FSF STENFI SLU,Persona juridica,Sociedad Limitada
+2066,B94001088,SONIDO E ILUMINACION GOYPLASON SL,Persona juridica,Sociedad Limitada
+2067,B94038106,GESTCALOR SL,Persona juridica,Sociedad Limitada
+2068,B94040029,I-RADIA CREA,Persona juridica,Sociedad Limitada
+2069,B94042645,GALLERY TRUMPETS SL,Persona juridica,Sociedad Limitada
+2070,B94062221,INNOMAR BIOSOLUTIONS,Persona juridica,Sociedad Limitada
+2071,B94083854,EDIGRUP GLOBAL S.L.,Persona juridica,Sociedad Limitada
+2072,B94086584,AQUATIC GALICIA SL,Persona juridica,Sociedad Limitada
+2073,B94097243,XESCULTURA SL,Persona juridica,Sociedad Limitada
+2074,B94099819,ECOCONTROL GESTION ENERGETICA SL,Persona juridica,Sociedad Limitada
+2075,B94101151,BAOBAB TEATRO S.L.,Persona juridica,Sociedad Limitada
+2076,B94110624,RONAUTICA QUALITY MARINAS SLU,Persona juridica,Sociedad Limitada
+2077,B94112778,IGLESIAS SALUD SLU,Persona juridica,Sociedad Limitada
+2078,B94127370,"LIGNUM URBE, SL",Persona juridica,Sociedad Limitada
+2079,B94145885,"ORIONIS SMART WATER NETWORKS, S.L.",Persona juridica,Sociedad Limitada
+2080,B94156106,JEVAZ SOCIALMEDIA SLU,Persona juridica,Sociedad Limitada
+2081,B94158714,XOIA SOFTWARE DEVOLOPMENT S.L.,Persona juridica,Sociedad Limitada
+2082,B94168705,PLAY PLAN CULTURAL SLU,Persona juridica,Sociedad Limitada
+2083,B94180965,"ART I SO 4 GATS, SL",Persona juridica,Sociedad Limitada
+2084,B94181963,RENT-A-BRAIN CONSULTORES,Persona juridica,Sociedad Limitada
+2085,B94187887,INGENIEROS CONSULTORES AGRUPADOS SL,Persona juridica,Sociedad Limitada
+2086,B94194099,OZONO HORIZONTE MUSICAL SL,Persona juridica,Sociedad Limitada
+2087,B94195674,GUIMERANS TROFEOS S.L.,Persona juridica,Sociedad Limitada
+2088,B95087482,OESIA NETWORKS S.L.,Persona juridica,Sociedad Limitada
+2089,B95187290,PKF ATTEST ITC SL,Persona juridica,Sociedad Limitada
+2090,B95229159,DATA BASE STORAGE S.L.,Persona juridica,Sociedad Limitada
+2091,B95799664,ESERGUI DISTESER,Persona juridica,Sociedad Limitada
+2092,B96027339,ACTUM SL,Persona juridica,Sociedad Limitada
+2093,B96079835,"IVIVA, S.L.",Persona juridica,Sociedad Limitada
+2094,B96113683,SIDEP,Persona juridica,Sociedad Limitada
+2095,B96618129,IDM SISTEMAS DE COMUNICACION SL,Persona juridica,Sociedad Limitada
+2096,B96753256,"ALGAR LIBROS, SLU",Persona juridica,Sociedad Limitada
+2097,B97199806,EUROCEBRIAN S L,Persona juridica,Sociedad Limitada
+2098,B97440713,CLEM ECOLOGIC SL,Persona juridica,Sociedad Limitada
+2099,B97673453,VALORA PREVENCION S.L.U.,Persona juridica,Sociedad Limitada
+2100,B98482417,PIXELING SL,Persona juridica,Sociedad Limitada
+2101,B98591233,ISTOBAL ESPAÑA S.L.,Persona juridica,Sociedad Limitada
+2102,B99406944,MULTIENERGIA VERDE SL,Persona juridica,Sociedad Limitada
+2103,C807007,"BUELA BARBACHAN, JAVIER EDUARDO",Persona juridica,Sociedad Colectiva
+2104,C807018,"MOREIRA ESTOMBA, MARCELA ELIZABETH",Persona juridica,Sociedad Colectiva
+2105,E11805215,ACUAZUL SC,Persona juridica,Comunidad de Bienes
+2106,E15063712,ANGEL LOPEZ MARTINEZ Y OTRA C.B.,Persona juridica,Comunidad de Bienes
+2107,E150700063,MATILDE M LOPEZ GONZALEZ Y HNA. CB,Persona juridica,Comunidad de Bienes
+2108,E15112923,SUCESORES DE JOSE PEREIRO REY CB,Persona juridica,Comunidad de Bienes
+2109,E15864184,FARMACIA VARELA SANCHEZ CABALLERO C.B.,Persona juridica,Comunidad de Bienes
+2110,E15948441,CASA CUENCA C.B.,Persona juridica,Comunidad de Bienes
+2111,E70017850,IMPRENTA LA CIUDAD C.B.,Persona juridica,Comunidad de Bienes
+2112,E70540539,COMUNIDAD HEREDEROS ALBERTO MARTÍ,Persona juridica,Comunidad de Bienes
+2113,E94187630,ARTEQUIPO,Persona juridica,Comunidad de Bienes
+2114,F01932003,LEXICA ESCUELA DE ESPAÑOL S COOP GALEGA,Persona juridica,Sociedad Cooperativa
+2115,F05269196,AVADA SOCIEDADE COOPERATIVA GALEGA,Persona juridica,Sociedad Cooperativa
+2116,F06705271,COOP.ARTES ESCENICAS Y PLASTICAS DE EXTREMADURA,Persona juridica,Sociedad Cooperativa
+2117,F15983067,CULTURACTIVA S.C.G.,Persona juridica,Sociedad Cooperativa
+2118,F20025318,ORONA S.COOP.,Persona juridica,Sociedad Cooperativa
+2119,F27823442,MIUDIÑO S.COOP. GALEGA,Persona juridica,Sociedad Cooperativa
+2120,F27843200,"MUSICOS AO VIVO, S.COOP. GALEGA",Persona juridica,Sociedad Cooperativa
+2121,F32001976,COOP OURENSANAS S COOP GALEGA,Persona juridica,Sociedad Cooperativa
+2122,F70008628,PEGADAS S COOP. GALEGA,Persona juridica,Sociedad Cooperativa
+2123,F70353982,"URDIME, S.COOP.GALEGA",Persona juridica,Sociedad Cooperativa
+2124,F70442058,MEDATLANTIA CONSULTORIA EUROPEA S.COOP.GALEGA,Persona juridica,Sociedad Cooperativa
+2125,F70444302,7H S.COOP GALEGA,Persona juridica,Sociedad Cooperativa
+2126,F70453568,CUNDE SOC. COOP. GALEGA,Persona juridica,Sociedad Cooperativa
+2127,F70497979,PARTIDARIOS DA CIDADE S.COOP,Persona juridica,Sociedad Cooperativa
+2128,F70499090,FABALOBA S. COOP. GALEGA,Persona juridica,Sociedad Cooperativa
+2129,F70499819,GaLICA CONSULTORiA E FORMACIoN S.COOP.GALEGA,Persona juridica,Sociedad Cooperativa
+2130,F70525332,COMA COMUNICACION CREATIVA SOCIEDAD COOPERATIVA GALEGA,Persona juridica,Sociedad Cooperativa
+2131,F70555370,PLANO PEMENTA S. COOP. GALEGA,Persona juridica,Sociedad Cooperativa
+2132,F70574371,LABORATORIO ESCENICO S. COOP. GALEGA,Persona juridica,Sociedad Cooperativa
+2133,F70577010,AVENTEIRA S. COOP. GALEGA,Persona juridica,Sociedad Cooperativa
+2134,F70600135,ALMEIRO S COOP GALEGA,Persona juridica,Sociedad Cooperativa
+2135,F70601976,CUARTO DE INVERNO S COOP GALEGA,Persona juridica,Sociedad Cooperativa
+2136,F70614961,A FLOR DA VIDA S. COOP. GALEGA,Persona juridica,Sociedad Cooperativa
+2137,F84278266,FREELANCE SCM,Persona juridica,Sociedad Cooperativa
+2138,F85415040,MUSICOS UNIDOS SIGLO XXI,Persona juridica,Sociedad Cooperativa
+2139,F90065418,SMART IB DE IMPULSO EMPRESARIAL S.COOP.AND.,Persona juridica,Sociedad Cooperativa
+2140,F94090792,NOSA ENERXIA SOCIEDADE COOPERATIVA GALEGA,Persona juridica,Sociedad Cooperativa
+2141,F94170230,ARBORE S COOP GALEGA,Persona juridica,Sociedad Cooperativa
+2142,F95390126,ASAKEN S COOPERATIVA,Persona juridica,Sociedad Cooperativa
+2143,G08171407,FIATC MUTUA DE SEGUROS Y REASEGUROS,Persona juridica,Asociacion
+2144,G08890923,ASOCIACION VIDA SANA DE BARCELONA,Persona juridica,Asociacion
+2145,G15028970,ASOCIACION EMPRESARIOS POLIGONO POCOMACO,Persona juridica,Asociacion
+2146,G15030844,CONFRARIA NOIA,Persona juridica,Asociacion
+2147,G15031511,COFRADIA DE PESCADORES MALPICA DE BERGANTInOS,Persona juridica,Asociacion
+2148,G15032006,ASOCIACION DE LA PRENSA DE LA CORUÑA,Persona juridica,Asociacion
+2149,G15033152,CLUB NAUTICO DEPORTIVO DE RIVEIRA,Persona juridica,Asociacion
+2150,G15037328,ASOCIACION JUVENIL XACARANDAINA,Persona juridica,Asociacion
+2151,G15039126,GRUPO NATURALISTA HABITAT,Persona juridica,Asociacion
+2152,G15039936,ASOC DE ESCRITORES EN LINGUA GALEGA,Persona juridica,Asociacion
+2153,G15040850,FUNDACIÓN ROSALÍA DE CASTRO,Persona juridica,Asociacion
+2154,G15042617,FEDERACION PROVINCIAL DE APAS DE CENTROS PUBLICOS,Persona juridica,Asociacion
+2155,G15043581,REAL CLUB NAUTICO DE LA CORUÑA,Persona juridica,Asociacion
+2156,G15047095,SOCIEDAD DEPORTIVA HIPICA DE LA CORUÑA,Persona juridica,Asociacion
+2157,G15048762,ASOCIACION CORUÑESA DE COLABORACION PROMOCION DEL SORDO,Persona juridica,Asociacion
+2158,G15051667,FEUGA,Persona juridica,Asociacion
+2159,G15055890,REAL FEDERACION GALLEGA DE FUTBOL,Persona juridica,Asociacion
+2160,G15067002,FEDERACION GALEGA PELOTA,Persona juridica,Asociacion
+2161,G15068091,FED ASOCIACIONS PERSOAS XORDAS GALICIA,Persona juridica,Asociacion
+2162,G15070451,FEDERACION GALLEGA DE PATINAJE,Persona juridica,Asociacion
+2163,G15103500,FEDERACION GALLEGA DE ATLETISMO DE LA CORUnA,Persona juridica,Asociacion
+2164,G15109267,FEDERACION GALLEGO DE JUDO Y D,Persona juridica,Asociacion
+2165,G15115371,SOCIEDADE DEPORTIVA AS XUBIAS,Persona juridica,Asociacion
+2166,G15121700,FEDERACION GALLEGA DE HALTEROFILIA,Persona juridica,Asociacion
+2167,G15128275,ASOC GALEGA DE ARTESANOS,Persona juridica,Asociacion
+2168,G15228844,ASOCIACION GALEGA DE AXEDRECISTAS,Persona juridica,Asociacion
+2169,G15291370,AGRUPACION MONTAÑEROS INDEPENDIENTES,Persona juridica,Asociacion
+2170,G15338080,FUNDACION DIEZ DE MARZO,Persona juridica,Asociacion
+2171,G15364623,CLUB NAUTICO DE CAMARIÑAS,Persona juridica,Asociacion
+2172,G15456163,CLUB MARITIMO DE OZA O PUNTAL,Persona juridica,Asociacion
+2173,G15462633,ASOCIACION AGALURE,Persona juridica,Asociacion
+2174,G15546484,FUNDACION ADCOR,Persona juridica,Asociacion
+2175,G15583750,FEDERACION GALLEGA DE CHAVE,Persona juridica,Asociacion
+2176,G15588361,ASOC HISTORICO CULTURAL TH E ROYAL GREEN JACKETS,Persona juridica,Asociacion
+2177,G15597289,FUNDACION UNIVERSIDADE DE A CORUÑA,Persona juridica,Asociacion
+2178,G15616287,ASOCIACIÓN EMPRESARIAL GALEGA DE CENTROS ESPECIAIS DE EMPREGO SEN ANIMO DE LUCRO,Persona juridica,Asociacion
+2179,G15650518,ASOC RECREATIVA E INSTRUCTIVA DE AMIGOS,Persona juridica,Asociacion
+2180,G15666746,ASOCIACION GALEGA DE XESTION DEPORTIVA,Persona juridica,Asociacion
+2181,G15730625,PLATAFORMA CORUÑESA DE VOLUNTARIADO,Persona juridica,Asociacion
+2182,G15731466,ASOC SINDROME DE DOWN DE LA CORUÑA,Persona juridica,Asociacion
+2183,G15734205,FEDERACION ESPAÑOLA DE SURF,Persona juridica,Asociacion
+2184,G15767718,ASOC CULTURAL DONAIRE,Persona juridica,Asociacion
+2185,G15798655,FUNDACION PAIDEIA GALIZA,Persona juridica,Asociacion
+2186,G15806375,ASOCIACION CULTURAL SCENICA,Persona juridica,Asociacion
+2187,G15839400,AGRUPACION ASTRONOMICA CORUnESA IO,Persona juridica,Asociacion
+2188,G15852254,CLUB LUDO SOCIEDADE DEPORTIVA,Persona juridica,Asociacion
+2189,G15858319,ASOCIACION MUSICAL Y CULTURA CANTABILE,Persona juridica,Asociacion
+2190,G15870173,ASOC PARTICIPA PARA LA INCLUSION SOCIAL,Persona juridica,Asociacion
+2191,G15920259,ASOCIACION CULTURAL MANICOMICOS,Persona juridica,Asociacion
+2192,G15962509,ASOCIACION CANCORUnA,Persona juridica,Asociacion
+2193,G15969678,ASOCIACION GALEGA PARA A SAUDE SEXUAL,Persona juridica,Asociacion
+2194,G27033737,FEDERACION DE SALVAMENTO Y SOCORRISMO DE GALICIA,Persona juridica,Asociacion
+2195,G27806868,ASOCIACION LIMIAR TEATRO,Persona juridica,Asociacion
+2196,G28197564,ASOC ESPAÑOLA CONTRA EL CANCER,Persona juridica,Asociacion
+2197,G32242422,AMIGOS DA TERRA GALICIA XUVENTUDE,Persona juridica,Asociacion
+2198,G36040764,FEDERACION GALLEGA DE PIRAGUISMO DE PONTEVEDRA,Persona juridica,Asociacion
+2199,G36280089,ASOCIACION TEATRAL PAVIS PAVOS,Persona juridica,Asociacion
+2200,G36597714,VELLA ESCOLA,Persona juridica,Asociacion
+2201,G36640019,FEDERACION GALLEGA DE KARATE Y DISCIPLINAS ASOCIADAS,Persona juridica,Asociacion
+2202,G36741049,ASOC INSTITUTO GALEGO DE ANALISE E DOCUMENTACION INTERNACIONAL,Persona juridica,Asociacion
+2203,G36771392,ASOC DE ENXEÑEIROS DE TELECOMUNICACION DE GALICIA,Persona juridica,Asociacion
+2204,G36833648,SOLIEDARIDADE INTERNACIONAL DE GALICIA,Persona juridica,Asociacion
+2205,G37025756,FUNDACION GERMAN SANCHEZ RUIPEREZ G37025756,Persona juridica,Asociacion
+2206,G49147291,ASOCIACION NACIONAL DE AGRUPACIONES Y ASOCIACIONES DE VOLUNTARIOS DE PROTECCION CIVIL DE ESPAÑA,Persona juridica,Asociacion
+2207,G59196949,ASSOCIACIO ASSITENCIA A DONES AGREDIDES SEXUALMENT,Persona juridica,Asociacion
+2208,G62867676,FUNDACIO DE L ENGINYERIA AGRICOLA CATALANA,Persona juridica,Asociacion
+2209,G66579046,ASSOCIACIÓ BASKET BEAT,Persona juridica,Asociacion
+2210,G67267294,ASOCIACION QGIS ESPAÑA,Persona juridica,Asociacion
+2211,G70041025,FUND.E.U. RELACIONES LABORALES A CORUÑA,Persona juridica,Asociacion
+2212,G70080015,AC ALBATROS,Persona juridica,Asociacion
+2213,G70126750,ASOCIACIÓN ARDANZAS,Persona juridica,Asociacion
+2214,G70143342,ASOCIACION CULTURAL INGALICIA,Persona juridica,Asociacion
+2215,G70187794,MOBI-LIZA ASOCIACION,Persona juridica,Asociacion
+2216,G70192752,ASOC DE CLUBS CORUÑESES DE HOQUEI A PATINS,Persona juridica,Asociacion
+2217,G70234091,ASOCIACION JUVENIL DRACO,Persona juridica,Asociacion
+2218,G70239595,ASOCIACION CULTURAL TRES POR CUATRO,Persona juridica,Asociacion
+2219,G70266564,ASOCIACION CULTURAL ZALAETA,Persona juridica,Asociacion
+2220,G70297452,ZALAETA 100TOLOS,Persona juridica,Asociacion
+2221,G70306493,ASOCIACION DEPORTIVA Y CULTURAL ALQUIMIA INLINE,Persona juridica,Asociacion
+2222,G70350038,GALICIA ROLLERS,Persona juridica,Asociacion
+2223,G70351093,ASOC GALLEGA DE PROFESORES DE FORMACION CONTINUADA DE FISIOTERAPIA INSTITUTO GALLEGO DE FISIOTERAPIA,Persona juridica,Asociacion
+2224,G70369657,AGASFAD,Persona juridica,Asociacion
+2225,G70369897,MOTEROS EN ACCION SOLIDARIA MOTO CLUB,Persona juridica,Asociacion
+2226,G70376082,ASOCIACION FLUTELLO,Persona juridica,Asociacion
+2227,G70396205,CLUB BRIGANTIA AVENTURA,Persona juridica,Asociacion
+2228,G70414321,ACOUGA ASOCIACION GALEGA DE CONSUMIDORES E USUARIOS,Persona juridica,Asociacion
+2229,G70417803,ASOCIACIÓN MAR DE FÁBULA,Persona juridica,Asociacion
+2230,G70426507,ASOCIACION GALEGA E CULTURAL CAPOEIRA CORUÑA,Persona juridica,Asociacion
+2231,G70470968,FUNDACION CENTRO DE INVESTIGACION EN TECNOLOXIAS DA INFORMACION E AS COMUNICACIONS DE GALICIA,Persona juridica,Asociacion
+2232,G70497219,CLUB THE CUTARC TEAM,Persona juridica,Asociacion
+2233,G70505110,ASOCIACION PROFESIONAL DE ARTISTAS DE GALICIA,Persona juridica,Asociacion
+2234,G70509831,ASOCIACIÓN IA ORA TAHITI GALICIA,Persona juridica,Asociacion
+2235,G70517461,A.C.EL ACORDE SECRETO,Persona juridica,Asociacion
+2236,G70522818,ASOCIACION CULTURAL LOAIRAS,Persona juridica,Asociacion
+2237,G70544044,ASOCIACION CULTURAL UNHA GRAN BURLA NEGRA,Persona juridica,Asociacion
+2238,G70554027,CLUB PETANCA CORUÑA,Persona juridica,Asociacion
+2239,G70591515,FUNDACIÓN LUZES,Persona juridica,Asociacion
+2240,G78547148,MUTUA DE RIESGO MARITIMO SOCIEDAD DE SEGUROS,Persona juridica,Asociacion
+2241,G79365748,SEMICYUC,Persona juridica,Asociacion
+2242,G80468416,FUNDACION LABORAL DE LA CONSTRUCCION,Persona juridica,Asociacion
+2243,G82871666,ASOCIACION PARA LA RECUPERACION DE LA MEMORIA HISTORICA,Persona juridica,Asociacion
+2244,G94163367,INSTITUTO GALEGO DO TALENTO,Persona juridica,Asociacion
+2245,GB864419992,TALL SHIPS RACES LIMITED,Persona juridica,Asociacion
+2246,H15361967,C.P. CALLE SANTO TOMAS 49-51,Persona juridica,Comunidad de Propietarios
+2247,J15112915,FERRETERIA LA PALLOZA SCP,Persona juridica,Sociedad Civil
+2248,J15526619,LICEO LA PAZ SC,Persona juridica,Sociedad Civil
+2249,J15538671,MARIANO FRANCO Y YOLANDA PANTIN SC,Persona juridica,Sociedad Civil
+2250,J15541246,ARQYUR S.C.,Persona juridica,Sociedad Civil
+2251,J15689441,AXA ARQUEOLOXIA S.C,Persona juridica,Sociedad Civil
+2252,J15767676,MASSTRES COMUNICACION SC,Persona juridica,Sociedad Civil
+2253,J15769169,TECNICA ARBORE GALEGA S.C.,Persona juridica,Sociedad Civil
+2254,J15832215,J.M. SERVICIOS S.C.,Persona juridica,Sociedad Civil
+2255,J15833056,MARTINEZ DE LA ROSA ARQUITECTOS SCP,Persona juridica,Sociedad Civil
+2256,J15944143,ALEJANDRO LAGE NOVO Y OTRO S.C.,Persona juridica,Sociedad Civil
+2257,J39390729,EL BAUL DE LA ABUELA,Persona juridica,Sociedad Civil
+2258,J65660680,"EPIM, S.C.P.",Persona juridica,Sociedad Civil
+2259,J70082391,"VICTOR AMOR Y OTRO, S.C.",Persona juridica,Sociedad Civil
+2260,J70100490,CARAMUXO TEATRO S C,Persona juridica,Sociedad Civil
+2261,J70193297,TRIOTECNO S.C.,Persona juridica,Sociedad Civil
+2262,J70196100,BARBEITO Y LOPEZ S.C.,Persona juridica,Sociedad Civil
+2263,J70223680,ELEFANTE ELEGANTE S.C.,Persona juridica,Sociedad Civil
+2264,J70238183,"MUSIC ARTE REY SAAVEDRA, SC",Persona juridica,Sociedad Civil
+2265,J70244181,CURVADOS CORUÑA S.C.,Persona juridica,Sociedad Civil
+2266,J70307699,THOR S.C.,Persona juridica,Sociedad Civil
+2267,J70337720,NOVA CRISTALERIA SC,Persona juridica,Sociedad Civil
+2268,J70352331,ALUMINIOS CASTRO S C,Persona juridica,Sociedad Civil
+2269,J70404561,L2 INGENIERIA,Persona juridica,Sociedad Civil
+2270,J70408521,CULTUREUME SC,Persona juridica,Sociedad Civil
+2271,J70416342,FLU-OR S.C.,Persona juridica,Sociedad Civil
+2272,J70443254,BERBIRIANA S.C.,Persona juridica,Sociedad Civil
+2273,J70444559,UNA DE DOS COMUNICACIÓN S.C,Persona juridica,Sociedad Civil
+2274,J70448600,BOMBO ESTUDIO S.C.,Persona juridica,Sociedad Civil
+2275,J70451901,PROGRESI CONSULTORES,Persona juridica,Sociedad Civil
+2276,J70480256,CURCUMA2016 S.C.,Persona juridica,Sociedad Civil
+2277,J70512397,XITA PROMOTORA,Persona juridica,Sociedad Civil
+2278,J70533542,EZPZP SERVICIOS TECNOLOGICOS S.C.,Persona juridica,Sociedad Civil
+2279,J70559521,TERREO COCINA CASUAL S.C.,Persona juridica,Sociedad Civil
+2280,J70560347,E INFORMATICOS CORUÑA S.C.,Persona juridica,Sociedad Civil
+2281,J70575766,LESEO BUFETE LEGAL SCP,Persona juridica,Sociedad Civil
+2282,J70591979,KOTA VERTICAL S.C.,Persona juridica,Sociedad Civil
+2283,J70607361,AGUSTIN GONZALEZ DIAZ Y OTRA S.C.,Persona juridica,Sociedad Civil
+2284,J93278315,TALLER DE MENIA S.C.,Persona juridica,Sociedad Civil
+2285,P6890002F,CONSORCIO PARQUE DE LAS CIENCIAS,Persona juridica,Corporacion Local
+2286,PT503626406,ASSOC EXPLORATORIO INFANTE D HENRIQUE,Persona juridica,Corporacion Local
+2287,PT512108560,FLYING SHARKS LDA.,Persona juridica,Corporacion Local
+2288,Q1518001A,UNIVERSIDAD SANTIAGO COMPOSTELA,Persona juridica,Organismo Publico
+2289,Q2866001G,CRUZ ROJA ESPAÑOLA,Persona juridica,Organismo Publico
+2290,Q2866023A,CONSEJO GENERAL COLEGIOS OFICIALES SECRETARIOS ETC,Persona juridica,Organismo Publico
+2291,Q6550005J,UNIVERSIDADE DA CORUÑA,Persona juridica,Organismo Publico
+2292,Q8650002B,UNIVERSIDADE DE VIGO,Persona juridica,Organismo Publico
+2293,U32485500,"PRADO LAMEIRO S.L.-ATCON,S.L.U.T.E.N.4",Persona juridica,Union Temporal de Empresas
+2294,U70128400,ORTO PARQ Y JARD S.L. Y SIDECU S.L. UTE,Persona juridica,Union Temporal de Empresas
+2295,U70140918,"CIE S.L. Y OMICRON AMEPRO S.A., UTE",Persona juridica,Union Temporal de Empresas
+2296,U70390620,"UTE MONTAJES ELECTRICOS VIZCAINO SL FOROVE, S.L",Persona juridica,Union Temporal de Empresas
+2297,U70554936,UTE APPLUS-BRIGANTIUM PARQUES Y JARDINES,Persona juridica,Union Temporal de Empresas
+2298,U81908675,BABCOCK KOMMUNAL MBH Y TECNICAS MEDIOAMBIENTALES TECMED SA-U U81908675,Persona juridica,Union Temporal de Empresas
+2299,U82437211,TEC MEDIOAMB TECMED S.A. OTTO IND MED UTE,Persona juridica,Union Temporal de Empresas
+2300,U88499975,"UTE (VALORIZA, SULO IBÉRICA Y ARIAS INFRAESTRUCTURAS)",Persona juridica,Union Temporal de Empresas
+2301,V15038458,FEDERACION LIBREIROS DE GALICIA,Persona juridica,Otros Tipos
+2302,V15117385,FEDERACION GALLEGA DE REMO,Persona juridica,Otros Tipos
+2303,W0042565B,"AXA ART VERSICHERUNG AG, SUCURSAL EN ESPAÑA",Persona juridica,Establecimiento Permanente de Entidad Extranjera
+2304,W0069547H,LIBERTY MUTUAL INSURANCE EUROPE LIMITED,Persona juridica,Establecimiento Permanente de Entidad Extranjera
+2305,W0185688I,HISCOX S.A.,Persona juridica,Establecimiento Permanente de Entidad Extranjera
+2306,W0371455G,BERKLEY ESPAnA,Persona juridica,Establecimiento Permanente de Entidad Extranjera
+2307,X0836322L,"ADAMS, HENDRICUS THEODORUS E",Persona juridica,Persona Fisica Extranjera (NIE)
+2308,X2199234C,"DE VUYST, FRANK",Persona juridica,Persona Fisica Extranjera (NIE)
+2309,X2535538H,"LUTIER, STEPHANE GERARD",Persona juridica,Persona Fisica Extranjera (NIE)
+2310,X3199874E,"BARRAVECCHIA, JUAN VICCTORIO",Persona juridica,Persona Fisica Extranjera (NIE)
+2311,X4673037N,"FELLOZA, MARIA SOLEDAD",Persona juridica,Persona Fisica Extranjera (NIE)
+2312,X5322662W,"LENCINA, GONZALO MARTIN",Persona juridica,Persona Fisica Extranjera (NIE)
+2313,Y1124572R,"UCEDA TULIER, GIANINA ERIKA",Persona juridica,Persona Fisica Extranjera (NIE)
+2314,Y1272587B,"SOARES LINS, THAYSE",Persona juridica,Persona Fisica Extranjera (NIE)
+2315,Y2559705A,"LOPALCO, GIOVANNA",Persona juridica,Persona Fisica Extranjera (NIE)
+2316,Y4013315J,"OGGIAN, MARCO",Persona juridica,Persona Fisica Extranjera (NIE)
+2317,Y5010715H,"WEETELING, FROUKJE",Persona juridica,Persona Fisica Extranjera (NIE)
+2318,Y7074205V,"LEVANO ERQUIAGA, FLOR DE MARIA",Persona juridica,Persona Fisica Extranjera (NIE)
+2319,YA9714445,"GASPERIN, ANDREA",Persona juridica,Persona Fisica Extranjera (NIE)
+2320,b63377253,DISSET ODISEO SL,Persona juridica,Sociedad Limitada
+2321,no disponible,"BOGA MOSCOSO, MARGARITA",no disponible,no disponible

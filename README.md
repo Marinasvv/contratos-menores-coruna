@@ -74,10 +74,12 @@ Se distinguen dos situaciones que **no son lo mismo**, aunque las dos parezcan "
 
 ### 3. Duplicados
 
-**Regla usada**: se considera duplicado solo si una fila es **idéntica en todas las columnas de negocio** (expediente, fecha, NIF, empresa, objeto, importe, área, tipo, año, trimestre). Con esa regla se eliminan **2 filas**:
+**Regla 1 (duplicado exacto dentro del mismo trimestre)**: se considera duplicado si una fila es **idéntica en todas las columnas de negocio** (expediente, fecha, NIF, empresa, objeto, importe, área, tipo, año, trimestre). Con esa regla se eliminan **2 filas**:
 
 - Expediente `631/2020/64`: repetida exactamente igual dos veces (duplicado exacto, sin más).
 - Expediente `105/2020/1266` (T1 2020, filas 555 y 557 del `.ods` original): misma fecha, mismo NIF, mismo importe (5.487,56 €) y la misma factura (`"2019/25"`) citada en el objeto — solo cambiaba el nombre de la empresa en una letra (`"SERVICIO"` vs. `"SERVICIOS"` DE HOSTELERIA OLLOMOL S.L.). Revisado a mano antes de decidir: es un alta duplicada por error de tecleo en el nombre, no dos pagos distintos. Se normaliza ese nombre concreto (`NOMBRE_EMPRESA_CORRECCIONES` en el script) y la regla de "fila idéntica" hace el resto. No es una regla genérica de "nombres parecidos" — habría sido arriesgado aplicar coincidencia difusa al resto del dataset — es una corrección puntual para este caso ya verificado.
+
+**Regla 2 (republicación entre trimestres)**: hallazgo posterior, al construir el modelo de Snowflake y comprobar duplicados en `fact_contratos` sin año/trimestre. **7 contratos de 2019** aparecen tal cual (mismo expediente, fecha, NIF, empresa, importe, objeto y área) en el fichero de un trimestre **y otra vez en el fichero del trimestre siguiente** (ej. `230/2019/224`, publicado en T2 y de nuevo en T3). No lo detectaba la regla 1 porque esa regla incluye año/trimestre a propósito — aquí es precisamente lo que hay que ignorar para verlo. Se elimina la copia más tardía y se conserva la primera publicación (ordenando por año/trimestre antes de aplicar la regla). Caso particular dentro de este grupo: el expediente `230/2019/158` se publicó en T1 2019 (sin `tipo_contrato`, como todo ese trimestre) y se repitió en T2 2019 (ya con `tipo_contrato = "Suministros"`) — por eso esta segunda regla **no** usa `tipo_contrato` como parte de la comparación, o se habría tratado como "distinto" solo por ese hueco estructural de T1 2019, no por ser un contrato diferente.
 
 **Por qué NO se usa el expediente como clave única de duplicado**: un mismo número de expediente puede repartirse legítimamente en varias líneas distintas, y no son duplicados:
 

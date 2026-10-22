@@ -198,16 +198,42 @@ def clean() -> pd.DataFrame:
     df = df.drop_duplicates(subset=BUSINESS_COLUMNS, keep="first")
     removed = before - len(df)
 
+    # 3b. Republicacion entre trimestres: el mismo contrato (mismo expediente,
+    # fecha, NIF, empresa, importe, objeto y area) aparece tal cual en el
+    # fichero del trimestre siguiente. No lo detecta el paso anterior porque
+    # BUSINESS_COLUMNS incluye anio/trimestre a proposito (ver comentario de
+    # esa lista) y aqui es precisamente lo que hay que ignorar. No se usa
+    # tipo_contrato en esta clave: en T1 2019 esa columna no existe nunca
+    # ("no disponible"), y un contrato real republicado en T2 con el tipo ya
+    # informado no deberia tratarse como "distinto" solo por eso (caso real:
+    # expediente 230/2019/158). Se ordena por anio/trimestre antes de
+    # eliminar para conservar la primera publicacion, no la mas tardia.
+    columnas_republicacion = [
+        "expediente",
+        "fecha_adjudicacion",
+        "nif",
+        "empresa_adjudicataria",
+        "importe",
+        "objeto",
+        "area_departamento",
+    ]
+    df = df.sort_values(["anio", "trimestre"])
+    before_republicacion = len(df)
+    df = df.drop_duplicates(subset=columnas_republicacion, keep="first")
+    removidos_por_republicacion = before_republicacion - len(df)
+    removed += removidos_por_republicacion
+
     df = df.sort_values(["anio", "trimestre", "expediente"]).reset_index(drop=True)
-    return df, removed
+    return df, removed, removidos_por_republicacion
 
 
 def main():
-    df, removed = clean()
+    df, removed, removidos_por_republicacion = clean()
     df.to_csv(OUT_FILE, index=False, encoding="utf-8")
 
     print(f"Filas de entrada (bronce): {removed + len(df)}")
-    print(f"Duplicados exactos eliminados: {removed}")
+    print(f"Duplicados eliminados (total): {removed}")
+    print(f"  De los cuales, republicados en el trimestre siguiente: {removidos_por_republicacion}")
     print(f"Filas finales: {len(df)}")
     print()
     print("Nulos tras limpieza:")

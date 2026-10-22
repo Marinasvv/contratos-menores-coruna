@@ -1,0 +1,8 @@
+tipo_contrato_key,tipo_contrato,umbral_sin_iva
+-1,no disponible,
+1,Concesion de obras publicas,
+2,Obras,40000.0
+3,Otros,15000.0
+4,Privado,
+5,Servicios,15000.0
+6,Suministros,15000.0
