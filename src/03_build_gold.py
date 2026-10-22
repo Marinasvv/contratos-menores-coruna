@@ -213,9 +213,17 @@ def build_dim_fecha() -> pd.DataFrame:
 
 def build_fact(df: pd.DataFrame, empresa_key, area_key, tipo_key, dim_tipo: pd.DataFrame) -> pd.DataFrame:
     fact = df.copy()
+    fecha = pd.to_datetime(fact["fecha_adjudicacion"])
+    # Si la fecha de adjudicacion cae fuera del periodo declarado (2019-2021),
+    # se trata como "no disponible" en vez de ampliar dim_fecha por un caso
+    # aislado. Caso real: expediente GEY/2019/18, fecha 2018-01-15 (un anio
+    # antes de nuestro periodo), publicado igualmente en el fichero de T1
+    # 2019 - el trimestre/anio de publicacion siguen correctos para
+    # trazabilidad, solo se pierde la fecha exacta para el eje temporal.
+    fecha_en_rango = fecha.notna() & (fecha >= FECHA_INICIO) & (fecha <= FECHA_FIN)
     fact["fecha_key"] = np.where(
-        fact["fecha_adjudicacion"].notna(),
-        pd.to_datetime(fact["fecha_adjudicacion"]).dt.strftime("%Y%m%d"),
+        fecha_en_rango,
+        fecha.dt.strftime("%Y%m%d"),
         None,
     )
     fact["fecha_key"] = fact["fecha_key"].fillna(str(CLAVE_NO_DISPONIBLE)).astype(int)
@@ -298,6 +306,13 @@ def main():
         subset=["expediente", "empresa_key", "importe_con_iva", "fecha_key", "objeto"]
     ).sum()
     print(f"  Filas de fact_contratos duplicadas en todo su contenido de negocio: {duplicados_fact}")
+    print()
+
+    print("=== Controles de integridad referencial (filas sin dimension correspondiente, deben ser 0) ===")
+    print(f"  fecha_key -> dim_fecha: {(~fact['fecha_key'].isin(dim_fecha['fecha_key'])).sum()}")
+    print(f"  empresa_key -> dim_empresa: {(~fact['empresa_key'].isin(dim_empresa['empresa_key'])).sum()}")
+    print(f"  area_key -> dim_area: {(~fact['area_key'].isin(dim_area['area_key'])).sum()}")
+    print(f"  tipo_contrato_key -> dim_tipo_contrato: {(~fact['tipo_contrato_key'].isin(dim_tipo['tipo_contrato_key'])).sum()}")
     print()
 
     print(f"Guardado en: {GOLD_DIR}")

@@ -159,6 +159,11 @@ ENV/
 env.bak/
 venv.bak/
 
+# Claves privadas (autenticacion Snowflake por par de claves)
+*.p8
+*.pem
+.secrets/
+
 # Spyder project settings
 .spyderproject
 .spyproject

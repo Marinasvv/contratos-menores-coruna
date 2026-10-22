@@ -1,3 +1,6 @@
 pandas>=2.2
 odfpy>=1.4
 openpyxl>=3.1
+numpy>=1.26
+snowflake-connector-python[pandas]>=3.10
+python-dotenv>=1.0

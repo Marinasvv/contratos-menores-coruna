@@ -8,8 +8,8 @@ Pipeline de datos (fuente pública → limpieza → Snowflake → SQL → Power 
 - **Página:** https://www.coruna.gal/transparencia/es/claridad-en-la-gestion/contratacion/contratos-menores?argIdioma=es
 - **Formato:** hoja de cálculo. T1-T3 2019 son `.xlsx`; T4 2019 y todo 2020-2021 son `.ods`. Un fichero por trimestre.
 - **Cobertura elegida:** 1 de enero de 2019 a 31 de diciembre de 2021 (3 años completos, 12 trimestres)
-- **Por qué este rango:** se eligió para poder comparar un año "normal" (2019) con el año de la pandemia (2020, estado de alarma desde marzo) y el año de recuperación (2021), y así responder si la contratación de emergencia por COVID dejó huella visible en los contratos menores. Nota importante: muchas compras urgentes de material sanitario/EPIs durante 2020 se tramitaron por la vía de "contratación de emergencia" (art. 120 LCSP), un régimen distinto al de "contrato menor" que por tanto puede no aparecer en este listado — un hueco o ausencia de pico también es un resultado válido a documentar, no un fallo de los datos. Esa vía nace con el art. 16 del RD-ley 7/2020, lo modifica el RD-ley 8/2020, pero el que **extiende el régimen de emergencia a los ayuntamientos** (y no solo a la Administración General del Estado) es el **RD-ley 9/2020** — el relevante para A Coruña.
-- **Base legal:** art. 63.4 de la LCSP (publicación trimestral de contratos menores). El umbral de "contrato menor" (art. 118.1 LCSP) se usó en la limpieza para resolver un importe ambiguo (ver sección de limpieza): **40.000 € para obras y 15.000 € para suministros/servicios**, sobre el valor estimado **sin IVA**. Verificado por varias fuentes secundarias independientes (instrucciones de contratación de universidades públicas, nota del Ministerio de Hacienda, derecholocal.es); el RD-ley 3/2020 (BOE 5/02/2020) modificó este artículo dentro de nuestro periodo pero no cambió estas cifras, solo añadió la exigencia de un informe de justificación. Pendiente: contrastar contra el texto consolidado en boe.es si se cita en la defensa, ya que las fuentes usadas son secundarias.
+- **Por qué este rango:** se eligió para poder comparar un año "normal" (2019) con el año de la pandemia (2020, estado de alarma desde marzo) y el año de recuperación (2021), y así responder si la contratación de emergencia por COVID dejó huella visible en los contratos menores.
+- **Base legal:** El RD-ley 3/2020 (BOE 5/02/2020) modificó este artículo dentro de nuestro periodo pero no cambió estas cifras, solo añadió la exigencia de un informe de justificación.
   - ⚠️ **El umbral legal excluye el IVA, pero nuestra columna `importe` lo incluye** (la propia cabecera del origen dice "Precio de adjudicación **con IVA**").
 
 | Fichero                                                | Periodo | Fecha descarga | URL                                                        |
@@ -29,7 +29,7 @@ Pipeline de datos (fuente pública → limpieza → Snowflake → SQL → Power 
 
 ## Extracción (`src/01_extract.py`)
 
-El portal no usa una plantilla estable entre trimestres. Esto se detectó mirando a mano, fichero a fichero, tanto los `.xlsx` (2019) como los `.ods` (2020-2021) con `pandas.read_excel(..., header=None)`, es decir, viendo la hoja "en crudo" antes de asumir dónde está la cabecera:
+El portal no usa una plantilla estable entre trimestres. Esto se detectó mirando a mano, fichero a fichero, tanto los `.xlsx` (2019) como los `.ods` (2020-2021) viendo la hoja "en crudo" antes de asumir dónde está la cabecera:
 
 - **"Plano"**: la cabecera ocupa la fila 0 y los datos empiezan en la fila 1. Solo ocurre en **T1 2019**. No tiene columna de tipo de contrato.
 - **"Con portada"**: varias filas de título y aviso legal (sobre la omisión del NIF de personas físicas), luego la fila de cabecera real (localizada buscando la celda `"Referencia"`) y una fila de subcabecera que se descarta. Es el formato de **T2, T3 y T4 2019, y de todo 2020 y 2021**.
@@ -88,10 +88,72 @@ Se distinguen dos situaciones que **no son lo mismo**, aunque las dos parezcan "
 
 Si se hubiera usado "mismo expediente + mismo importe + mismo NIF" como regla de duplicado, este segundo caso se habría borrado por error (los 27 vecinos comparten NIF `"*"` al estar anonimizados), perdiendo información real de transparencia. Por la misma razón, **no se usa una comparación "difusa" de nombres de empresa** como regla general (dar por duplicado todo lo que se parezca mucho habría arriesgado falsos positivos en otras filas) — el caso `105/2020/1266` de arriba se resolvió a mano, revisando el `.ods` original, no con una heurística automática de similitud de texto.
 
+## Carga y modelo en Snowflake (`src/03_build_gold.py` + `sql/ddl_gold.sql` + `src/04_load_snowflake.py`)
+
+### Grano del hecho
+
+Un expediente puede repartirse en varias líneas legítimas (`238/2019/118` tiene 6, `106/2020/72` tiene 27). **El grano declarado es una fila por línea de contrato publicada** (expediente + adjudicatario + importe) — la misma granularidad que ya tenía `contratos_menores_limpio.csv`.
+
+### Esquema en estrella
+
+```
+                    dim_fecha
+                        │
+dim_tipo_contrato ──  fact_contratos  ── dim_area
+                        │
+                    dim_empresa
+```
+
+- **`dim_fecha`**: un día natural por fila, generada para todo 2019-01-01 a 2021-12-31 (no solo los días con contrato), con `periodo_covid` (Pre-COVID / Estado de alarma / Post-estado de alarma). `fecha_key` es una clave "inteligente" (`20200315`), calculada con la misma fórmula en el hecho y en la dimensión.
+- **`dim_empresa`**: ver más abajo, es la dimensión con la decisión de diseño más importante.
+- **`dim_area`**: una fila por `area_departamento` distinto (43 áreas).
+- **`dim_tipo_contrato`**: una fila por categoría, con el **umbral legal sin IVA** (40.000 €/15.000 €) como atributo — así el umbral vive en el modelo, no hay que escribirlo a mano en cada consulta SQL del punto 4.
+- Todas las dimensiones tienen una fila `clave = -1`, `"no disponible"` (convención Kimball): así ninguna clave foránea del hecho es nunca `NULL` — los 807 contratos de T1 2019 sin `tipo_contrato` apuntan a `tipo_contrato_key = -1`, no a un hueco.
+
+### `dim_empresa`: por qué la clave es híbrida
+
+El NIF `"*"` (persona física anonimizada por la propia fuente) aparece en 953 filas, pero **no identifica a nadie**: son 454 personas distintas compartiendo ese mismo valor. Si se usara solo el NIF como clave, esas 454 personas colapsarían en una única fila de dimensión.
+
+Pero usar NIF+nombre tampoco vale para los NIF reales: hay **255 NIFs reales con más de un nombre distinto** en el dataset — typos (`"VILLAR ROSENDE, JSE ANTONIO"` vs `"...JOSE ANTONIO"`), nombres recortados (`"...ROSA MARIA"` vs `"...ROSA"`), problemas de codificación de tildes, e incluso un caso donde el propio NIF se coló dentro del campo nombre por error de tecleo (`"SAEZ PEREZ, RAMON 32839349H"`). Si se usara NIF+nombre siempre, esas 255 personas se partirían en varias filas de dimensión sin motivo real.
+
+**Regla aplicada** (clave híbrida, construida en `build_dim_empresa`):
+- `nif != "*"` → identidad = `nif` solo (el NIF es más fiable que el texto del nombre).
+- `nif == "*"` → identidad = `nif + nombre` (el NIF no distingue a nadie; el nombre, ya normalizado en la limpieza, es la única información que sí lo hace).
+
+
+`dim_empresa` también guarda `tipo_persona` (Persona jurídica / Persona física identificada / Persona física anonimizada) y `forma_juridica` (deducida de la primera letra del NIF — A=Sociedad Anónima, B=Sociedad Limitada, G=Asociación, H=Comunidad de Propietarios...). Se descubrió, de paso, que el Ayuntamiento fue anonimizando cada vez más estrictamente a las personas físicas con el tiempo: en 2019 el 70% de las personas físicas llevaba su DNI visible y el 30% ya anonimizado; en 2021 esa proporción es casi del 100% anonimizado.
+
+### Hechos (medidas en `fact_contratos`)
+
+- `importe_con_iva`: el dato publicado tal cual.
+- `importe_sin_iva_estimado` = `importe_con_iva / 1.21`: **supuesto documentado**.
+- `supera_umbral` / `cerca_umbral` (≥90% del umbral sin superarlo, mutuamente excluyentes)
+- Degeneradas (trazabilidad): `expediente`, `objeto`, `anio_publicacion`, `trimestre_publicacion`, `fila_origen`, `fichero_origen`. Se usa `anio_publicacion`/`trimestre_publicacion` (del fichero) y no el año/trimestre de `fecha_adjudicacion` para estos dos campos, a propósito: hay **15 filas** donde la fecha de adjudicación cae en un trimestre distinto al de publicación (ej. expediente `GEY/2019/18`, fecha `2018-01-15`, publicado en el fichero de T1 2019) — para la evolución temporal se usa la fecha real; para la trazabilidad, el trimestre en el que se publicó.
+
+### Hallazgo de duplicados al construir el modelo (ver también la sección de limpieza, regla 2)
+
+Al comprobar duplicados en `fact_contratos` sin año/trimestre, aparecieron **7 contratos de 2019 republicados tal cual en el trimestre siguiente** (mismo expediente, fecha, NIF, importe, objeto y área).
+
+### Hallazgo al cargar en Snowflake: fecha fuera del periodo declarado
+
+El control de integridad referencial (`fecha_key` de `fact_contratos` sin fila en `dim_fecha`) detectó un caso: el expediente `GEY/2019/18` tiene `fecha_adjudicacion = 2018-01-15`, **un año antes** de que empiece nuestro periodo (2019-2021), aunque se publicó igualmente en el fichero de T1 2019. No se amplió `dim_fecha` a 2018 por un único caso: se trata como `fecha_key = -1` ("no disponible"), igual que una fecha ausente. El `anio_publicacion`/`trimestre_publicacion` (2019/T1) se conservan correctos para trazabilidad; solo se pierde la fecha exacta para el eje temporal de Power BI, que de todas formas quedaría fuera de nuestro periodo de análisis.
+
+### Controles ejecutados
+
+`src/03_build_gold.py` imprime, cada vez que se ejecuta: la justificación numérica de la clave híbrida, conteo de filas por tabla, nulos en las 4 claves foráneas (deben ser 0), duplicados exactos en el hecho (deben ser 0) y **integridad referencial** (filas de `fact_contratos` sin fila correspondiente en cada dimensión — deben ser 0; así se detectó el caso de arriba). `src/04_load_snowflake.py` repite los cuatro controles **ya en Snowflake** (vía SQL), para comprobar que la carga real coincide con lo calculado en local.
+
+### Credenciales
+
+`SNOWFLAKE_ACCOUNT`, `SNOWFLAKE_USER`, `SNOWFLAKE_PASSWORD`, `SNOWFLAKE_WAREHOUSE`, `SNOWFLAKE_DATABASE`, `SNOWFLAKE_SCHEMA` se leen de `.env` (plantilla en `.env.example`, nunca versionado — ver `.gitignore`). El script falla con un mensaje claro si falta alguna.
+
+
 ```bash
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
 python src/01_extract.py
 python src/02_clean.py
+python src/03_build_gold.py
+# rellenar .env con las credenciales de Snowflake antes de este paso
+python src/04_load_snowflake.py
 ```
