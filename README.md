@@ -69,7 +69,7 @@ Lee `data/processed/bronze_contratos_menores.csv` y escribe `data/processed/cont
 Se distinguen dos situaciones que **no son lo mismo**, aunque las dos parezcan "un hueco":
 
 - **El dato no existe en el origen** → se marca como `no disponible`. Pasa con `tipo_contrato` en **todo T1 2019** (807 filas: ese trimestre no publicó esa columna), con 2 NIF realmente vacíos, y con los `expediente`/`objeto`/`area_departamento`/`empresa_adjudicataria` si llegaran vacíos (no ha pasado ningún caso real, pero queda cubierto).
-- **El dato está intencionadamente anonimizado por la propia fuente** → el NIF aparece como `"*"` en 953 filas. El propio fichero lo explica en su nota legal: se omite el NIF de las personas físicas adjudicatarias por protección de datos (Criterio interpretativo 4/2015 del Consejo de Transparencia). Esto **no** se convierte en `no disponible`: es un valor real y deliberado, no un hueco, y lo correcto es dejarlo tal cual y documentar por qué existe.
+- **El dato está intencionadamente anonimizado por la propia fuente** → el NIF aparece marcado con asteriscos en **1.144 filas**. El propio fichero lo explica en su nota legal: se omite el NIF de las personas físicas adjudicatarias por protección de datos. Esto **no** se convierte en `no disponible`. **Hallazgo (encontrado al construir `dim_empresa` en Snowflake, no en la limpieza inicial)**: la fuente no usa siempre el mismo marcador — la mayoría de trimestres usan `"*"` (953 filas), pero **T4 2021 usa `"*****"`** (5 asteriscos, 191 filas). Sin normalizarlo, esas 191 filas se trataban como "NIF real" en el modelado y se fundían **todas en una sola empresa falsa** bajo el nombre que saliera primero por casualidad — se corrigió tratando cualquier NIF compuesto solo de asteriscos (de cualquier longitud) como el mismo marcador `"*"`.
 - El único campo numérico que falta de verdad (1 importe, expediente `GA2/2019/49`, ver punto anterior) se deja vacío (`NaN`/nulo) en vez de con el texto `no disponible`, porque mezclar texto en una columna numérica rompería los cálculos en SQL/Power BI más adelante; se documenta aquí el recuento en vez de maquillarlo en la propia columna. (La única fecha que faltaba, expediente `231/2019/290`, se recuperó — ver punto 1.)
 
 ### 3. Duplicados
@@ -81,12 +81,18 @@ Se distinguen dos situaciones que **no son lo mismo**, aunque las dos parezcan "
 
 **Regla 2 (republicación entre trimestres)**: hallazgo posterior, al construir el modelo de Snowflake y comprobar duplicados en `fact_contratos` sin año/trimestre. **7 contratos de 2019** aparecen tal cual (mismo expediente, fecha, NIF, empresa, importe, objeto y área) en el fichero de un trimestre **y otra vez en el fichero del trimestre siguiente** (ej. `230/2019/224`, publicado en T2 y de nuevo en T3). No lo detectaba la regla 1 porque esa regla incluye año/trimestre a propósito — aquí es precisamente lo que hay que ignorar para verlo. Se elimina la copia más tardía y se conserva la primera publicación (ordenando por año/trimestre antes de aplicar la regla). Caso particular dentro de este grupo: el expediente `230/2019/158` se publicó en T1 2019 (sin `tipo_contrato`, como todo ese trimestre) y se repitió en T2 2019 (ya con `tipo_contrato = "Suministros"`) — por eso esta segunda regla **no** usa `tipo_contrato` como parte de la comparación, o se habría tratado como "distinto" solo por ese hueco estructural de T1 2019, no por ser un contrato diferente.
 
+**Regla 3 (misma transacción en dos fases administrativas)**: hallazgo al revisar a mano los 304 resultados de la consulta SQL del patrón "cerca del umbral legal" (punto 4). Mismo `expediente` + `nif` + `importe` + `empresa_adjudicataria`, pero con fecha semanas o meses posterior y el objeto de la segunda fila añadiendo el prefijo `"ADO - FRA. ..."` (Autorización-Disposición-Obligación + nº de factura, terminología de contabilidad pública) — es la misma compra pasando de fase de adjudicación a fase de aprobación de factura, no un gasto nuevo. **20 filas eliminadas**, ejemplo: expediente `861/2021/199` (TRADESEGUR), 18.089,50 € adjudicado en julio de 2021 y la misma cifra exacta reaparece en octubre con `"ADO - FRA. F21E-00574"` añadido al objeto. Se conserva la fecha más temprana (la adjudicación original).
+
+Dos casos de este grupo se dejaron **sin fusionar a propósito**, por ambigüedad real:
+- `GEY/2020/54` y `GEY/2020/64`: el objeto cita dos fechas de elección **reales y distintas** ("12 de xullo" y "5 de abril") — las elecciones autonómicas gallegas de 2020 estaban convocadas para el 5 de abril y se aplazaron al 12 de julio por el COVID. Podría ser un servicio prestado de verdad en la fecha aplazada, no una duplicación administrativa, y no hay forma de comprobarlo con este dato.
+- `10C/2021/8`: mismo importe y empresa, pero el objeto cita matrículas de vehículo **distintas** (`"1620 DYK"` vs `"0162 DYK"`, los mismos dígitos en otro orden) — podría ser un typo del mismo vehículo o dos compras reales para dos coches distintos al mismo precio de catálogo.
+
 **Por qué NO se usa el expediente como clave única de duplicado**: un mismo número de expediente puede repartirse legítimamente en varias líneas distintas, y no son duplicados:
 
 - El expediente `238/2019/118` tiene 6 líneas con el mismo expediente pero 6 empresas y conceptos distintos (alojamiento, catering, material, diseño...) — es un evento con varios proveedores bajo un mismo expediente.
 - El expediente `106/2020/72` tiene **27 líneas** con el mismo importe (9.075,00 €) y el mismo objeto, pero cada una a nombre de una persona distinta — es una reparación de un edificio repercutida a cada vecino de la comunidad de propietarios, no una fila repetida 27 veces por error.
 
-Si se hubiera usado "mismo expediente + mismo importe + mismo NIF" como regla de duplicado, este segundo caso se habría borrado por error (los 27 vecinos comparten NIF `"*"` al estar anonimizados), perdiendo información real de transparencia. Por la misma razón, **no se usa una comparación "difusa" de nombres de empresa** como regla general (dar por duplicado todo lo que se parezca mucho habría arriesgado falsos positivos en otras filas) — el caso `105/2020/1266` de arriba se resolvió a mano, revisando el `.ods` original, no con una heurística automática de similitud de texto.
+Si se hubiera usado "mismo expediente + mismo importe + mismo NIF" como regla de duplicado, este segundo caso se habría borrado por error (los 27 vecinos comparten NIF `"*"` al estar anonimizados), perdiendo información real de transparencia — **esto no es solo una advertencia teórica: pasó de verdad al escribir la regla 3**. La primera versión de esa regla usaba exactamente `expediente + nif + importe`, sin el nombre, y fusionó por error a los 27 vecinos de `106/2020/72` en una sola fila (detectado revisando el resultado antes de darlo por bueno, no automáticamente). Se corrigió añadiendo `empresa_adjudicataria` a la clave. Por la misma razón, **no se usa una comparación "difusa" de nombres de empresa** como regla general (dar por duplicado todo lo que se parezca mucho habría arriesgado falsos positivos en otras filas) — el caso `105/2020/1266` de arriba se resolvió a mano, revisando el `.ods` original, no con una heurística automática de similitud de texto.
 
 ## Carga y modelo en Snowflake (`src/03_build_gold.py` + `sql/ddl_gold.sql` + `src/04_load_snowflake.py`)
 
@@ -112,9 +118,9 @@ dim_tipo_contrato ──  fact_contratos  ── dim_area
 
 ### `dim_empresa`: por qué la clave es híbrida
 
-El NIF `"*"` (persona física anonimizada por la propia fuente) aparece en 953 filas, pero **no identifica a nadie**: son 454 personas distintas compartiendo ese mismo valor. Si se usara solo el NIF como clave, esas 454 personas colapsarían en una única fila de dimensión.
+El NIF `"*"` (persona física anonimizada por la propia fuente, ya unificado el marcador — ver sección de limpieza) aparece en 1.144 filas, pero **no identifica a nadie**: son 509 personas distintas compartiendo ese mismo valor. Si se usara solo el NIF como clave, esas 509 personas colapsarían en una única fila de dimensión.
 
-Pero usar NIF+nombre tampoco vale para los NIF reales: hay **255 NIFs reales con más de un nombre distinto** en el dataset — typos (`"VILLAR ROSENDE, JSE ANTONIO"` vs `"...JOSE ANTONIO"`), nombres recortados (`"...ROSA MARIA"` vs `"...ROSA"`), problemas de codificación de tildes, e incluso un caso donde el propio NIF se coló dentro del campo nombre por error de tecleo (`"SAEZ PEREZ, RAMON 32839349H"`). Si se usara NIF+nombre siempre, esas 255 personas se partirían en varias filas de dimensión sin motivo real.
+Pero usar NIF+nombre tampoco vale para los NIF reales: hay **254 NIFs reales con más de un nombre distinto** en el dataset — typos (`"VILLAR ROSENDE, JSE ANTONIO"` vs `"...JOSE ANTONIO"`), nombres recortados (`"...ROSA MARIA"` vs `"...ROSA"`), problemas de codificación de tildes, e incluso un caso donde el propio NIF se coló dentro del campo nombre por error de tecleo (`"SAEZ PEREZ, RAMON 32839349H"`). Si se usara NIF+nombre siempre, esas 255 personas se partirían en varias filas de dimensión sin motivo real.
 
 **Regla aplicada** (clave híbrida, construida en `build_dim_empresa`):
 - `nif != "*"` → identidad = `nif` solo (el NIF es más fiable que el texto del nombre).
@@ -146,6 +152,11 @@ El control de integridad referencial (`fecha_key` de `fact_contratos` sin fila e
 
 `SNOWFLAKE_ACCOUNT`, `SNOWFLAKE_USER`, `SNOWFLAKE_PASSWORD`, `SNOWFLAKE_WAREHOUSE`, `SNOWFLAKE_DATABASE`, `SNOWFLAKE_SCHEMA` se leen de `.env` (plantilla en `.env.example`, nunca versionado — ver `.gitignore`). El script falla con un mensaje claro si falta alguna.
 
+## SQL y análisis (`sql/analisis.sql`)
+
+6 consultas + 1 de control de calidad. Para "por año"/"por mes" se usa siempre la **fecha de adjudicación real** (`dim_fecha`), no el trimestre de publicación del fichero — ya vimos que no siempre coinciden.
+
+Ver explicación detallada de cada consulta en el propio archivo
 
 ```bash
 python -m venv .venv
@@ -156,4 +167,7 @@ python src/02_clean.py
 python src/03_build_gold.py
 # rellenar .env con las credenciales de Snowflake antes de este paso
 python src/04_load_snowflake.py
+# las consultas de sql/analisis.sql se ejecutan directamente en un
+# Worksheet de Snowsight, o con cualquier cliente conectado a la BD/esquema
+# del .env
 ```

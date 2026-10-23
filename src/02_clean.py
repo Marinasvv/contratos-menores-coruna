@@ -68,14 +68,26 @@ BUSINESS_COLUMNS = [
 # Correccion puntual de un alta duplicada por error de tecleo (revisado a
 # mano: expediente 105/2020/1266, T1 2020, filas 555 y 557 del .ods
 # original -> misma fecha, mismo NIF, mismo importe y la misma factura
-# "2019/25" en el objeto; solo cambia "SERVICIO" por "SERVICIOS"). Se
-# normaliza aqui, antes del filtro de duplicados, para que las dos filas
-# queden identicas y la regla de "fila idéntica en todo" se encargue de
-# eliminar la repetida. No es una regla generica de nombres parecidos:
-# es una correccion especifica para este caso ya verificado a mano.
+# "2019/25" en el objeto; solo cambia "SERVICIO" por "SERVICIOS"). 
 NOMBRE_EMPRESA_CORRECCIONES = {
     "SERVICIO DE HOSTELERIA OLLOMOL S.L.": "SERVICIOS DE HOSTELERIA OLLOMOL S.L.",
 }
+
+# Correcciones puntuales de area_departamento (revisado a mano, consulta de
+# apoyo en sql/analisis.sql): el mismo area aparece partida en dos filas por
+# un problema de codificacion del acento ("o"/"u" en vez de "o"/"u" con
+# tilde/dieresis) en algunos trimestres. 
+AREA_DEPARTAMENTO_CORRECCIONES = {
+    "REHABILITACIoN Y VIVENDA RV1000": "REHABILITACIÓN Y VIVENDA RV1000",
+    "NORMALIZACION LINGuISTICA GA2000": "NORMALIZACION LINGÜISTICA GA2000",
+}
+
+# Caso puntual (expediente GA2/2021/36, T3 2021, fila 448 del .ods): el area
+# llegaba como "NORMALIZACION LINGÜISTICAA2:L615 GA2000" - un rango de celda
+# de Excel ("A2:L615") colado dentro del texto por error de quien compilo el
+# fichero origen. Se quita cualquier patron con esa forma (letra(s)+numero
+# : letra(s)+numero) antes de aplicar las correcciones de arriba.
+_PATRON_RANGO_EXCEL = re.compile(r"[A-Z]{1,2}\d+:[A-Z]{1,2}\d+")
 
 _PATRON_MILES_SIN_COMA = re.compile(r"^\d{1,3}(\.\d{3})+\.\d{2}$")
 
@@ -94,11 +106,7 @@ def _parse_importe(valor):
         s = s.replace(",", ".")
     elif _PATRON_MILES_SIN_COMA.match(s):
         # Caso puntual (expediente AD0/2021/130): "9.399.28" sin ninguna
-        # coma. La agrupacion en grupos de 3 digitos + 2 decimales finales
-        # coincide exactamente con el formato espanol de moneda; el unico
-        # error es que el separador decimal es un punto en vez de una coma
-        # (un solo caracter mal tecleado, igual que el caso de la fecha
-        # "08/082019"). Se reconstruye uniendo los grupos de miles y usando
+        # coma. Se reconstruye uniendo los grupos de miles y usando
         # los 2 ultimos digitos como decimales.
         grupos = s.split(".")
         s = "".join(grupos[:-1]) + "." + grupos[-1]
@@ -121,9 +129,7 @@ def _parse_fecha(serie: pd.Series) -> pd.Series:
         fecha.loc[pendientes] = fecha_dayfirst
 
     # Caso puntual (expediente 231/2019/290): "08/082019" en vez de
-    # "08/08/2019". A diferencia del importe "9.399.28 €" (ambiguo, varias
-    # lecturas posibles), aqui solo falta UN caracter (la barra entre mes y
-    # anio) y solo hay una reconstruccion razonable, asi que se recupera.
+    # "08/08/2019".
     pendientes = fecha.isna() & serie.notna()
     if pendientes.any():
         reconstruida = serie[pendientes].str.replace(
@@ -143,24 +149,25 @@ def _normalize_tipo_contrato(valor):
 
 
 def _normalize_espacios(serie: pd.Series) -> pd.Series:
-    """Colapsa espacios dobles/sueltos y quita el espacio antes de una coma
-    (p. ej. 'ANTELO LAVANDEIRA , CLAUDIO' -> 'ANTELO LAVANDEIRA, CLAUDIO').
-    Es una regla general de formato, no una correccion de un caso concreto:
-    sin ella, 1.795 filas de 'empresa_adjudicataria' y 1.154 de 'objeto'
-    tendrian variantes de la misma persona/texto partidas por un espacio,
-    lo que rompe cualquier cosa que agrupe por ese campo mas adelante
-    (p. ej. dim_empresa en el modelo de Snowflake).
-    """
+    """Colapsa espacios dobles/sueltos y quita el espacio antes de una coma"""
     s = serie.str.strip()
     s = s.str.replace(r"\s+", " ", regex=True)
     s = s.str.replace(r"\s+,", ",", regex=True)
     return s
 
 
+_PATRON_NIF_ANONIMIZADO = re.compile(r"^\*+$")
+
+
 def _normalize_nif(valor):
     if pd.isna(valor):
         return NO_DISPONIBLE
     v = str(valor).strip()
+    if _PATRON_NIF_ANONIMIZADO.match(v):
+        # La fuente no usa siempre el mismo marcador de anonimizacion: la
+        # mayoria de trimestres usan "*", pero T4 2021 usa "*****" (191
+        # filas).
+        return "*"
     return v  # "*" se deja tal cual: es una anonimizacion deliberada de la fuente, no un hueco
 
 
@@ -179,6 +186,9 @@ def clean() -> pd.DataFrame:
     df["empresa_adjudicataria"] = _normalize_espacios(df["empresa_adjudicataria"])
     df["empresa_adjudicataria"] = df["empresa_adjudicataria"].replace(NOMBRE_EMPRESA_CORRECCIONES)
     df["objeto"] = _normalize_espacios(df["objeto"])
+    df["area_departamento"] = df["area_departamento"].str.replace(_PATRON_RANGO_EXCEL, "", regex=True)
+    df["area_departamento"] = _normalize_espacios(df["area_departamento"])
+    df["area_departamento"] = df["area_departamento"].replace(AREA_DEPARTAMENTO_CORRECCIONES)
     df["fecha_adjudicacion"] = _parse_fecha(df["fecha_adjudicacion"])
     df["importe"] = df["importe"].apply(_parse_importe)
     df["tipo_contrato"] = df["tipo_contrato"].apply(_normalize_tipo_contrato)
@@ -223,17 +233,41 @@ def clean() -> pd.DataFrame:
     removidos_por_republicacion = before_republicacion - len(df)
     removed += removidos_por_republicacion
 
+    # 3c. Misma transaccion en dos fases administrativas distintas: mismo
+    # expediente + NIF + importe, pero con fecha semanas/meses posterior y
+    # el objeto de la segunda fila añadiendo el prefijo "ADO - FRA. ..."
+    #
+    # Se excluyen a proposito los expedientes GEY/2020/54 y GEY/2020/64: su
+    # objeto cita dos fechas de eleccion REALES distintas (5 de abril,
+    # aplazada por el COVID, y 12 de julio, la definitiva).
+    # Tambien se incluye empresa_adjudicataria en la clave: el NIF "*" no
+    # identifica a nadie (lo vimos al diseñar dim_empresa).
+    # 10C/2021/8 tambien se excluye: mismo importe y empresa, pero el
+    # objeto cita matriculas de vehiculo DISTINTAS
+    EXPEDIENTES_EXCLUIDOS_FASE_ADMINISTRATIVA = {"GEY/2020/54", "GEY/2020/64", "10C/2021/8"}
+    columnas_fase_administrativa = ["expediente", "nif", "importe", "empresa_adjudicataria"]
+
+    excluidos = df["expediente"].isin(EXPEDIENTES_EXCLUIDOS_FASE_ADMINISTRATIVA)
+    df_depurable = df[~excluidos].sort_values(["fecha_adjudicacion"])
+    before_fase = len(df_depurable)
+    df_depurable = df_depurable.drop_duplicates(subset=columnas_fase_administrativa, keep="first")
+    removidos_por_fase_administrativa = before_fase - len(df_depurable)
+    removed += removidos_por_fase_administrativa
+
+    df = pd.concat([df_depurable, df[excluidos]], ignore_index=True)
+
     df = df.sort_values(["anio", "trimestre", "expediente"]).reset_index(drop=True)
-    return df, removed, removidos_por_republicacion
+    return df, removed, removidos_por_republicacion, removidos_por_fase_administrativa
 
 
 def main():
-    df, removed, removidos_por_republicacion = clean()
+    df, removed, removidos_por_republicacion, removidos_por_fase_administrativa = clean()
     df.to_csv(OUT_FILE, index=False, encoding="utf-8")
 
     print(f"Filas de entrada (bronce): {removed + len(df)}")
     print(f"Duplicados eliminados (total): {removed}")
     print(f"  De los cuales, republicados en el trimestre siguiente: {removidos_por_republicacion}")
+    print(f"  De los cuales, misma transaccion en 2 fases administrativas (adjudicacion + ADO-FRA): {removidos_por_fase_administrativa}")
     print(f"Filas finales: {len(df)}")
     print()
     print("Nulos tras limpieza:")
